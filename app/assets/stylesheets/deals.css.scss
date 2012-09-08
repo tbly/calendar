@@ -1,0 +1,508 @@
+#calendar {
+	margin-left:10px;
+}
+
+.content {
+	background-image:none;
+}
+
+#eventcategories {
+	color: #375D87;
+	font-size:13px;
+	margin-left:5px;
+	
+
+}
+
+
+#eventcategories a {
+	color: #3D82C5;
+	font-size:12px;
+	
+
+}
+
+#eventcategories h1 {
+	color: #375D87;
+	font-size:16px;
+	font-weight:bold;
+	text-transform:uppercase;
+	
+	
+
+}
+
+#eventcategories p {
+
+	color: #375D87;
+
+}
+
+
+
+.checkboxnotavailable {
+	color:#babbba;
+	margin-top:6px;
+	margin-bottom:6px;
+	margin-left:-5px;
+}
+
+.eventarrows {
+	font-weight:bold;
+	font-size:14px;
+	color:#3d82c5;
+	text-transform:uppercase;
+	margin-top:25px;
+	}
+
+
+.eventarrows a {
+	
+	color: #3D82C5;
+}
+
+	
+
+
+#whiteeventsboxexpand {
+	height:auto
+}
+
+
+.greenbox h3 {
+  color: #555555;
+  font-size: 14px;
+  margin-left: 12px;
+  text-transform: uppercase;
+  padding-top:4px;
+  padding-bottom:3px;
+}
+
+
+
+.rightcolumn {
+	width:234px;
+}
+
+#eventsearch {
+	color:#375d87;
+	font-size:13px;
+	margin-left:5px;
+	
+
+}
+
+
+#eventsearch a {
+	color:#3d82c5;
+	font-size:12px;
+	
+
+}
+
+#eventsearch img {
+	margin-bottom:-6px;
+	
+
+}
+
+#eventsearch h1 {
+	color:#375d87;
+	font-size:16px;
+	font-weight:bold;
+	text-transform:uppercase;
+	margin-left:5px;
+	
+
+}
+
+
+
+.eventsearchsmalltxt {
+	font-size:12px;
+	font-weight:normal;
+}
+
+
+#intheweekahead h2 {
+  color: #207224;
+  font-family: "Arial Black",Gadget,sans-serif;
+  font-size: 16px;
+  font-weight: bold;
+  margin-bottom: 10px;
+  margin-top: -5px;
+  text-transform: uppercase;
+  margin-left:-5px;
+}
+
+.greenrow {
+	background-color:#D2F7D1;
+	padding-top:4px;
+	padding-bottom:2px;
+	padding-left:5px;
+	padding-right:5px;
+	margin-left:-5px;
+	  color: #555555;
+  font-size: 12px;
+  text-transform: uppercase;
+  font-weight:bold;
+}
+
+
+#microdeal {
+	padding-left:0px;
+	font-size:12px;
+	font-weight:bold;	
+	width:386px;
+	padding-top:8px;
+	padding-bottom:8px;
+	min-height:0px;
+}
+
+#microdeal a {
+	font-size:12px;
+	color:#0fb225;
+}
+
+#microdeal a:hover {
+color:#12d02c;
+}
+
+.hiddendeal {
+	color:#919191;
+	padding-top:8px;
+	padding-bottom:8px;
+	
+	font-size:13px;
+	font-weight:bold;
+}
+
+#intheweekahead {
+	margin-top:20px;
+	
+	width:236;
+}
+
+#todayscoupons h1 {
+color: #207224;
+font-family: "Arial Black",Gadget,sans-serif;
+font-size: 20px;
+font-weight: bold;
+margin-bottom: 10px;
+margin-top: -5px;
+text-transform: uppercase;
+text-align:center;
+}
+
+
+.coupon {
+	padding:12px;
+	background-color:#fef8cb;
+	border-bottom:2px solid #ffed80;
+	border-left:4px solid #ffed80;
+	border-right:4px solid #ffed80;
+	font-weight:bold;
+	text-transform:uppercase;
+	line-height:1;
+	padding-top:8px;
+	padding-bottom:26px;
+}
+
+#coupontop {
+	border-top:4px solid #ffed80;
+	/*border-radius: 15px 15px 0px 0px;*/
+}
+
+#couponbottom {
+	border-bottom:4px solid #ffed80;
+	/*border-radius: 0px 0px 15px 15px;*/
+}
+
+.coupontitle a {
+	font-size:14px;
+	color:#0fb225;
+}
+
+.coupontitle a:hover {
+color:#12d02c;
+}
+
+.couponlocation {
+	font-size:12px;
+	color:#207224;
+	margin-top:3px;
+}
+
+.getcoupon a {
+	font-size:11px;
+	color:#0fb225;
+}
+
+.getcoupon a:hover {
+color:#12d02c;
+}
+
+.arrowtextleft {
+	float:left; 
+	margin-top:3px; 
+	margin-right:3px;
+}
+
+#couponarrowrightcolumn {
+	float:left;
+	padding-left:0px;
+	margin-top:4px;
+}
+
+#microdealimgmargin {
+	margin-top:0px;
+}
+
+#arrowtxtrightcolumn {
+  margin-top: 2px;
+}
+
+#dealsleftcolumn a:hover {
+	color:#4da7ff
+}
+
+#littledealtitle {
+	line-height:1;
+	margin-bottom:0px;
+	margin-left:0px;
+}
+
+.coupondetails {
+	margin-left:80px;
+	margin-top:30px;
+	border:1px #333 solid;
+	-moz-border-radius: 10px;
+-webkit-border-radius: 10px;
+border-radius: 10px;
+padding:25px;
+width:520px;
+
+}
+
+.closebtn a {
+	float:right;
+	margin-top:-20px;
+	margin-right:-20px;
+}
+
+.closebtn a:hover {
+	opacity:.5;
+}
+
+.coupondetails h1 {
+	color: #207224;
+font-family: "Arial Black",Gadget,sans-serif;
+font-size: 20px;
+font-weight: bold;
+margin-bottom: 10px;
+margin-top: -5px;
+text-transform: uppercase;
+}
+
+.share {
+	float:right;
+	margin-right:15px;
+	
+	
+	
+}
+
+.share li {
+	display:inline;
+	margin-left:5px;
+	font-size:14px;
+	
+	
+}
+
+.share a {
+	vertical-align:middle;
+	
+}
+
+.share a:hover {
+	opacity:.5; 
+	
+}
+
+.print {
+	color:#207224;
+	font-size:14px;
+}
+
+.print a {
+	color:#0fb225;
+}
+
+.print a:hover {
+	color:#207224;
+}
+
+.couponlogo {
+	
+	
+}
+
+.couponcutout {
+	width:320px;
+	padding:25px;
+	background-color:#ffff97;
+	border:4px #ffd400 dashed;
+	margin-left:auto;
+	margin-right:auto; 
+	margin-bottom:75px;
+	margin-top:25px;
+}
+
+.couponcutout h2 {
+	font-family:"Arial Black", Gadget, sans-serif;
+	font-size:21px;
+	text-transform:uppercase;
+	color:#333333;
+}
+
+.couponcutout p {
+	font-size:12px;
+	font-weight:bold;
+	color:#333333;
+	margin-top:10px;
+	margin-bottom:15px;
+}
+
+.couponcutout h3 {
+	text-align:center;
+	font-size:18px;
+	font-weight:bold;
+	color:#207224;
+}
+
+.couponaddressphoneweb {
+	text-align:center;
+	margin-bottom:15px;
+	margin-top:2px;
+	line-height:1;
+}
+
+.couponaddressphoneweb a {
+	
+	font-size:12px;
+	font-weight:bold;
+	color:#207224;
+	
+}
+
+.couponaddressphoneweb a:hover {
+	color:#0fb225;
+}
+
+.couponcutout h4 {
+	text-align:center;
+	font-size:16px;
+	font-weight:bold;
+	color:#333333;
+}
+
+.couponexpiration {
+	text-align:center;
+	font-size:12px;
+	font-weight:bold;
+	color:#333333;
+	margin-bottom:15px;
+	
+	
+}
+
+.couponfineprint {
+	font-size:11px;
+	color:#333333;
+	
+}
+
+
+
+
+
+.events h1 {
+font-size: 20px;
+color:#207224;
+text-transform: uppercase;
+margin-top: -8px;
+margin-bottom: 10px;
+font-family: "Arial Black",Gadget,sans-serif;
+}
+
+
+#eventdetailstitle {
+	margin-left:0px;
+	margin-bottom:10px;
+	font-size:18px;
+	font-weight: bold;
+color: #0FB225;
+text-transform: uppercase;
+}
+
+
+
+.eventdetailslocation {
+color: #207224;
+text-transform: uppercase;
+font-size: 15px;
+font-weight: bold;
+}
+
+
+#eventdetail h5 {
+font-size: 14px;
+font-weight: bold;
+color: #8db98c;
+font-weight: bold;
+text-transform: uppercase;
+margin-top: -3px;
+}
+
+
+#eventdetail h4 {
+font-size: 14px;
+}
+
+.moredates a {
+font-size: 12px;
+text-transform: capitalize;
+font-weight: normal;
+}
+
+
+#eventdetail a {
+color: #3D82C5;
+}
+
+#eventdetail p {
+margin-top: 15px;
+font-size: 14px;
+}
+
+#eventdetail .bold {
+font-weight: bold;
+}
+
+#eventdetail p {
+font-size: 14px;
+}
+
+#eventdetail a {
+color: #3D82C5;
+}
+
+.eventdetailsmap {
+margin-top: 15px;
+}
+
+.eventdetailsimg {
+border: 5px #8db98c solid;
+margin-left: 10px;
+}

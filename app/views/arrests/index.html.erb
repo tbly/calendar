@@ -1,0 +1,30 @@
+<div class="content">
+  <div class="arrestcolumn">
+    <div class="arrestboxtitle">
+      <h1>Iowa City Police Blotter</h1>
+    </div>
+
+    <div class="arrestboxmiddle">
+      <div class="arrests" id="arrestspagearrests">
+        <div class="bluearrestsbox">
+          <% @arrest_dates.each do |arrest_date| %>
+          <h3><%= format_arrest_date( arrest_date ) %></h3>
+
+          <div class="whitearrestsbox">
+            <% @arrests.select{|a| a.date == arrest_date}.each do |arrest| %>
+            <div class="arrest"> 
+              <div class="righttxt">
+                <div class="title"><%= link_to( arrest.name, arrest ) %></div>
+                <h5><%= format_info( arrest ) %></h5>
+                <%= format_charges( arrest.charges ) %>
+              </div>
+            </div>
+            <% end %>
+          </div>
+
+          <% end %>
+        </div>
+        <%= paginate( @arrests ) %>
+    </div>
+  </div>
+</div>

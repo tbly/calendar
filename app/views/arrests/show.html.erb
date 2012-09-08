@@ -1,0 +1,67 @@
+<div class="content">
+  <p id="notice"><%= notice %></p>
+
+  <div class="arrestcolumn">
+    <div class="arrestboxtitle">
+      <h1>Arrest Record</h1>
+    </div>
+
+    <div class="arrestboxmiddle">
+      <div class="arrestdetails">
+        <p>
+          <b>Name:</b>
+          <%= @arrest.name %>
+        </p>
+
+        <p>
+          <b>Address:</b>
+          <%= @arrest.address %>
+        </p>
+
+        <p>
+          <b>Date:</b>
+          <%= @arrest.date %>
+        </p>
+
+        <p>
+          <b>Dob:</b>
+          <%= @arrest.dob %>
+        </p>
+
+        <p>
+          <b>Age:</b>
+          <%= @arrest.age %>
+        </p>
+
+        <p>
+          <b>Location:</b>
+          <%= @arrest.location %>
+        </p>
+
+        <p>
+          <b>Incident:</b>
+          <%= @arrest.incident %>
+        </p>
+
+        <p>
+          <b>Cited:</b>
+          <%= @arrest.cited %>
+        </p>
+
+        <p>
+          <b>Arrested:</b>
+          <%= @arrest.arrested %>
+        </p>
+
+        <p>
+          <b>Charges:</b>
+          <%= @arrest.charges %>
+        </p>
+      </div>
+    </div>
+
+    <div class="arrestnav">
+      <%= link_to "« Back", arrests_path %>
+    </div>
+  </div>
+</div>

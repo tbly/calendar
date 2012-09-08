@@ -1,0 +1,2520 @@
+/*
+ * This is a manifest file that'll automatically include all the stylesheets available in this directory
+ * and any sub-directories. You're free to add application-wide styles to this file and they'll appear at
+ * the top of the compiled file, but it's generally better to create a new file per style scope.
+
+*/
+/* CSS Document */
+/* line 4, ../../app/assets/stylesheets/ie.css.scss */
+#navbackgroundcolorchange {
+  padding-bottom: 5px !important;
+  padding-top: 15px !important;
+}
+
+/* line 9, ../../app/assets/stylesheets/ie.css.scss */
+#arrowtxtrightcolumn {
+  margin-top: -2px !important;
+}
+
+/* line 1, ../../app/assets/stylesheets/deals.css.scss */
+#calendar {
+  margin-left: 10px;
+}
+
+/* line 5, ../../app/assets/stylesheets/deals.css.scss */
+.content {
+  background-image: none;
+}
+
+/* line 9, ../../app/assets/stylesheets/deals.css.scss */
+#eventcategories {
+  color: #375D87;
+  font-size: 13px;
+  margin-left: 5px;
+}
+
+/* line 18, ../../app/assets/stylesheets/deals.css.scss */
+#eventcategories a {
+  color: #3D82C5;
+  font-size: 12px;
+}
+
+/* line 25, ../../app/assets/stylesheets/deals.css.scss */
+#eventcategories h1 {
+  color: #375D87;
+  font-size: 16px;
+  font-weight: bold;
+  text-transform: uppercase;
+}
+
+/* line 35, ../../app/assets/stylesheets/deals.css.scss */
+#eventcategories p {
+  color: #375D87;
+}
+
+/* line 43, ../../app/assets/stylesheets/deals.css.scss */
+.checkboxnotavailable {
+  color: #babbba;
+  margin-top: 6px;
+  margin-bottom: 6px;
+  margin-left: -5px;
+}
+
+/* line 50, ../../app/assets/stylesheets/deals.css.scss */
+.eventarrows {
+  font-weight: bold;
+  font-size: 14px;
+  color: #3d82c5;
+  text-transform: uppercase;
+  margin-top: 25px;
+}
+
+/* line 59, ../../app/assets/stylesheets/deals.css.scss */
+.eventarrows a {
+  color: #3D82C5;
+}
+
+/* line 67, ../../app/assets/stylesheets/deals.css.scss */
+#whiteeventsboxexpand {
+  height: auto;
+}
+
+/* line 72, ../../app/assets/stylesheets/deals.css.scss */
+.greenbox h3 {
+  color: #555555;
+  font-size: 14px;
+  margin-left: 12px;
+  text-transform: uppercase;
+  padding-top: 4px;
+  padding-bottom: 3px;
+}
+
+/* line 83, ../../app/assets/stylesheets/deals.css.scss */
+.rightcolumn {
+  width: 234px;
+}
+
+/* line 87, ../../app/assets/stylesheets/deals.css.scss */
+#eventsearch {
+  color: #375d87;
+  font-size: 13px;
+  margin-left: 5px;
+}
+
+/* line 96, ../../app/assets/stylesheets/deals.css.scss */
+#eventsearch a {
+  color: #3d82c5;
+  font-size: 12px;
+}
+
+/* line 103, ../../app/assets/stylesheets/deals.css.scss */
+#eventsearch img {
+  margin-bottom: -6px;
+}
+
+/* line 109, ../../app/assets/stylesheets/deals.css.scss */
+#eventsearch h1 {
+  color: #375d87;
+  font-size: 16px;
+  font-weight: bold;
+  text-transform: uppercase;
+  margin-left: 5px;
+}
+
+/* line 121, ../../app/assets/stylesheets/deals.css.scss */
+.eventsearchsmalltxt {
+  font-size: 12px;
+  font-weight: normal;
+}
+
+/* line 127, ../../app/assets/stylesheets/deals.css.scss */
+#intheweekahead h2 {
+  color: #207224;
+  font-family: "Arial Black",Gadget,sans-serif;
+  font-size: 16px;
+  font-weight: bold;
+  margin-bottom: 10px;
+  margin-top: -5px;
+  text-transform: uppercase;
+  margin-left: -5px;
+}
+
+/* line 138, ../../app/assets/stylesheets/deals.css.scss */
+.greenrow {
+  background-color: #D2F7D1;
+  padding-top: 4px;
+  padding-bottom: 2px;
+  padding-left: 5px;
+  padding-right: 5px;
+  margin-left: -5px;
+  color: #555555;
+  font-size: 12px;
+  text-transform: uppercase;
+  font-weight: bold;
+}
+
+/* line 152, ../../app/assets/stylesheets/deals.css.scss */
+#microdeal {
+  padding-left: 0px;
+  font-size: 12px;
+  font-weight: bold;
+  width: 386px;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  min-height: 0px;
+}
+
+/* line 162, ../../app/assets/stylesheets/deals.css.scss */
+#microdeal a {
+  font-size: 12px;
+  color: #0fb225;
+}
+
+/* line 167, ../../app/assets/stylesheets/deals.css.scss */
+#microdeal a:hover {
+  color: #12d02c;
+}
+
+/* line 171, ../../app/assets/stylesheets/deals.css.scss */
+.hiddendeal {
+  color: #919191;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  font-size: 13px;
+  font-weight: bold;
+}
+
+/* line 180, ../../app/assets/stylesheets/deals.css.scss */
+#intheweekahead {
+  margin-top: 20px;
+  width: 236;
+}
+
+/* line 186, ../../app/assets/stylesheets/deals.css.scss */
+#todayscoupons h1 {
+  color: #207224;
+  font-family: "Arial Black",Gadget,sans-serif;
+  font-size: 20px;
+  font-weight: bold;
+  margin-bottom: 10px;
+  margin-top: -5px;
+  text-transform: uppercase;
+  text-align: center;
+}
+
+/* line 198, ../../app/assets/stylesheets/deals.css.scss */
+.coupon {
+  padding: 12px;
+  background-color: #fef8cb;
+  border-bottom: 2px solid #ffed80;
+  border-left: 4px solid #ffed80;
+  border-right: 4px solid #ffed80;
+  font-weight: bold;
+  text-transform: uppercase;
+  line-height: 1;
+  padding-top: 8px;
+  padding-bottom: 26px;
+}
+
+/* line 211, ../../app/assets/stylesheets/deals.css.scss */
+#coupontop {
+  border-top: 4px solid #ffed80;
+  /*border-radius: 15px 15px 0px 0px;*/
+}
+
+/* line 216, ../../app/assets/stylesheets/deals.css.scss */
+#couponbottom {
+  border-bottom: 4px solid #ffed80;
+  /*border-radius: 0px 0px 15px 15px;*/
+}
+
+/* line 221, ../../app/assets/stylesheets/deals.css.scss */
+.coupontitle a {
+  font-size: 14px;
+  color: #0fb225;
+}
+
+/* line 226, ../../app/assets/stylesheets/deals.css.scss */
+.coupontitle a:hover {
+  color: #12d02c;
+}
+
+/* line 230, ../../app/assets/stylesheets/deals.css.scss */
+.couponlocation {
+  font-size: 12px;
+  color: #207224;
+  margin-top: 3px;
+}
+
+/* line 236, ../../app/assets/stylesheets/deals.css.scss */
+.getcoupon a {
+  font-size: 11px;
+  color: #0fb225;
+}
+
+/* line 241, ../../app/assets/stylesheets/deals.css.scss */
+.getcoupon a:hover {
+  color: #12d02c;
+}
+
+/* line 245, ../../app/assets/stylesheets/deals.css.scss */
+.arrowtextleft {
+  float: left;
+  margin-top: 3px;
+  margin-right: 3px;
+}
+
+/* line 251, ../../app/assets/stylesheets/deals.css.scss */
+#couponarrowrightcolumn {
+  float: left;
+  padding-left: 0px;
+  margin-top: 4px;
+}
+
+/* line 257, ../../app/assets/stylesheets/deals.css.scss */
+#microdealimgmargin {
+  margin-top: 0px;
+}
+
+/* line 261, ../../app/assets/stylesheets/deals.css.scss */
+#arrowtxtrightcolumn {
+  margin-top: 2px;
+}
+
+/* line 265, ../../app/assets/stylesheets/deals.css.scss */
+#dealsleftcolumn a:hover {
+  color: #4da7ff;
+}
+
+/* line 269, ../../app/assets/stylesheets/deals.css.scss */
+#littledealtitle {
+  line-height: 1;
+  margin-bottom: 0px;
+  margin-left: 0px;
+}
+
+/* line 275, ../../app/assets/stylesheets/deals.css.scss */
+.coupondetails {
+  margin-left: 80px;
+  margin-top: 30px;
+  border: 1px #333 solid;
+  -moz-border-radius: 10px;
+  -webkit-border-radius: 10px;
+  border-radius: 10px;
+  padding: 25px;
+  width: 520px;
+}
+
+/* line 287, ../../app/assets/stylesheets/deals.css.scss */
+.closebtn a {
+  float: right;
+  margin-top: -20px;
+  margin-right: -20px;
+}
+
+/* line 293, ../../app/assets/stylesheets/deals.css.scss */
+.closebtn a:hover {
+  opacity: .5;
+}
+
+/* line 297, ../../app/assets/stylesheets/deals.css.scss */
+.coupondetails h1 {
+  color: #207224;
+  font-family: "Arial Black",Gadget,sans-serif;
+  font-size: 20px;
+  font-weight: bold;
+  margin-bottom: 10px;
+  margin-top: -5px;
+  text-transform: uppercase;
+}
+
+/* line 307, ../../app/assets/stylesheets/deals.css.scss */
+.share {
+  float: right;
+  margin-right: 15px;
+}
+
+/* line 315, ../../app/assets/stylesheets/deals.css.scss */
+.share li {
+  display: inline;
+  margin-left: 5px;
+  font-size: 14px;
+}
+
+/* line 323, ../../app/assets/stylesheets/deals.css.scss */
+.share a {
+  vertical-align: middle;
+}
+
+/* line 328, ../../app/assets/stylesheets/deals.css.scss */
+.share a:hover {
+  opacity: .5;
+}
+
+/* line 333, ../../app/assets/stylesheets/deals.css.scss */
+.print {
+  color: #207224;
+  font-size: 14px;
+}
+
+/* line 338, ../../app/assets/stylesheets/deals.css.scss */
+.print a {
+  color: #0fb225;
+}
+
+/* line 342, ../../app/assets/stylesheets/deals.css.scss */
+.print a:hover {
+  color: #207224;
+}
+
+/* line 351, ../../app/assets/stylesheets/deals.css.scss */
+.couponcutout {
+  width: 320px;
+  padding: 25px;
+  background-color: #ffff97;
+  border: 4px #ffd400 dashed;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 75px;
+  margin-top: 25px;
+}
+
+/* line 362, ../../app/assets/stylesheets/deals.css.scss */
+.couponcutout h2 {
+  font-family: "Arial Black", Gadget, sans-serif;
+  font-size: 21px;
+  text-transform: uppercase;
+  color: #333333;
+}
+
+/* line 369, ../../app/assets/stylesheets/deals.css.scss */
+.couponcutout p {
+  font-size: 12px;
+  font-weight: bold;
+  color: #333333;
+  margin-top: 10px;
+  margin-bottom: 15px;
+}
+
+/* line 377, ../../app/assets/stylesheets/deals.css.scss */
+.couponcutout h3 {
+  text-align: center;
+  font-size: 18px;
+  font-weight: bold;
+  color: #207224;
+}
+
+/* line 384, ../../app/assets/stylesheets/deals.css.scss */
+.couponaddressphoneweb {
+  text-align: center;
+  margin-bottom: 15px;
+  margin-top: 2px;
+  line-height: 1;
+}
+
+/* line 391, ../../app/assets/stylesheets/deals.css.scss */
+.couponaddressphoneweb a {
+  font-size: 12px;
+  font-weight: bold;
+  color: #207224;
+}
+
+/* line 399, ../../app/assets/stylesheets/deals.css.scss */
+.couponaddressphoneweb a:hover {
+  color: #0fb225;
+}
+
+/* line 403, ../../app/assets/stylesheets/deals.css.scss */
+.couponcutout h4 {
+  text-align: center;
+  font-size: 16px;
+  font-weight: bold;
+  color: #333333;
+}
+
+/* line 410, ../../app/assets/stylesheets/deals.css.scss */
+.couponexpiration {
+  text-align: center;
+  font-size: 12px;
+  font-weight: bold;
+  color: #333333;
+  margin-bottom: 15px;
+}
+
+/* line 420, ../../app/assets/stylesheets/deals.css.scss */
+.couponfineprint {
+  font-size: 11px;
+  color: #333333;
+}
+
+/* line 430, ../../app/assets/stylesheets/deals.css.scss */
+.events h1 {
+  font-size: 20px;
+  color: #207224;
+  text-transform: uppercase;
+  margin-top: -8px;
+  margin-bottom: 10px;
+  font-family: "Arial Black",Gadget,sans-serif;
+}
+
+/* line 440, ../../app/assets/stylesheets/deals.css.scss */
+#eventdetailstitle {
+  margin-left: 0px;
+  margin-bottom: 10px;
+  font-size: 18px;
+  font-weight: bold;
+  color: #0FB225;
+  text-transform: uppercase;
+}
+
+/* line 451, ../../app/assets/stylesheets/deals.css.scss */
+.eventdetailslocation {
+  color: #207224;
+  text-transform: uppercase;
+  font-size: 15px;
+  font-weight: bold;
+}
+
+/* line 459, ../../app/assets/stylesheets/deals.css.scss */
+#eventdetail h5 {
+  font-size: 14px;
+  font-weight: bold;
+  color: #8db98c;
+  font-weight: bold;
+  text-transform: uppercase;
+  margin-top: -3px;
+}
+
+/* line 469, ../../app/assets/stylesheets/deals.css.scss */
+#eventdetail h4 {
+  font-size: 14px;
+}
+
+/* line 473, ../../app/assets/stylesheets/deals.css.scss */
+.moredates a {
+  font-size: 12px;
+  text-transform: capitalize;
+  font-weight: normal;
+}
+
+/* line 480, ../../app/assets/stylesheets/deals.css.scss */
+#eventdetail a {
+  color: #3D82C5;
+}
+
+/* line 484, ../../app/assets/stylesheets/deals.css.scss */
+#eventdetail p {
+  margin-top: 15px;
+  font-size: 14px;
+}
+
+/* line 489, ../../app/assets/stylesheets/deals.css.scss */
+#eventdetail .bold {
+  font-weight: bold;
+}
+
+/* line 493, ../../app/assets/stylesheets/deals.css.scss */
+#eventdetail p {
+  font-size: 14px;
+}
+
+/* line 497, ../../app/assets/stylesheets/deals.css.scss */
+#eventdetail a {
+  color: #3D82C5;
+}
+
+/* line 501, ../../app/assets/stylesheets/deals.css.scss */
+.eventdetailsmap {
+  margin-top: 15px;
+}
+
+/* line 505, ../../app/assets/stylesheets/deals.css.scss */
+.eventdetailsimg {
+  border: 5px #8db98c solid;
+  margin-left: 10px;
+}
+
+/* line 1, ../../app/assets/stylesheets/events.css.scss */
+#calendar {
+  margin-left: 6px;
+  margin-top: 6px;
+}
+
+/* line 6, ../../app/assets/stylesheets/events.css.scss */
+.content {
+  background-image: none;
+}
+
+/* line 10, ../../app/assets/stylesheets/events.css.scss */
+#eventcategories {
+  color: #375d87;
+  font-size: 13px;
+  margin-left: 5px;
+}
+
+/* line 19, ../../app/assets/stylesheets/events.css.scss */
+#eventcategories a {
+  color: #3d82c5;
+  font-size: 12px;
+}
+
+/* line 26, ../../app/assets/stylesheets/events.css.scss */
+#eventcategories h1 {
+  color: #375d87;
+  font-size: 16px;
+  font-weight: bold;
+  text-transform: uppercase;
+}
+
+/* line 40, ../../app/assets/stylesheets/events.css.scss */
+.eventarrows {
+  font-weight: bold;
+  font-size: 14px;
+  color: #3d82c5;
+  text-transform: uppercase;
+  margin-top: 25px;
+}
+
+/* line 51, ../../app/assets/stylesheets/events.css.scss */
+#whiteeventsboxexpand {
+  height: auto;
+}
+
+/* line 59, ../../app/assets/stylesheets/events.css.scss */
+.rightcolumn {
+  width: 234px;
+}
+
+/* line 63, ../../app/assets/stylesheets/events.css.scss */
+#eventsearch {
+  color: #375d87;
+  font-size: 13px;
+  margin-left: 5px;
+  margin-top: 5px;
+  line-height: 1;
+}
+
+/* line 74, ../../app/assets/stylesheets/events.css.scss */
+#eventsearch a {
+  color: #3d82c5;
+  font-size: 12px;
+}
+
+/* line 81, ../../app/assets/stylesheets/events.css.scss */
+#eventsearch img {
+  margin-bottom: -6px;
+}
+
+/* line 87, ../../app/assets/stylesheets/events.css.scss */
+#eventsearch h1 {
+  color: #375d87;
+  font-size: 16px;
+  font-weight: bold;
+  text-transform: uppercase;
+  margin-left: 5px;
+}
+
+/* line 98, ../../app/assets/stylesheets/events.css.scss */
+.eventarrows a {
+  color: #3D82C5;
+}
+
+/* line 103, ../../app/assets/stylesheets/events.css.scss */
+.eventsearchsmalltxt {
+  font-size: 12px;
+  font-weight: normal;
+}
+
+/* line 109, ../../app/assets/stylesheets/events.css.scss */
+#eventspageevents {
+  margin-top: 5px;
+  margin-left: -3px;
+}
+
+/* line 114, ../../app/assets/stylesheets/events.css.scss */
+#eventsleftcolumn a:hover {
+  color: #4da7ff;
+}
+
+/* line 118, ../../app/assets/stylesheets/events.css.scss */
+.eventdetailsimg {
+  border: 5px #8c9fb9 solid;
+  margin-left: 10px;
+}
+
+/* line 123, ../../app/assets/stylesheets/events.css.scss */
+#eventdetail {
+  width: 375px;
+  padding-left: 0px;
+  padding-right: 0px;
+  margin-left: 10px;
+  margin-top: 5px;
+  border-bottom: none;
+}
+
+/* line 135, ../../app/assets/stylesheets/events.css.scss */
+#eventdetailstitle {
+  margin-left: 0px;
+  margin-bottom: 10px;
+  font-size: 18px;
+  font-weight: bold;
+  color: #3D82C5;
+  text-transform: uppercase;
+}
+
+/* line 144, ../../app/assets/stylesheets/events.css.scss */
+.moredates a {
+  font-size: 12px;
+  text-transform: capitalize;
+  font-weight: normal;
+}
+
+/* line 151, ../../app/assets/stylesheets/events.css.scss */
+#eventdetail h4 {
+  font-size: 14px;
+}
+
+/* line 156, ../../app/assets/stylesheets/events.css.scss */
+#eventdetail p {
+  margin-top: 15px;
+  font-size: 14px;
+}
+
+/* line 161, ../../app/assets/stylesheets/events.css.scss */
+#eventdetail .bold {
+  font-weight: bold;
+}
+
+/* line 165, ../../app/assets/stylesheets/events.css.scss */
+#eventdetail a {
+  color: #3d82c5;
+}
+
+/* line 169, ../../app/assets/stylesheets/events.css.scss */
+#eventdetail a:hover {
+  color: #4da7ff;
+}
+
+/* line 173, ../../app/assets/stylesheets/events.css.scss */
+.eventdetailsmap {
+  margin-top: 15px;
+}
+
+/* line 179, ../../app/assets/stylesheets/events.css.scss */
+#intheweekahead h2 {
+  color: #207224;
+  font-family: "Arial Black",Gadget,sans-serif;
+  font-size: 16px;
+  font-weight: bold;
+  margin-bottom: 10px;
+  text-transform: uppercase;
+  margin-left: -5px;
+}
+
+/* line 190, ../../app/assets/stylesheets/events.css.scss */
+.greenrow {
+  background-color: #e8e8e8;
+  padding-top: 6px;
+  padding-bottom: 0px;
+  padding-left: 5px;
+  padding-right: 5px;
+  margin-left: -5px;
+  color: #555555;
+  font-size: 12px;
+  text-transform: uppercase;
+  font-weight: bold;
+  width: 216px;
+  min-height: 17px;
+}
+
+/* line 207, ../../app/assets/stylesheets/events.css.scss */
+#microdeal {
+  padding-left: 0px;
+  font-size: 12px;
+  font-weight: bold;
+  width: 216px;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  min-height: 0px;
+  margin-left: -5px;
+}
+
+/* line 218, ../../app/assets/stylesheets/events.css.scss */
+#microdeal a {
+  font-size: 12px;
+  color: #3D82C5;
+}
+
+/* line 223, ../../app/assets/stylesheets/events.css.scss */
+#microdeal a:hover {
+  color: #4da7ff;
+}
+
+/* line 227, ../../app/assets/stylesheets/events.css.scss */
+.hiddendeal {
+  color: #919191;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  font-size: 13px;
+  font-weight: bold;
+}
+
+/* line 235, ../../app/assets/stylesheets/events.css.scss */
+#intheweekahead {
+  margin-top: 20px;
+  border: none;
+  width: 216px;
+  padding: 0px;
+  box-shadow: none;
+  margin-left: 10px;
+}
+
+/* line 244, ../../app/assets/stylesheets/events.css.scss */
+#todayscoupons h1 {
+  color: #207224;
+  font-family: "Arial Black",Gadget,sans-serif;
+  font-size: 20px;
+  font-weight: bold;
+  margin-bottom: 10px;
+  margin-top: -5px;
+  text-transform: uppercase;
+  text-align: center;
+}
+
+/* line 255, ../../app/assets/stylesheets/events.css.scss */
+#littledealtitle {
+  line-height: 1;
+  margin-bottom: -1px;
+  margin-left: 0px;
+  line-height: 1;
+}
+
+/* line 262, ../../app/assets/stylesheets/events.css.scss */
+#relatedevents {
+  color: #375D87;
+  font-size: 16px;
+  font-weight: bold;
+  text-transform: uppercase;
+  margin-left: -5px;
+  margin-top: 50px;
+  margin-bottom: -12px;
+}
+
+/* line 272, ../../app/assets/stylesheets/events.css.scss */
+#intheweekahead h3 {
+  text-align: right;
+  color: #375D87;
+  font-size: 12px;
+  text-transform: uppercase;
+  margin-top: 25px;
+}
+
+/* line 283, ../../app/assets/stylesheets/events.css.scss */
+#intheweekahead h4 {
+  color: #375D87;
+  text-transform: uppercase;
+}
+
+/* line 292, ../../app/assets/stylesheets/events.css.scss */
+.eventdetailslocation {
+  color: #375d87;
+  text-transform: uppercase;
+  font-size: 15px;
+  font-weight: bold;
+}
+
+/* line 299, ../../app/assets/stylesheets/events.css.scss */
+#eventdetail h5 {
+  font-size: 14px;
+  font-weight: bold;
+  color: #8c9fb9;
+  font-weight: bold;
+  text-transform: uppercase;
+  margin-top: -3px;
+}
+
+/* line 309, ../../app/assets/stylesheets/events.css.scss */
+#microdeal h4 {
+  font-size: 11px;
+  font-weight: bold;
+  color: #375D87;
+  text-transform: uppercase;
+  margin-top: 2px;
+}
+
+/* line 317, ../../app/assets/stylesheets/events.css.scss */
+#arroweventdetails {
+  margin-top: 1px;
+}
+
+/* line 321, ../../app/assets/stylesheets/events.css.scss */
+#eventsearcheckbox {
+  margin-right: 55px;
+  margin-top: -5px;
+}
+
+/* line 326, ../../app/assets/stylesheets/events.css.scss */
+#microdealimgmargin {
+  margin-top: 1px;
+}
+
+/* line 330, ../../app/assets/stylesheets/events.css.scss */
+.submitsmaller {
+  font-size: 12px;
+  color: black;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: normal;
+  text-transform: none;
+}
+
+/* line 338, ../../app/assets/stylesheets/events.css.scss */
+.submitform {
+  background-color: #ededed;
+  padding: 16px 20px;
+  margin-bottom: 20px;
+}
+
+/* line 344, ../../app/assets/stylesheets/events.css.scss */
+.submittitle {
+  margin-left: 0px;
+  margin-bottom: 10px;
+  font-size: 18px;
+  font-weight: bold;
+  color: #3D82C5;
+}
+
+/* line 352, ../../app/assets/stylesheets/events.css.scss */
+.eventsubmit {
+  width: 338px;
+  margin-bottom: 10px;
+  font-size: 14px;
+  padding: 5px;
+}
+
+/* line 359, ../../app/assets/stylesheets/events.css.scss */
+.submitlocation {
+  margin-left: 10px;
+  font-size: 12px;
+}
+
+/* line 364, ../../app/assets/stylesheets/events.css.scss */
+.eventlocationsubmit {
+  width: 300px;
+  margin-bottom: 5px;
+  font-size: 12px;
+  padding: 3px;
+}
+
+/* line 371, ../../app/assets/stylesheets/events.css.scss */
+.stateselect {
+  width: 20px;
+}
+
+/* line 375, ../../app/assets/stylesheets/events.css.scss */
+.eventtimesubmit {
+  width: 107px;
+  margin-right: 8px;
+  margin-bottom: 10px;
+}
+
+/* line 382, ../../app/assets/stylesheets/events.css.scss */
+.submituploadbtn {
+  font-size: 15px;
+}
+
+/* line 386, ../../app/assets/stylesheets/events.css.scss */
+.eventguidelines h1 {
+  font-size: 20px;
+  color: #375D87;
+  text-transform: uppercase;
+  margin-top: -8px;
+  margin-bottom: 10px;
+  font-family: "Arial Black",Gadget,sans-serif;
+}
+
+/* line 396, ../../app/assets/stylesheets/events.css.scss */
+.eventguidelines {
+  font-size: 13px;
+  width: 240px;
+  margin-top: 10px;
+  color: #333333;
+}
+
+/* line 404, ../../app/assets/stylesheets/events.css.scss */
+.eventguidelines a {
+  color: #3D82C5;
+}
+
+/* line 408, ../../app/assets/stylesheets/events.css.scss */
+.eventguidelines p {
+  margin-bottom: 10px;
+}
+
+/* line 413, ../../app/assets/stylesheets/events.css.scss */
+.eventguidelinesbold {
+  font-weight: bold;
+}
+
+/* line 418, ../../app/assets/stylesheets/events.css.scss */
+#submitformwrapper {
+  color: #333333;
+  font-size: 15px;
+}
+
+/* line 424, ../../app/assets/stylesheets/events.css.scss */
+#submitformwrapper a {
+  color: #3D82C5;
+}
+
+/* line 428, ../../app/assets/stylesheets/events.css.scss */
+#submitformwrapper a:hover {
+  color: #4da7ff;
+}
+
+/* line 433, ../../app/assets/stylesheets/events.css.scss */
+#myevents a {
+  color: #3D82C5;
+}
+
+/* line 439, ../../app/assets/stylesheets/events.css.scss */
+#myevents a:hover {
+  color: #4DA7FF;
+}
+
+/* line 443, ../../app/assets/stylesheets/events.css.scss */
+.basiceventstatus {
+  color: #8C9FB9;
+}
+
+/* line 447, ../../app/assets/stylesheets/events.css.scss */
+.copy {
+  margin-top: 0px;
+  font-size: 12px;
+}
+
+/* line 453, ../../app/assets/stylesheets/events.css.scss */
+#myevents {
+  min-height: 0px;
+}
+
+/* line 457, ../../app/assets/stylesheets/events.css.scss */
+.featuredeventpayment {
+  font-size: 11px;
+  font-weight: normal;
+  text-transform: none;
+}
+
+/* line 463, ../../app/assets/stylesheets/events.css.scss */
+.pipe {
+  color: #555555;
+}
+
+/* line 5, ../../app/assets/stylesheets/movies.css.scss */
+.content {
+  background-image: none;
+}
+
+/* line 9, ../../app/assets/stylesheets/movies.css.scss */
+.theatrecolumn {
+  width: 287px;
+  margin-left: 18px;
+}
+
+/* line 14, ../../app/assets/stylesheets/movies.css.scss */
+.theatres h2 {
+  font-size: 18px;
+  font-weight: normal;
+  color: #375D87;
+}
+
+/* line 20, ../../app/assets/stylesheets/movies.css.scss */
+.theatres p {
+  color: #375D87;
+  font-size: 12px;
+  font-weight: normal;
+  margin-bottom: 0px;
+}
+
+/* line 27, ../../app/assets/stylesheets/movies.css.scss */
+.theatres input {
+  margin-top: 18px;
+}
+
+/* line 31, ../../app/assets/stylesheets/movies.css.scss */
+.theatre {
+  font-size: 14px;
+  font-weight: bold;
+  color: #375D87;
+}
+
+/* line 37, ../../app/assets/stylesheets/movies.css.scss */
+.theatre a:hover {
+  color: #5690d0 !important;
+  text-decoration: underline !important;
+}
+
+/* line 42, ../../app/assets/stylesheets/movies.css.scss */
+.theatreinfo {
+  font-size: 11px;
+  color: #555;
+  font-weight: normal;
+  margin-left: 25px;
+}
+
+/* line 49, ../../app/assets/stylesheets/movies.css.scss */
+.moviecolumn {
+  width: 740px;
+  float: right;
+  margin-right: 18px;
+  margin-left: 18px;
+}
+
+/* line 56, ../../app/assets/stylesheets/movies.css.scss */
+.movieboxtitle {
+  width: 740px;
+  border-radius: 15px 15px 0px 0px;
+  -moz-border-radius: 15px 15px 0px 0px;
+  /* Firefox */
+  -webkit-border-radius: 15px 15px 0px 0px;
+  /* Safari, Chrome */
+  background-color: #3d82c5;
+  border-bottom: 5px #1e619e solid;
+}
+
+/* line 65, ../../app/assets/stylesheets/movies.css.scss */
+.movieboxtitle h1 {
+  font-size: 15px;
+  padding-top: 7px;
+  padding-bottom: 6px;
+  font-family: "Arial Black", Gadget, sans-serif;
+  color: #FFF;
+  text-transform: uppercase;
+  padding-left: 10px;
+  margin-left: 4px;
+}
+
+/* line 77, ../../app/assets/stylesheets/movies.css.scss */
+.movieboxmiddle {
+  border-left: 1px #CCC solid;
+  border-right: 1px #CCC solid;
+  background-color: #FFF;
+  width: 738px;
+  border-bottom: 1px #CCC solid;
+  border-radius: 0px 0px 15px 15px;
+  -moz-border-radius: 0px 0px 15px 15px;
+  /* Firefox */
+  -webkit-border-radius: 0px 0px 15px 15px;
+  /* Safari, Chrome */
+}
+
+/* line 88, ../../app/assets/stylesheets/movies.css.scss */
+#movietoprow {
+  background-color: #eeeeee;
+}
+
+/* line 97, ../../app/assets/stylesheets/movies.css.scss */
+#movieshowtimes td {
+  padding: 10px 12px;
+  vertical-align: top;
+  line-height: 1;
+  text-align: left;
+}
+
+/* line 104, ../../app/assets/stylesheets/movies.css.scss */
+#movieshowtimes a {
+  color: #3D82C5;
+}
+
+/* line 108, ../../app/assets/stylesheets/movies.css.scss */
+#movieshowtimes a:hover {
+  color: #4da7ff;
+  text-decoration: underline;
+}
+
+/* line 113, ../../app/assets/stylesheets/movies.css.scss */
+#movieshowtimes p {
+  font-size: 13px;
+  color: #666;
+}
+
+/* line 118, ../../app/assets/stylesheets/movies.css.scss */
+.detailheader {
+  color: #000;
+  font-size: 13px;
+  line-height: 1.5;
+}
+
+/* line 124, ../../app/assets/stylesheets/movies.css.scss */
+.detailmovietitle {
+  font-size: 18px;
+  font-weight: bold;
+  color: #555555;
+  margin-bottom: 6px;
+}
+
+/* line 131, ../../app/assets/stylesheets/movies.css.scss */
+#clickshowtimes {
+  color: #666;
+  font-size: 12px;
+  padding-right: 6px !important;
+  text-align: right;
+  vertical-align: middle !important;
+  text-align: right !important;
+}
+
+/* line 140, ../../app/assets/stylesheets/movies.css.scss */
+#showtimes {
+  margin-top: 10px;
+}
+
+/* line 144, ../../app/assets/stylesheets/movies.css.scss */
+#showtimes h1 {
+  font-size: 15px;
+  padding-top: 7px;
+  padding-bottom: 6px;
+}
+
+/* line 150, ../../app/assets/stylesheets/movies.css.scss */
+#moviedetails h1 {
+  font-size: 15px;
+}
+
+/* line 159, ../../app/assets/stylesheets/movies.css.scss */
+#clickshowtimes img {
+  margin-bottom: -4px;
+  margin-top: -1px;
+}
+
+/* line 164, ../../app/assets/stylesheets/movies.css.scss */
+.movietitle {
+  font-size: 14px;
+  font-weight: bold;
+}
+
+/* line 171, ../../app/assets/stylesheets/movies.css.scss */
+.movieinfo {
+  font-size: 12px;
+}
+
+/* line 175, ../../app/assets/stylesheets/movies.css.scss */
+.moviegenres {
+  font-size: 10.5px;
+  text-transform: uppercase;
+  color: #9fb2b9;
+}
+
+/* line 181, ../../app/assets/stylesheets/movies.css.scss */
+.lightbar {
+  color: #C2C2C2;
+}
+
+/* line 185, ../../app/assets/stylesheets/movies.css.scss */
+.theatrerightcolumn {
+  margin-bottom: 12px;
+}
+
+/* line 189, ../../app/assets/stylesheets/movies.css.scss */
+.theatreandtimes {
+  margin-bottom: 10px;
+  color: #555;
+}
+
+/* line 194, ../../app/assets/stylesheets/movies.css.scss */
+.movietheatre {
+  font-size: 12px;
+  margin-top: 4px;
+  color: black;
+}
+
+/* line 200, ../../app/assets/stylesheets/movies.css.scss */
+.movietimes {
+  font-size: 12px;
+  margin-left: -10px;
+  margin-top: 5px;
+}
+
+/* line 210, ../../app/assets/stylesheets/movies.css.scss */
+.moviepast {
+  color: #666;
+  padding-left: 10px;
+  padding-right: 10px;
+  border-right: 2px solid #DFDFDF;
+}
+
+/* line 217, ../../app/assets/stylesheets/movies.css.scss */
+.odd {
+  background-color: #ebf4fa;
+}
+
+/* line 221, ../../app/assets/stylesheets/movies.css.scss */
+#discountshowtimes {
+  color: #666;
+  text-align: right;
+  font-size: 12px;
+  margin-right: 10px;
+  margin-top: 5px;
+}
+
+/* line 229, ../../app/assets/stylesheets/movies.css.scss */
+.movieimgdetail {
+  border: 1px #ccc solid;
+  padding: 4px;
+  text-align: right;
+}
+
+/* line 235, ../../app/assets/stylesheets/movies.css.scss */
+.movieimgdetailthumb {
+  border: 1px #ccc solid;
+  padding: 4px;
+  text-align: right;
+  margin-right: 3px;
+  margin-top: 3px;
+}
+
+/* line 243, ../../app/assets/stylesheets/movies.css.scss */
+#lastmoviethumb {
+  margin-right: 0px;
+}
+
+/* line 248, ../../app/assets/stylesheets/movies.css.scss */
+#movietoprow td {
+  padding-top: 3px !important;
+  padding-bottom: 3px !important;
+}
+
+/* line 254, ../../app/assets/stylesheets/movies.css.scss */
+.nolink {
+  color: #666 !important;
+}
+
+/* line 258, ../../app/assets/stylesheets/movies.css.scss */
+.nolink:hover {
+  text-decoration: none !important;
+}
+
+/* line 263, ../../app/assets/stylesheets/movies.css.scss */
+.movietimes ul {
+  list-style: none;
+  margin-left: 0px;
+  margin-top: -5px;
+}
+
+/* line 269, ../../app/assets/stylesheets/movies.css.scss */
+.movietimes li {
+  float: left;
+  border-right: 2px solid #DFDFDF;
+  margin-top: 3px;
+  padding: 0 10px;
+  text-align: center;
+  display: inline;
+}
+
+/* line 278, ../../app/assets/stylesheets/movies.css.scss */
+.firstmovietime {
+  text-align: left !important;
+}
+
+/* line 282, ../../app/assets/stylesheets/movies.css.scss */
+.moviesrightcolum {
+  padding-bottom: 12px;
+  clear: both;
+}
+
+/* line 287, ../../app/assets/stylesheets/movies.css.scss */
+#paranthlink {
+  color: #3D82C5;
+}
+
+/* line 291, ../../app/assets/stylesheets/movies.css.scss */
+.lastmovietime {
+  border-right: none !important;
+}
+
+/* line 295, ../../app/assets/stylesheets/movies.css.scss */
+.noshowtimes {
+  margin-left: 10px;
+}
+
+/* line 299, ../../app/assets/stylesheets/movies.css.scss */
+#moviered {
+  font-weight: normal;
+  color: #F00;
+  text-transform: uppercase;
+  font-size: 12px;
+}
+
+/* line 10, ../../app/assets/stylesheets/screen.css.scss */
+header
+, nav
+, section
+, article
+, aside
+, footer
+, hgroup {
+  display: block;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  /* line 16, ../../app/assets/stylesheets/screen.css.scss */
+  #navbackgroundcolorchange {
+    padding-bottom: 6px !important;
+    padding-top: 14px !important;
+  }
+
+  /* line 23, ../../app/assets/stylesheets/screen.css.scss */
+  .checkbox {
+    margin-left: -2px !important;
+  }
+
+  /* line 27, ../../app/assets/stylesheets/screen.css.scss */
+  .checkboxnotavailable {
+    margin-left: -2px !important;
+  }
+}
+/* line 34, ../../app/assets/stylesheets/screen.css.scss */
+body {
+  font: 100%/1.4 Arial, Helvetica, sans-serif;
+  background-image: url(backgroundrepeat.jpg);
+  background-color: #b9d5f5;
+  background-position: top left;
+  background-repeat: repeat-x;
+  margin: 0;
+  padding: 0;
+  color: #000;
+}
+
+/* ~~ Element/tag selectors ~~ */
+/* line 46, ../../app/assets/stylesheets/screen.css.scss */
+ul, ol, dl {
+  /* Due to variations between browsers, it's best practices to zero padding and margin on lists. For consistency, you can either specify the amounts you want here, or on the list items (LI, DT, DD) they contain. Remember that what you do here will cascade to the .nav list unless you write a more specific selector. */
+  padding: 0;
+  margin: 0;
+}
+
+/* line 50, ../../app/assets/stylesheets/screen.css.scss */
+h1, h2, h3, h4, h5, h6, p {
+  margin: 0px;
+  padding: 0px;
+  line-height: 1.25;
+}
+
+/* line 57, ../../app/assets/stylesheets/screen.css.scss */
+a img {
+  /* this selector removes the default blue border displayed in some browsers around an image when it is surrounded by a link */
+  border: none;
+}
+
+/* line 61, ../../app/assets/stylesheets/screen.css.scss */
+a {
+  text-decoration: none;
+}
+
+/* line 65, ../../app/assets/stylesheets/screen.css.scss */
+a:visited {
+  color: inherit;
+}
+
+/* line 69, ../../app/assets/stylesheets/screen.css.scss */
+.checkbox {
+  margin-top: 5px;
+  margin-bottom: 5px;
+  margin-left: -5px;
+}
+
+/* line 78, ../../app/assets/stylesheets/screen.css.scss */
+#arrowleftcolumn {
+  float: left;
+  margin-top: 5px;
+}
+
+/* ~~ Styling for your site's links must remain in this order - including the group of selectors that create the hover effect. ~~ */
+/* ~~ this fixed width container surrounds all other elements ~~ */
+/* line 87, ../../app/assets/stylesheets/screen.css.scss */
+.container {
+  width: 982px;
+  margin: 0 auto;
+  /* the auto value on the sides, coupled with the width, centers the layout */
+}
+
+/* line 93, ../../app/assets/stylesheets/screen.css.scss */
+.floatright {
+  float: right;
+}
+
+/* line 97, ../../app/assets/stylesheets/screen.css.scss */
+.floatleftimg {
+  float: left;
+  padding-right: 5px;
+  padding-bottom: 2px;
+}
+
+/* line 103, ../../app/assets/stylesheets/screen.css.scss */
+.more a {
+  float: right;
+  font-weight: bold;
+  font-size: 11px;
+  color: #3d82c5;
+  text-transform: uppercase;
+}
+
+/* line 112, ../../app/assets/stylesheets/screen.css.scss */
+.more a:hover {
+  text-decoration: none !important;
+  color: #4da7ff !important;
+}
+
+/* line 117, ../../app/assets/stylesheets/screen.css.scss */
+.bluerightarrow {
+  float: right;
+  padding-left: 4px;
+  background-image: url(bluerightarrow.png);
+  background-repeat: no-repeat;
+  height: 12px;
+  display: block;
+  background-position: top right;
+  padding-top: 1px;
+}
+
+/* line 128, ../../app/assets/stylesheets/screen.css.scss */
+.bluerighttriangle:hover {
+  background-position: bottom right;
+}
+
+/* line 133, ../../app/assets/stylesheets/screen.css.scss */
+.greenrightarrow {
+  float: right;
+  padding-left: 4px;
+  background-image: url(greenrightarrow.png);
+  background-repeat: no-repeat;
+  height: 13px;
+  display: block;
+  background-position: top right;
+}
+
+/* line 143, ../../app/assets/stylesheets/screen.css.scss */
+.bluerighttriangle {
+  background-image: url(bluerighttriangle.png);
+  background-repeat: no-repeat;
+  height: 8px;
+  display: block;
+  background-position: top right;
+  width: 65px;
+}
+
+/* line 152, ../../app/assets/stylesheets/screen.css.scss */
+.arrowtxt {
+  margin-right: 15px;
+  margin-top: -3px;
+}
+
+/* line 157, ../../app/assets/stylesheets/screen.css.scss */
+#arrowtxtgreen {
+  margin-top: -2px;
+}
+
+/* line 161, ../../app/assets/stylesheets/screen.css.scss */
+#arrowtxtrightcolumn {
+  margin-top: -1px;
+}
+
+/* line 165, ../../app/assets/stylesheets/screen.css.scss */
+.bluerightarrow:hover {
+  background-position: bottom right;
+}
+
+/* line 169, ../../app/assets/stylesheets/screen.css.scss */
+.greenrightarrow:hover {
+  background-position: bottom right;
+}
+
+/* line 173, ../../app/assets/stylesheets/screen.css.scss */
+#arrowrightcolumn {
+  margin-top: 4px;
+  margin-right: 4px;
+}
+
+/* line 179, ../../app/assets/stylesheets/screen.css.scss */
+.bluearrow {
+  padding-left: 6px;
+  padding-right: 2px;
+  padding-bottom: 3px;
+  padding-top: 6px;
+  width: 7px;
+  height: 6px;
+  font-size: 14px;
+  line-height: 0;
+  background-color: #3D82C5;
+  -moz-border-radius: 12px;
+  -webkit-border-radius: 12px;
+  border-radius: 12px;
+  font-family: "Comic Sans MS", cursive;
+  color: #FFF;
+}
+
+/* ~~ This is the layout information. ~~ 
+
+1) Padding is only placed on the top and/or bottom of the div. The elements within this div have padding on their sides. This saves you from any "box model math". Keep in mind, if you add any side padding or border to the div itself, it will be added to the width you define to create the *total* width. You may also choose to remove the padding on the element in the div and place a second div within it with no width and the padding necessary for your design.
+
+*/
+/* header starts here */
+/* line 205, ../../app/assets/stylesheets/screen.css.scss */
+header {
+  height: 120px;
+}
+
+/* line 209, ../../app/assets/stylesheets/screen.css.scss */
+header ul {
+  font-size: 11px;
+  font-family: Arial, Helvetica, sans-serif;
+  color: #c9d8fe;
+  margin-top: 5px;
+  text-align: right;
+}
+
+/* line 218, ../../app/assets/stylesheets/screen.css.scss */
+header li {
+  display: inline;
+  list-style-type: none;
+}
+
+/* line 223, ../../app/assets/stylesheets/screen.css.scss */
+header li a {
+  color: #c9d8fe;
+  text-decoration: none;
+}
+
+/* line 228, ../../app/assets/stylesheets/screen.css.scss */
+header li a:hover {
+  color: #FFF;
+}
+
+/* line 232, ../../app/assets/stylesheets/screen.css.scss */
+#logoandtagline {
+  margin-top: 23px;
+}
+
+/* line 236, ../../app/assets/stylesheets/screen.css.scss */
+#weather {
+  margin-top: 17px;
+}
+
+/* nav starts here */
+/* line 242, ../../app/assets/stylesheets/screen.css.scss */
+nav {
+  height: 38px;
+  clear: both;
+}
+
+/* line 248, ../../app/assets/stylesheets/screen.css.scss */
+nav ul {
+  float: right;
+  font-size: 15px;
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: right;
+  margin-top: 13px;
+  font-weight: bold;
+}
+
+/* line 259, ../../app/assets/stylesheets/screen.css.scss */
+nav li {
+  display: inline;
+  list-style-type: none;
+  margin-left: 35px;
+  color: #FFF;
+}
+
+/* line 268, ../../app/assets/stylesheets/screen.css.scss */
+nav li a {
+  color: #FFF;
+  text-decoration: none;
+  text-transform: uppercase;
+}
+
+/* line 275, ../../app/assets/stylesheets/screen.css.scss */
+nav li a:hover {
+  color: #c9d8fe !important;
+  text-decoration: none !important;
+}
+
+/* line 280, ../../app/assets/stylesheets/screen.css.scss */
+nav li .selectedlink {
+  color: #20639f;
+  padding-top: 8px;
+  padding-bottom: 6px;
+  padding-left: 17.5px;
+  padding-right: 17.5px;
+  background-color: #FFF;
+  border-radius: 5px 5px 0px 0px;
+  margin-right: -17.5px;
+  margin-left: -17.5px;
+  box-shadow: -2px -2px 1px #3571ac, 2px -2px 2px #3571ac;
+}
+
+/* line 293, ../../app/assets/stylesheets/screen.css.scss */
+nav li .selectedlink:hover a:active {
+  color: #20639f;
+}
+
+/* line 298, ../../app/assets/stylesheets/screen.css.scss */
+#navbackgroundcolorchange {
+  background-color: #2c70b2;
+  position: relative;
+  padding-top: 15px;
+  padding-bottom: 4px;
+  padding-left: 4px;
+}
+
+/* line 306, ../../app/assets/stylesheets/screen.css.scss */
+#navleftpadfix {
+  margin-left: 17.5px;
+}
+
+/* line 310, ../../app/assets/stylesheets/screen.css.scss */
+#navrightpadfix {
+  padding-right: 17.5px;
+}
+
+/* content starts here */
+/* line 319, ../../app/assets/stylesheets/screen.css.scss */
+.content {
+  background-color: #FFF;
+  box-shadow: 0px -5px 0px #3d82c5, 0 1px 5px #9eb6d2, 1px 0px 5px #9eb6d2, -1px 0px 5px #9eb6d2;
+  -moz-box-shadow: 0px -5px 0px #3d82c5, 0 1px 5px #9eb6d2, 1px 0px 5px #9eb6d2, -1px 0px 5px #9eb6d2;
+  /* Firefox */
+  -webkit-box-shadow: 0px -5px 0px #3d82c5, 0 1px 5px #9eb6d2, 1px 0px 5px #9eb6d2, -1px 0px 5px #9eb6d2;
+  /* Safari, Chrome */
+  -moz-border-radius: 0px 0px 15px 15px;
+  /* Firefox */
+  -webkit-border-radius: 0px 0px 15px 15px;
+  /* Safari, Chrome */
+  border-radius: 0px 0px 15px 15px;
+  padding-top: 18px;
+  background-image: url(areanewsandeventsbackground.jpg);
+  background-repeat: no-repeat;
+  background-position: 18px 18px;
+  padding-bottom: 50px;
+}
+
+/* right column starts here */
+/* line 336, ../../app/assets/stylesheets/screen.css.scss */
+.rightcolumn {
+  width: 214px;
+  float: right;
+  margin-right: 18px;
+  margin-left: 18px;
+}
+
+/* line 343, ../../app/assets/stylesheets/screen.css.scss */
+.boxtitle {
+  width: 212px;
+  border-radius: 15px 15px 0px 0px;
+  -moz-border-radius: 15px 15px 0px 0px;
+  /* Firefox */
+  -webkit-border-radius: 15px 15px 0px 0px;
+  /* Safari, Chrome */
+  background-color: #3d82c5;
+  border-bottom: 5px #1e619e solid;
+}
+
+/* line 353, ../../app/assets/stylesheets/screen.css.scss */
+.boxtitle h1 {
+  font-size: 15px;
+  color: #FFF;
+  font-weight: bold;
+  text-transform: uppercase;
+  padding-top: 10px;
+  padding-left: 10px;
+  padding-bottom: 5px;
+  margin-left: 4px;
+}
+
+/* line 364, ../../app/assets/stylesheets/screen.css.scss */
+.boxmiddle {
+  border-left: 1px #CCC solid;
+  border-right: 1px #CCC solid;
+  background-color: #FFF;
+  width: 210px;
+}
+
+/* line 373, ../../app/assets/stylesheets/screen.css.scss */
+.boxbottom {
+  border-left: 1px #CCC solid;
+  border-right: 1px #CCC solid;
+  border-bottom: 1px #CCC solid;
+  border-radius: 0px 0px 15px 15px;
+  -moz-border-radius: 0px 0px 15px 15px;
+  /* Firefox */
+  -webkit-border-radius: 0px 0px 15px 15px;
+  /* Safari, Chrome */
+  background: -webkit-gradient(linear, left top, right top, from(white), to(#cae3f9));
+  /* for webkit browsers */
+  background: -moz-linear-gradient(right, #cae3f9, white);
+  /* for firefox 3.6+ */
+  height: 20px;
+  width: 205px;
+  padding-right: 5px;
+}
+
+/* line 388, ../../app/assets/stylesheets/screen.css.scss */
+.movie {
+  margin-left: 12px;
+  margin-right: 12px;
+  padding-top: 12px;
+  padding-bottom: 13px;
+  border-bottom: 1px #e0e0e0 solid;
+  height: 72px;
+}
+
+/* line 397, ../../app/assets/stylesheets/screen.css.scss */
+.movieimg {
+  float: left;
+  padding-right: 8px;
+  margin-top: 1px;
+}
+
+/* line 403, ../../app/assets/stylesheets/screen.css.scss */
+#lastmovie {
+  border-bottom: none;
+}
+
+/* line 407, ../../app/assets/stylesheets/screen.css.scss */
+.movie h2 {
+  line-height: 1;
+  font-size: 15px;
+  font-weight: normal;
+}
+
+/* line 413, ../../app/assets/stylesheets/screen.css.scss */
+.movie h2 a {
+  color: #375D87;
+}
+
+/* line 419, ../../app/assets/stylesheets/screen.css.scss */
+.movie h2 a:hover {
+  color: #5690d0 !important;
+  text-decoration: underline !important;
+}
+
+/* line 424, ../../app/assets/stylesheets/screen.css.scss */
+.movie h4 {
+  font-size: 10.5px;
+  font-weight: bold;
+  color: #333333;
+}
+
+/* line 430, ../../app/assets/stylesheets/screen.css.scss */
+.movie h4 span {
+  color: #c2c2c2;
+}
+
+/* line 435, ../../app/assets/stylesheets/screen.css.scss */
+#moviered {
+  font-weight: normal;
+  color: #F00;
+  text-transform: uppercase;
+}
+
+/* line 443, ../../app/assets/stylesheets/screen.css.scss */
+.movie h3 {
+  font-size: 12px;
+  color: #555555;
+  font-weight: normal;
+  margin-top: 5px;
+}
+
+/* line 453, ../../app/assets/stylesheets/screen.css.scss */
+.dine {
+  margin-left: 12px;
+  margin-right: 12px;
+  padding-top: 12px;
+  padding-bottom: 12px;
+  border-bottom: 1px #e0e0e0 solid;
+}
+
+/* line 461, ../../app/assets/stylesheets/screen.css.scss */
+#lastdine {
+  border-bottom: none;
+}
+
+/* line 465, ../../app/assets/stylesheets/screen.css.scss */
+.dine h2 a {
+  color: #375D87;
+}
+
+/* line 469, ../../app/assets/stylesheets/screen.css.scss */
+.dine h2 a:hover {
+  color: #5690d0 !important;
+  text-decoration: underline !important;
+}
+
+/* line 474, ../../app/assets/stylesheets/screen.css.scss */
+.dine h2 {
+  font-size: 15px;
+  line-height: 1;
+  font-weight: normal;
+}
+
+/* line 481, ../../app/assets/stylesheets/screen.css.scss */
+.dine h4 {
+  font-size: 12px;
+  color: #555555;
+  font-weight: normal;
+  margin-top: 7px;
+  line-height: .9;
+}
+
+/* line 489, ../../app/assets/stylesheets/screen.css.scss */
+.dine h3 {
+  font-size: 12px;
+  color: #555555;
+  font-weight: normal;
+}
+
+/* line 496, ../../app/assets/stylesheets/screen.css.scss */
+.menu {
+  font-size: 10px;
+  text-transform: uppercase;
+  color: #3d82c5;
+  margin-top: 1px;
+}
+
+/* line 504, ../../app/assets/stylesheets/screen.css.scss */
+.menu:hover {
+  color: #4da7ff;
+  text-decoration: underline;
+}
+
+/* line 513, ../../app/assets/stylesheets/screen.css.scss */
+.resource {
+  margin-left: 12px;
+  margin-right: 12px;
+  padding-top: 12px;
+  padding-bottom: 12px;
+  border-bottom: 1px #e0e0e0 solid;
+}
+
+/* line 521, ../../app/assets/stylesheets/screen.css.scss */
+#lastresource {
+  border-bottom: none;
+}
+
+/* line 525, ../../app/assets/stylesheets/screen.css.scss */
+.resource h2 a {
+  color: #375D87;
+}
+
+/* line 529, ../../app/assets/stylesheets/screen.css.scss */
+.resource h2 a:hover {
+  color: #5690d0 !important;
+  text-decoration: underline !important;
+}
+
+/* line 533, ../../app/assets/stylesheets/screen.css.scss */
+.resource h2 {
+  font-size: 15px;
+  line-height: 1;
+  font-weight: normal;
+}
+
+/* line 540, ../../app/assets/stylesheets/screen.css.scss */
+.resourcedetail {
+  font-size: 12px;
+  color: #555555;
+}
+
+/* middle column starts here */
+/* line 548, ../../app/assets/stylesheets/screen.css.scss */
+.middlecolumn {
+  width: 424px;
+  float: right;
+}
+
+/* line 555, ../../app/assets/stylesheets/screen.css.scss */
+.events {
+  width: 394px;
+  box-shadow: #7d7d7d 2px 2px 2px;
+  -moz-box-shadow: #7d7d7d 2px 2px 2px;
+  /* Firefox */
+  -webkit-box-shadow: #7d7d7d 2px 2px 2px;
+  /* Safari, Chrome */
+  border: 1px #CCC solid;
+  background-color: #FFF;
+  padding: 15px;
+}
+
+/* line 566, ../../app/assets/stylesheets/screen.css.scss */
+#eventspageevents {
+  margin-left: -3px;
+}
+
+/* line 571, ../../app/assets/stylesheets/screen.css.scss */
+#whatshappening {
+  margin-top: 56px;
+}
+
+/* line 575, ../../app/assets/stylesheets/screen.css.scss */
+.events h1 {
+  font-size: 20px;
+  color: #375d87;
+  text-transform: uppercase;
+  margin-top: -8px;
+  margin-bottom: 10px;
+  font-family: "Arial Black",Gadget,sans-serif;
+}
+
+/* line 584, ../../app/assets/stylesheets/screen.css.scss */
+.blueeventsbox {
+  background-color: #d8e9f6;
+  width: 396px;
+}
+
+/* line 589, ../../app/assets/stylesheets/screen.css.scss */
+.blueeventsbox h3 {
+  font-size: 14px;
+  color: #555555;
+  text-transform: uppercase;
+}
+
+/* line 596, ../../app/assets/stylesheets/screen.css.scss */
+.blueeventsbox h3 {
+  font-size: 14px;
+  color: #555555;
+  text-transform: uppercase;
+  margin-left: 12px;
+  padding-top: 4px;
+  padding-bottom: 3px;
+}
+
+/* line 605, ../../app/assets/stylesheets/screen.css.scss */
+.whiteeventsbox {
+  background-color: #FFF;
+  width: 371px;
+  overflow: auto;
+  margin-left: 12px;
+}
+
+/* line 613, ../../app/assets/stylesheets/screen.css.scss */
+#whitewhatshappeningbox {
+  background-color: #FFF;
+  width: 371px;
+  margin-left: 12px;
+}
+
+/* line 622, ../../app/assets/stylesheets/screen.css.scss */
+.event {
+  width: 355px;
+  border-bottom: 1px #e0e0e0 solid;
+  padding-left: 8px;
+  padding-right: 8px;
+  padding-top: 8px;
+  padding-bottom: 5px;
+  min-height: 80px;
+}
+
+/* line 633, ../../app/assets/stylesheets/screen.css.scss */
+#eventdetail {
+  width: 375px;
+  padding-left: 0px;
+  padding-right: 0px;
+  margin-left: 10px;
+  margin-top: 5px;
+  border-bottom: none;
+}
+
+/* line 642, ../../app/assets/stylesheets/screen.css.scss */
+#short {
+  min-height: 44px;
+}
+
+/* line 646, ../../app/assets/stylesheets/screen.css.scss */
+#short h5 {
+  line-height: .9;
+}
+
+/* line 650, ../../app/assets/stylesheets/screen.css.scss */
+.flexibleimgholder {
+  border-left: 80px solid #ededed;
+  padding-left: 5px;
+  min-height: 39px;
+}
+
+/* line 658, ../../app/assets/stylesheets/screen.css.scss */
+#shorttitle {
+  line-height: .7;
+  margin-left: 0px;
+  margin-bottom: 5px;
+}
+
+/* line 664, ../../app/assets/stylesheets/screen.css.scss */
+.addtocalendar {
+  float: right;
+  padding-top: 1px;
+  padding-right: 1px;
+}
+
+/* line 672, ../../app/assets/stylesheets/screen.css.scss */
+.title {
+  line-height: 1;
+  margin-bottom: 3px;
+  margin-left: 85px;
+}
+
+/* line 678, ../../app/assets/stylesheets/screen.css.scss */
+.event .title a {
+  font-weight: bold;
+  color: #3d82c5;
+  font-size: 14px;
+  text-transform: uppercase;
+}
+
+/* line 685, ../../app/assets/stylesheets/screen.css.scss */
+.righttxt {
+  margin-top: -3px;
+}
+
+/* line 689, ../../app/assets/stylesheets/screen.css.scss */
+.event .title a:hover {
+  color: #4da7ff;
+}
+
+/* line 694, ../../app/assets/stylesheets/screen.css.scss */
+#whatshappening a:hover {
+  color: #4da7ff;
+}
+
+/* line 698, ../../app/assets/stylesheets/screen.css.scss */
+.event h4 {
+  font-size: 12px;
+  font-weight: bold;
+  color: #555555;
+  text-transform: uppercase;
+}
+
+/* line 706, ../../app/assets/stylesheets/screen.css.scss */
+.whatshappeninglocation {
+  color: #375d87;
+  text-transform: uppercase;
+  font-size: 12px;
+  font-weight: bold;
+}
+
+/* line 714, ../../app/assets/stylesheets/screen.css.scss */
+.event h5 {
+  font-size: 11px;
+  font-weight: bold;
+  color: #8c9fb9;
+  font-weight: bold;
+  text-transform: uppercase;
+}
+
+/* line 723, ../../app/assets/stylesheets/screen.css.scss */
+.event p {
+  font-size: 12px;
+  color: #555555;
+  margin-top: 3px;
+}
+
+/* line 729, ../../app/assets/stylesheets/screen.css.scss */
+#last {
+  border-bottom: none;
+}
+
+/* line 733, ../../app/assets/stylesheets/screen.css.scss */
+#andmore a {
+  font-weight: bold;
+  text-transform: uppercase;
+  font-size: 14px;
+  color: #3d82c5;
+  float: right;
+  margin-right: 12px;
+  margin-top: 8px;
+}
+
+/* line 743, ../../app/assets/stylesheets/screen.css.scss */
+#andmore {
+  height: 28px;
+}
+
+/* line 756, ../../app/assets/stylesheets/screen.css.scss */
+#dealsondeck {
+  margin-top: 20px;
+}
+
+/* line 761, ../../app/assets/stylesheets/screen.css.scss */
+#dealsondeck h1 {
+  font-size: 20px;
+  color: #207224;
+  font-weight: bold;
+  text-transform: uppercase;
+  margin-top: -5px;
+  margin-bottom: 10px;
+  font-family: "Arial Black",Gadget,sans-serif;
+}
+
+/* line 771, ../../app/assets/stylesheets/screen.css.scss */
+.greenbox {
+  background-color: #d2f7d1;
+  width: 396px;
+}
+
+/* line 780, ../../app/assets/stylesheets/screen.css.scss */
+#whitedealsondeckbox {
+  background-color: #FFF;
+  width: 372px;
+  height: 202px;
+  margin-left: 12px;
+}
+
+/* line 788, ../../app/assets/stylesheets/screen.css.scss */
+#greendealsondeckbox h3 {
+  font-size: 14px;
+  color: #555555;
+  text-transform: uppercase;
+  margin-left: 12px;
+  padding-top: 4px;
+  padding-bottom: 3px;
+}
+
+/* line 798, ../../app/assets/stylesheets/screen.css.scss */
+#dealsondeckscroller {
+  width: 371px;
+}
+
+/* line 804, ../../app/assets/stylesheets/screen.css.scss */
+.deal {
+  width: 355px;
+  border-bottom: 1px #e0e0e0 solid;
+  padding: 8px;
+  padding-bottom: 5px;
+  min-height: 80px;
+}
+
+/* line 814, ../../app/assets/stylesheets/screen.css.scss */
+.deal .title a {
+  font-weight: bold;
+  color: #0fb225;
+  font-size: 14px;
+  text-transform: uppercase;
+}
+
+/* line 821, ../../app/assets/stylesheets/screen.css.scss */
+#dealsondeck a:hover {
+  color: #12d02c;
+}
+
+/* line 825, ../../app/assets/stylesheets/screen.css.scss */
+.deal h4 {
+  font-size: 12px;
+  font-weight: bold;
+  color: #555555;
+  text-transform: uppercase;
+}
+
+/* line 832, ../../app/assets/stylesheets/screen.css.scss */
+.now {
+  color: #ff0000;
+}
+
+/* line 836, ../../app/assets/stylesheets/screen.css.scss */
+.dealsondecklocation {
+  color: #207224;
+  text-transform: uppercase;
+  font-size: 12px;
+  font-weight: bold;
+}
+
+/* line 844, ../../app/assets/stylesheets/screen.css.scss */
+.deal h5 {
+  font-size: 11px;
+  font-weight: bold;
+  color: #a6d3a5;
+  font-weight: bold;
+  text-transform: uppercase;
+}
+
+/* line 853, ../../app/assets/stylesheets/screen.css.scss */
+.deal p {
+  font-size: 12px;
+  color: #555555;
+  margin-top: 3px;
+}
+
+/* line 859, ../../app/assets/stylesheets/screen.css.scss */
+#gotodeals {
+  height: 28px;
+}
+
+/* line 863, ../../app/assets/stylesheets/screen.css.scss */
+#gotodeals a {
+  font-weight: bold;
+  text-transform: uppercase;
+  font-size: 14px;
+  color: #3d82c5;
+  float: right;
+  margin-right: 12px;
+  margin-top: 6px;
+}
+
+/* line 873, ../../app/assets/stylesheets/screen.css.scss */
+#couponsavailable a {
+  color: #207224;
+  text-transform: lowercase;
+  line-height: 2;
+}
+
+/* line 879, ../../app/assets/stylesheets/screen.css.scss */
+#coupons {
+  padding: 1px 3px;
+  background-color: #ffff78;
+  border: 3px #ffd400 dashed;
+  text-transform: uppercase;
+  border-radius: 6px;
+}
+
+/* line 888, ../../app/assets/stylesheets/screen.css.scss */
+#gotodeals a {
+  font-weight: bold;
+  text-transform: uppercase;
+  font-size: 14px;
+  color: #0fb225;
+  float: right;
+  margin-right: 12px;
+  margin-top: 8px;
+}
+
+/* line 899, ../../app/assets/stylesheets/screen.css.scss */
+#policeblotter h2 {
+  color: #375D87;
+  font-family: "Arial Black",Gadget,sans-serif;
+  font-size: 15px;
+  font-weight: bold;
+  text-transform: uppercase;
+  margin-left: 18px;
+  margin-top: 20px;
+  margin-bottom: 10px;
+  margin-top: 20px;
+}
+
+/* line 914, ../../app/assets/stylesheets/screen.css.scss */
+.blot {
+  margin-left: 20px;
+  display: block;
+  margin-top: 16px;
+}
+
+/* line 921, ../../app/assets/stylesheets/screen.css.scss */
+.blot h3 {
+  text-indent: 5px;
+  font-size: 13px;
+  color: #333333;
+  text-transform: uppercase;
+  font-weight: bold;
+}
+
+/* line 929, ../../app/assets/stylesheets/screen.css.scss */
+.blot p {
+  margin-left: 15px;
+  font-size: 12px;
+  color: #555555;
+  display: block;
+  padding-top: 3px;
+  padding-bottom: 3px;
+}
+
+/* line 938, ../../app/assets/stylesheets/screen.css.scss */
+.blot h4 {
+  margin-left: 15px;
+  font-size: 12px;
+  color: #333333;
+  font-weight: bold;
+}
+
+/* left column starts here */
+/* line 959, ../../app/assets/stylesheets/screen.css.scss */
+.newsimg {
+  float: left;
+  padding-right: 8px;
+  padding-bottom: 8px;
+  padding-top: 3px;
+}
+
+/* line 966, ../../app/assets/stylesheets/screen.css.scss */
+.leftcolumn {
+  width: 287px;
+  margin-left: 18px;
+}
+
+/* line 971, ../../app/assets/stylesheets/screen.css.scss */
+#homephoto {
+  padding-top: 56px;
+  padding-left: 12px;
+}
+
+/* line 976, ../../app/assets/stylesheets/screen.css.scss */
+#homephototxt {
+  font-size: 10px;
+  color: #555555;
+  margin-left: 12px;
+  margin-top: -5px;
+}
+
+/* line 983, ../../app/assets/stylesheets/screen.css.scss */
+#homephototxt a {
+  color: #3d82c5;
+}
+
+/* line 988, ../../app/assets/stylesheets/screen.css.scss */
+#homephototxt a:hover {
+  color: #000;
+}
+
+/* line 993, ../../app/assets/stylesheets/screen.css.scss */
+.leftcolumn h2 {
+  font-size: 15px;
+  color: #375d87;
+  text-transform: uppercase;
+  font-weight: bold;
+  font-family: "Arial Black",Gadget,sans-serif;
+}
+
+/* line 1001, ../../app/assets/stylesheets/screen.css.scss */
+#newsroundup {
+  margin-top: 20px;
+  margin-left: 12px;
+}
+
+/* line 1007, ../../app/assets/stylesheets/screen.css.scss */
+.article {
+  width: 261px;
+  margin-top: 16px;
+}
+
+/* line 1013, ../../app/assets/stylesheets/screen.css.scss */
+.article h3 {
+  font-size: 15px;
+  font-weight: normal;
+}
+
+/* line 1018, ../../app/assets/stylesheets/screen.css.scss */
+.article h3 a {
+  color: #375d87;
+}
+
+/* line 1021, ../../app/assets/stylesheets/screen.css.scss */
+.article h3 a:hover {
+  color: #5690d0 !important;
+  text-decoration: underline !important;
+}
+
+/* line 1026, ../../app/assets/stylesheets/screen.css.scss */
+.offsitelinkicon {
+  padding-top: 3px;
+  padding-left: 3px;
+}
+
+/* line 1032, ../../app/assets/stylesheets/screen.css.scss */
+.article h4 {
+  font-size: 10.5px;
+  text-transform: uppercase;
+  color: #333333;
+  margin-top: 3px;
+}
+
+/* line 1040, ../../app/assets/stylesheets/screen.css.scss */
+.article h5 {
+  font-size: 12px;
+  font-weight: bold;
+  color: #333333;
+  margin-bottom: 7px;
+}
+
+/* line 1048, ../../app/assets/stylesheets/screen.css.scss */
+.article p {
+  font-size: 12px;
+  color: #555555;
+}
+
+/* footer starts here */
+/* line 1055, ../../app/assets/stylesheets/screen.css.scss */
+footer {
+  width: 982px;
+  height: 200px;
+  margin-top: 10px;
+  margin-left: 15px;
+}
+
+/* line 1064, ../../app/assets/stylesheets/screen.css.scss */
+footer ul {
+  display: inline;
+}
+
+/* line 1070, ../../app/assets/stylesheets/screen.css.scss */
+footer li {
+  font-size: 13px;
+  display: inline;
+}
+
+/* line 1077, ../../app/assets/stylesheets/screen.css.scss */
+footer li a {
+  color: #21639f !important;
+}
+
+/* line 1082, ../../app/assets/stylesheets/screen.css.scss */
+#copyright {
+  float: right;
+  margin-right: 22px;
+  font-size: 13px;
+  color: #21639f;
+}
+
+/* line 1089, ../../app/assets/stylesheets/screen.css.scss */
+.chicklets {
+  padding-left: 13px !important;
+}
+
+/* line 1094, ../../app/assets/stylesheets/screen.css.scss */
+.chickletcalendar {
+  margin-bottom: -5px;
+  margin-left: -3px;
+  margin-right: 4px;
+}
+
+/* line 1100, ../../app/assets/stylesheets/screen.css.scss */
+.sharethis {
+  float: right;
+  margin-right: 5px;
+}
+
+/* line 1105, ../../app/assets/stylesheets/screen.css.scss */
+.stButton {
+  margin-left: 2px !important;
+  margin-right: 2px !important;
+}
+
+/* line 1110, ../../app/assets/stylesheets/screen.css.scss */
+.sortby {
+  float: right;
+  font-size: 12px;
+  color: #999;
+}
+
+/* line 1116, ../../app/assets/stylesheets/screen.css.scss */
+.sortbyselect {
+  font-size: 10px;
+  padding: 5px;
+  margin-top: -5px;
+}
+
+/* line 1122, ../../app/assets/stylesheets/screen.css.scss */
+.sortbyoption {
+  font-size: 10px;
+  padding: 5px;
+  color: #999;
+}
+
+/* line 1128, ../../app/assets/stylesheets/screen.css.scss */
+.sortby option {
+  font-size: 10px;
+  padding: 5px;
+  color: #999;
+}

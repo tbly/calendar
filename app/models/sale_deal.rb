@@ -1,0 +1,3 @@
+class SaleDeal < Event
+  
+end

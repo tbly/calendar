@@ -1,0 +1,86 @@
+<div class="content">
+
+  <form id="select_options_form" action="<%= movies_path %>" method="GET">
+
+    <!--begin right column-->
+    <div class="moviecolumn">
+
+      <div class="movieboxtitle">
+        <h1>movie showtimes</h1>
+      </div>
+
+      <div class="movieboxmiddle">
+        <table id="movieshowtimes" width="100%" border="0" cellspacing="0" cellpadding="0">
+          <tr id="movietoprow">
+            <td id="selectdate">
+              <label for="select_date"></label>
+              <%= select_tag( 'date', select_date_options( @selected_date ), { :id => 'select_date' } ) %>
+            </td>
+
+            <td id="clickshowtimes">Click showtimes to buy tickets online at
+              <a href="#">MovieTickets.com</a>
+               <%= image_tag "movietickets.jpg", :title=>"movietickets.com", :style=>"width:16px;height:16x;border:0" %>
+            </td>
+          </tr>
+
+          <% @movies.each_with_index do |movie, index| %>
+          <tr <%= 'class="odd"'.html_safe if index.odd? %> >
+            <td>
+              <span class="movietitle"><%= link_to( movie.title, url_for(movie) ) %></span><br />
+              <span class="movieinfo"><%= format_rating( movie ) %><span class="lightbar"> | </span><%= movie.running_time %></span><br />
+              <span class="moviegenres"><%= format_genres( movie ) %></span>
+            </td>
+
+            <td class="moviesrightcolumn">
+              <% movie.theaters_showing_on( @selected_date ).each do |theater| %>
+                <% if @checked_theaters.include?( theater.id  ) %>
+                <div class="theatreandtimes">
+                  <div class="theatrerightcolumn">
+                    <div class="movietheatre"><%= format_theater_name( theater ) %>:</div>
+                    <div class="movietimes">
+                      <ul>
+                        <%= showtime_list_items( movie, theater, @selected_date ) %>
+                      </ul>
+                    </div> 
+                  </div>
+                </div>
+                <br /> 
+                <% end %>
+              <% end %>
+            </td>
+          </tr>
+          <% end %>
+        </table>
+		
+		<div class="movieboxbottom odd">
+      </div>
+	  
+      </div>
+      <p id="discountshowtimes">Parentheses indicate discounted/bargain showtimes.</p>
+    </div>
+    <!--end right column-->
+
+    <!--begin left column -->
+    <div class="theatrecolumn">
+      <div class="theatres"> 
+        <h2>Movie Theatres</h2>
+        <p>Use checkboxes to filter theatres.</p>
+
+        <% @theaters.each do |theater| %>
+        <%= check_box_tag( 'theaters[]', theater.id, @checked_theaters.include?( theater.id ), { :id => "theater_id_#{theater.id}" } ) %>
+        <span class="theatre"><%= format_theater_name( theater ) %></span>
+        <br />
+        <div class="theatreinfo"><%= format_theater_info( theater ) %></div>
+        <% end %>
+
+      </div>
+    </div>
+    <!--end left column -->
+
+    <div style="clear:both"></div>
+
+  </form>
+
+
+</div>
+<div style="clear:both"></div>

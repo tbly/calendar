@@ -1,0 +1,2644 @@
+--- !ruby/object:Feedzirra::Parser::RSS
+title: !binary |-
+  QnJlYWtpbmcgTmV3cyBmcm9tIEdhemV0dGVPbmxpbmU=
+url: !binary |-
+  aHR0cDovL3RoZWdhemV0dGUuY29t
+description: !binary |-
+  RWFzdGVybiBJb3dhIEJyZWFraW5nIE5ld3MgYW5kIEhlYWRsaW5lcw==
+entries:
+- !ruby/object:Feedzirra::Parser::RSSEntry
+  title: !binary |-
+    RGV2ZWxvcGVyIHBsYW5zIG9mZmljZSwgaG91c2luZyBmb3IgZmxvb2QtaGl0
+    IFN1bGxpdmFuIEJhbms=
+  url: !binary |-
+    aHR0cDovL2ZlZWRwcm94eS5nb29nbGUuY29tL35yL0dhemV0dGVPbmxpbmVC
+    cmVha2luZ05ld3MvfjMvRjNrdGhXWnpUUjAv
+  categories:
+  - !binary |-
+    QnVzaW5lc3M=
+  - !binary |-
+    Rmxvb2QgUmVjb3Zlcnk=
+  - !binary |-
+    TGlubiBDb3VudHkgQXJlYQ==
+  - !binary |-
+    U3RhdGV3aWRlIE5ld3M=
+  author: !binary |-
+    UmljayBTbWl0aA==
+  published: 2012-08-31 21:26:50.000000000 Z
+  entry_id: !binary |-
+    aHR0cDovL3RoZWdhemV0dGUuY29tLz9wPTQ1NDc2Nw==
+  content: ! 'CEDAR RAPIDS — A move is afoot to lock in a lasting name — perhaps with
+    &#8220;Kingston&#8221; in it — for the unnamed, flood-hit commercial area directly
+    across the Cedar River from downtown even as...<div class="feedflare">
+
+    <a href="http://feeds.feedburner.com/~ff/GazetteOnlineBreakingNews?a=F3kthWZzTR0:359i5VvKu1g:yIl2AUoC8zA"><img
+    src="http://feeds.feedburner.com/~ff/GazetteOnlineBreakingNews?d=yIl2AUoC8zA"
+    border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/GazetteOnlineBreakingNews?a=F3kthWZzTR0:359i5VvKu1g:V_sGLiPBpWU"><img
+    src="http://feeds.feedburner.com/~ff/GazetteOnlineBreakingNews?i=F3kthWZzTR0:359i5VvKu1g:V_sGLiPBpWU"
+    border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/GazetteOnlineBreakingNews?a=F3kthWZzTR0:359i5VvKu1g:qj6IDK7rITs"><img
+    src="http://feeds.feedburner.com/~ff/GazetteOnlineBreakingNews?d=qj6IDK7rITs"
+    border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/GazetteOnlineBreakingNews?a=F3kthWZzTR0:359i5VvKu1g:KwTdNBX3Jqk"><img
+    src="http://feeds.feedburner.com/~ff/GazetteOnlineBreakingNews?i=F3kthWZzTR0:359i5VvKu1g:KwTdNBX3Jqk"
+    border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/GazetteOnlineBreakingNews?a=F3kthWZzTR0:359i5VvKu1g:gIN9vFwOqvQ"><img
+    src="http://feeds.feedburner.com/~ff/GazetteOnlineBreakingNews?i=F3kthWZzTR0:359i5VvKu1g:gIN9vFwOqvQ"
+    border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/GazetteOnlineBreakingNews?a=F3kthWZzTR0:359i5VvKu1g:l6gmwiTKsz0"><img
+    src="http://feeds.feedburner.com/~ff/GazetteOnlineBreakingNews?d=l6gmwiTKsz0"
+    border="0"></img></a>
+
+    </div><img src="http://feeds.feedburner.com/~r/GazetteOnlineBreakingNews/~4/F3kthWZzTR0"
+    height="1" width="1"/>'
+- !ruby/object:Feedzirra::Parser::RSSEntry
+  title: !binary |-
+    TmV3LWxvb2sgdGF4IHN0YXRlbWVudHMgYnJpbmcgZmxvb2Qgb2YgY2FsbHM=
+  url: !binary |-
+    aHR0cDovL2ZlZWRwcm94eS5nb29nbGUuY29tL35yL0dhemV0dGVPbmxpbmVC
+    cmVha2luZ05ld3MvfjMvQ2hiWXgzQ0tEdWMv
+  categories:
+  - !binary |-
+    TGlubiBDb3VudHkgQXJlYQ==
+  - !binary |-
+    TG9jYWwgTmV3cw==
+  - !binary |-
+    cHJvcGVydHkgdGF4ZXM=
+  - !binary |-
+    U2hhcm9uIEdvbnphbGV6
+  author: !binary |-
+    U3RldmUgR3JhdmVsbGU=
+  published: 2012-08-31 20:40:17.000000000 Z
+  entry_id: !binary |-
+    aHR0cDovL3RoZWdhemV0dGUuY29tLz9wPTQ1NDYwMw==
+  content: !binary |-
+    Q0VEQVIgUkFQSURTICYjODIxMjsgQSBjaGFuZ2UgaW4gTGlubiBDb3VudHkm
+    IzgyMTc7cyBwcm9wZXJ0eSB0YXggc3RhdGVtZW50cyBoYXMgcHJvbXB0ZWQg
+    YSBmbG9vZCBvZiBjYWxscyBmcm9tIHJlc2lkZW50cyB3aG8gaGF2ZW4mIzgy
+    MTc7dCBjbG9zZWx5IHJlYWQgdGhlaXIgYmlsbHMuICYjODIyMDtPdXIgcGhv
+    bmVzIGFyZSBqdXN0Li4uPGRpdiBjbGFzcz0iZmVlZGZsYXJlIj4KPGEgaHJl
+    Zj0iaHR0cDovL2ZlZWRzLmZlZWRidXJuZXIuY29tL35mZi9HYXpldHRlT25s
+    aW5lQnJlYWtpbmdOZXdzP2E9Q2hiWXgzQ0tEdWM6SXJRMXNNQi1IWVk6eUls
+    MkFVb0M4ekEiPjxpbWcgc3JjPSJodHRwOi8vZmVlZHMuZmVlZGJ1cm5lci5j
+    b20vfmZmL0dhemV0dGVPbmxpbmVCcmVha2luZ05ld3M/ZD15SWwyQVVvQzh6
+    QSIgYm9yZGVyPSIwIj48L2ltZz48L2E+IDxhIGhyZWY9Imh0dHA6Ly9mZWVk
+    cy5mZWVkYnVybmVyLmNvbS9+ZmYvR2F6ZXR0ZU9ubGluZUJyZWFraW5nTmV3
+    cz9hPUNoYll4M0NLRHVjOklyUTFzTUItSFlZOlZfc0dMaVBCcFdVIj48aW1n
+    IHNyYz0iaHR0cDovL2ZlZWRzLmZlZWRidXJuZXIuY29tL35mZi9HYXpldHRl
+    T25saW5lQnJlYWtpbmdOZXdzP2k9Q2hiWXgzQ0tEdWM6SXJRMXNNQi1IWVk6
+    Vl9zR0xpUEJwV1UiIGJvcmRlcj0iMCI+PC9pbWc+PC9hPiA8YSBocmVmPSJo
+    dHRwOi8vZmVlZHMuZmVlZGJ1cm5lci5jb20vfmZmL0dhemV0dGVPbmxpbmVC
+    cmVha2luZ05ld3M/YT1DaGJZeDNDS0R1YzpJclExc01CLUhZWTpxajZJREs3
+    cklUcyI+PGltZyBzcmM9Imh0dHA6Ly9mZWVkcy5mZWVkYnVybmVyLmNvbS9+
+    ZmYvR2F6ZXR0ZU9ubGluZUJyZWFraW5nTmV3cz9kPXFqNklESzdySVRzIiBi
+    b3JkZXI9IjAiPjwvaW1nPjwvYT4gPGEgaHJlZj0iaHR0cDovL2ZlZWRzLmZl
+    ZWRidXJuZXIuY29tL35mZi9HYXpldHRlT25saW5lQnJlYWtpbmdOZXdzP2E9
+    Q2hiWXgzQ0tEdWM6SXJRMXNNQi1IWVk6S3dUZE5CWDNKcWsiPjxpbWcgc3Jj
+    PSJodHRwOi8vZmVlZHMuZmVlZGJ1cm5lci5jb20vfmZmL0dhemV0dGVPbmxp
+    bmVCcmVha2luZ05ld3M/aT1DaGJZeDNDS0R1YzpJclExc01CLUhZWTpLd1Rk
+    TkJYM0pxayIgYm9yZGVyPSIwIj48L2ltZz48L2E+IDxhIGhyZWY9Imh0dHA6
+    Ly9mZWVkcy5mZWVkYnVybmVyLmNvbS9+ZmYvR2F6ZXR0ZU9ubGluZUJyZWFr
+    aW5nTmV3cz9hPUNoYll4M0NLRHVjOklyUTFzTUItSFlZOmdJTjl2RndPcXZR
+    Ij48aW1nIHNyYz0iaHR0cDovL2ZlZWRzLmZlZWRidXJuZXIuY29tL35mZi9H
+    YXpldHRlT25saW5lQnJlYWtpbmdOZXdzP2k9Q2hiWXgzQ0tEdWM6SXJRMXNN
+    Qi1IWVk6Z0lOOXZGd09xdlEiIGJvcmRlcj0iMCI+PC9pbWc+PC9hPiA8YSBo
+    cmVmPSJodHRwOi8vZmVlZHMuZmVlZGJ1cm5lci5jb20vfmZmL0dhemV0dGVP
+    bmxpbmVCcmVha2luZ05ld3M/YT1DaGJZeDNDS0R1YzpJclExc01CLUhZWTps
+    Nmdtd2lUS3N6MCI+PGltZyBzcmM9Imh0dHA6Ly9mZWVkcy5mZWVkYnVybmVy
+    LmNvbS9+ZmYvR2F6ZXR0ZU9ubGluZUJyZWFraW5nTmV3cz9kPWw2Z213aVRL
+    c3owIiBib3JkZXI9IjAiPjwvaW1nPjwvYT4KPC9kaXY+PGltZyBzcmM9Imh0
+    dHA6Ly9mZWVkcy5mZWVkYnVybmVyLmNvbS9+ci9HYXpldHRlT25saW5lQnJl
+    YWtpbmdOZXdzL340L0NoYll4M0NLRHVjIiBoZWlnaHQ9IjEiIHdpZHRoPSIx
+    Ii8+
+- !ruby/object:Feedzirra::Parser::RSSEntry
+  title: !binary |-
+    V2hvb3BpbmcgY291Z2ggb24gdGhlIHJpc2UgaW4gSm9obnNvbiBDb3VudHk=
+  url: !binary |-
+    aHR0cDovL2ZlZWRwcm94eS5nb29nbGUuY29tL35yL0dhemV0dGVPbmxpbmVC
+    cmVha2luZ05ld3MvfjMvZHNqMTFpcXpXR1kv
+  categories:
+  - !binary |-
+    RGlzZWFzZXM=
+  - !binary |-
+    RXBpZGVtaWMgJiBQbGFndWU=
+  - !binary |-
+    SGVhbHRo
+  - !binary |-
+    U3RhdGV3aWRlIE5ld3M=
+  author: !binary |-
+    Q2luZHkgSGFkaXNo
+  published: 2012-08-31 20:40:11.000000000 Z
+  entry_id: !binary |-
+    aHR0cDovL3RoZWdhemV0dGUuY29tLz9wPTQ1NDcyOA==
+  content: ! 'IOWA CITY – Parents of students in Johnson County schools are being
+    notified about a whooping cough outbreak. Tricia Kitzmann, deputy director of
+    Johnson County Public Health, said 18 cases of the...<div class="feedflare">
+
+    <a href="http://feeds.feedburner.com/~ff/GazetteOnlineBreakingNews?a=dsj11iqzWGY:MVd5slrVgoQ:yIl2AUoC8zA"><img
+    src="http://feeds.feedburner.com/~ff/GazetteOnlineBreakingNews?d=yIl2AUoC8zA"
+    border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/GazetteOnlineBreakingNews?a=dsj11iqzWGY:MVd5slrVgoQ:V_sGLiPBpWU"><img
+    src="http://feeds.feedburner.com/~ff/GazetteOnlineBreakingNews?i=dsj11iqzWGY:MVd5slrVgoQ:V_sGLiPBpWU"
+    border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/GazetteOnlineBreakingNews?a=dsj11iqzWGY:MVd5slrVgoQ:qj6IDK7rITs"><img
+    src="http://feeds.feedburner.com/~ff/GazetteOnlineBreakingNews?d=qj6IDK7rITs"
+    border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/GazetteOnlineBreakingNews?a=dsj11iqzWGY:MVd5slrVgoQ:KwTdNBX3Jqk"><img
+    src="http://feeds.feedburner.com/~ff/GazetteOnlineBreakingNews?i=dsj11iqzWGY:MVd5slrVgoQ:KwTdNBX3Jqk"
+    border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/GazetteOnlineBreakingNews?a=dsj11iqzWGY:MVd5slrVgoQ:gIN9vFwOqvQ"><img
+    src="http://feeds.feedburner.com/~ff/GazetteOnlineBreakingNews?i=dsj11iqzWGY:MVd5slrVgoQ:gIN9vFwOqvQ"
+    border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/GazetteOnlineBreakingNews?a=dsj11iqzWGY:MVd5slrVgoQ:l6gmwiTKsz0"><img
+    src="http://feeds.feedburner.com/~ff/GazetteOnlineBreakingNews?d=l6gmwiTKsz0"
+    border="0"></img></a>
+
+    </div><img src="http://feeds.feedburner.com/~r/GazetteOnlineBreakingNews/~4/dsj11iqzWGY"
+    height="1" width="1"/>'
+- !ruby/object:Feedzirra::Parser::RSSEntry
+  title: !binary |-
+    SW93YSBDaXR5IHNlZWtzIGRldmVsb3BlciBmb3IgZG93bnRvd24gY29ybmVy
+  url: !binary |-
+    aHR0cDovL2ZlZWRwcm94eS5nb29nbGUuY29tL35yL0dhemV0dGVPbmxpbmVC
+    cmVha2luZ05ld3MvfjMvZ2hxR2dJSVV6OHMv
+  categories:
+  - !binary |-
+    QnVzaW5lc3M=
+  - !binary |-
+    Sm9obnNvbiBDb3VudHkgQXJlYQ==
+  - !binary |-
+    ZGV2ZWxvcG1lbnQ=
+  - !binary |-
+    ZG93bnRvd24=
+  - !binary |-
+    SW93YSBDaXR5
+  author: !binary |-
+    R3JlZ2cgSGVubmlnYW4=
+  published: 2012-08-31 20:39:56.000000000 Z
+  entry_id: !binary |-
+    aHR0cDovL3RoZWdhemV0dGUuY29tLz9wPTQ1NDczMw==
+  content: ! 'IOWA CITY – Iowa City is seeking a private developer for city-owned
+    land on a prominent downtown corner. The city has put out a request for proposals
+    to develop the northeast corner of College and...<div class="feedflare">
+
+    <a href="http://feeds.feedburner.com/~ff/GazetteOnlineBreakingNews?a=ghqGgIIUz8s:B2pNROi-EuY:yIl2AUoC8zA"><img
+    src="http://feeds.feedburner.com/~ff/GazetteOnlineBreakingNews?d=yIl2AUoC8zA"
+    border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/GazetteOnlineBreakingNews?a=ghqGgIIUz8s:B2pNROi-EuY:V_sGLiPBpWU"><img
+    src="http://feeds.feedburner.com/~ff/GazetteOnlineBreakingNews?i=ghqGgIIUz8s:B2pNROi-EuY:V_sGLiPBpWU"
+    border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/GazetteOnlineBreakingNews?a=ghqGgIIUz8s:B2pNROi-EuY:qj6IDK7rITs"><img
+    src="http://feeds.feedburner.com/~ff/GazetteOnlineBreakingNews?d=qj6IDK7rITs"
+    border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/GazetteOnlineBreakingNews?a=ghqGgIIUz8s:B2pNROi-EuY:KwTdNBX3Jqk"><img
+    src="http://feeds.feedburner.com/~ff/GazetteOnlineBreakingNews?i=ghqGgIIUz8s:B2pNROi-EuY:KwTdNBX3Jqk"
+    border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/GazetteOnlineBreakingNews?a=ghqGgIIUz8s:B2pNROi-EuY:gIN9vFwOqvQ"><img
+    src="http://feeds.feedburner.com/~ff/GazetteOnlineBreakingNews?i=ghqGgIIUz8s:B2pNROi-EuY:gIN9vFwOqvQ"
+    border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/GazetteOnlineBreakingNews?a=ghqGgIIUz8s:B2pNROi-EuY:l6gmwiTKsz0"><img
+    src="http://feeds.feedburner.com/~ff/GazetteOnlineBreakingNews?d=l6gmwiTKsz0"
+    border="0"></img></a>
+
+    </div><img src="http://feeds.feedburner.com/~r/GazetteOnlineBreakingNews/~4/ghqGgIIUz8s"
+    height="1" width="1"/>'
+- !ruby/object:Feedzirra::Parser::RSSEntry
+  title: !binary |-
+    U2FmZVJpZGUgTGF1bmNoZXMgYXQgVUk=
+  url: !binary |-
+    aHR0cDovL2ZlZWRwcm94eS5nb29nbGUuY29tL35yL0dhemV0dGVPbmxpbmVC
+    cmVha2luZ05ld3MvfjMvZjJQSFU5M3ptWm8v
+  categories:
+  - !binary |-
+    SGlnaGVyIEVkdWNhdGlvbg==
+  - !binary |-
+    Sm9obnNvbiBDb3VudHk=
+  - !binary |-
+    UGVyc29uYWwgU2FmZXR5
+  - !binary |-
+    UHVibGljIFNhZmV0eQ==
+  - !binary |-
+    bml0ZSByaWRl
+  - !binary |-
+    U2FmZVJpZGU=
+  - !binary |-
+    VUkgRGVwYXJ0bWVudCBvZiBQdWJsaWMgU2FmZXR5
+  - !binary |-
+    VW5pdmVyc2l0eSBvZiBJb3dh
+  author: !binary |-
+    VmFuZXNzYSBNaWxsZXI=
+  published: 2012-08-31 20:39:54.000000000 Z
+  entry_id: !binary |-
+    aHR0cDovL3RoZWdhemV0dGUuY29tLz9wPTQ1NDczMg==
+  content: ! 'IOWA CITY &#8212; Imagine this scenario: a college freshman, new to
+    the university, new to the area, and out with some new friends, finds himself
+    at a house party miles from his residence hall. He’s...<div class="feedflare">
+
+    <a href="http://feeds.feedburner.com/~ff/GazetteOnlineBreakingNews?a=f2PHU93zmZo:3I5pRuVbjBA:yIl2AUoC8zA"><img
+    src="http://feeds.feedburner.com/~ff/GazetteOnlineBreakingNews?d=yIl2AUoC8zA"
+    border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/GazetteOnlineBreakingNews?a=f2PHU93zmZo:3I5pRuVbjBA:V_sGLiPBpWU"><img
+    src="http://feeds.feedburner.com/~ff/GazetteOnlineBreakingNews?i=f2PHU93zmZo:3I5pRuVbjBA:V_sGLiPBpWU"
+    border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/GazetteOnlineBreakingNews?a=f2PHU93zmZo:3I5pRuVbjBA:qj6IDK7rITs"><img
+    src="http://feeds.feedburner.com/~ff/GazetteOnlineBreakingNews?d=qj6IDK7rITs"
+    border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/GazetteOnlineBreakingNews?a=f2PHU93zmZo:3I5pRuVbjBA:KwTdNBX3Jqk"><img
+    src="http://feeds.feedburner.com/~ff/GazetteOnlineBreakingNews?i=f2PHU93zmZo:3I5pRuVbjBA:KwTdNBX3Jqk"
+    border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/GazetteOnlineBreakingNews?a=f2PHU93zmZo:3I5pRuVbjBA:gIN9vFwOqvQ"><img
+    src="http://feeds.feedburner.com/~ff/GazetteOnlineBreakingNews?i=f2PHU93zmZo:3I5pRuVbjBA:gIN9vFwOqvQ"
+    border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/GazetteOnlineBreakingNews?a=f2PHU93zmZo:3I5pRuVbjBA:l6gmwiTKsz0"><img
+    src="http://feeds.feedburner.com/~ff/GazetteOnlineBreakingNews?d=l6gmwiTKsz0"
+    border="0"></img></a>
+
+    </div><img src="http://feeds.feedburner.com/~r/GazetteOnlineBreakingNews/~4/f2PHU93zmZo"
+    height="1" width="1"/>'
+- !ruby/object:Feedzirra::Parser::RSSEntry
+  title: !binary |-
+    T2JhbWEgY29udGludWVzIElvd2Egc3VyZ2UgdGhpcyB3ZWVrZW5k
+  url: !binary |-
+    aHR0cDovL2ZlZWRwcm94eS5nb29nbGUuY29tL35yL0dhemV0dGVPbmxpbmVC
+    cmVha2luZ05ld3MvfjMvaWpNNE9acXM1RTQv
+  categories:
+  - !binary |-
+    U3RhdGVob3VzZQ==
+  - !binary |-
+    U3RhdGV3aWRlIE5ld3M=
+  author: !binary |-
+    TWlrZSBXaXNlcg==
+  published: 2012-08-31 20:14:14.000000000 Z
+  entry_id: !binary |-
+    aHR0cDovL3RoZWdhemV0dGUuY29tLz9wPTQ1NDcxNQ==
+  content: ! 'DES MOINES — President Barack Obama is set to be back in Iowa for two
+    campaign rallies Saturday in advance of next week’s Democratic National Convention
+    in North Carolina. The president’s first stop...<div class="feedflare">
+
+    <a href="http://feeds.feedburner.com/~ff/GazetteOnlineBreakingNews?a=ijM4OZqs5E4:IynNu6Ht_hk:yIl2AUoC8zA"><img
+    src="http://feeds.feedburner.com/~ff/GazetteOnlineBreakingNews?d=yIl2AUoC8zA"
+    border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/GazetteOnlineBreakingNews?a=ijM4OZqs5E4:IynNu6Ht_hk:V_sGLiPBpWU"><img
+    src="http://feeds.feedburner.com/~ff/GazetteOnlineBreakingNews?i=ijM4OZqs5E4:IynNu6Ht_hk:V_sGLiPBpWU"
+    border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/GazetteOnlineBreakingNews?a=ijM4OZqs5E4:IynNu6Ht_hk:qj6IDK7rITs"><img
+    src="http://feeds.feedburner.com/~ff/GazetteOnlineBreakingNews?d=qj6IDK7rITs"
+    border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/GazetteOnlineBreakingNews?a=ijM4OZqs5E4:IynNu6Ht_hk:KwTdNBX3Jqk"><img
+    src="http://feeds.feedburner.com/~ff/GazetteOnlineBreakingNews?i=ijM4OZqs5E4:IynNu6Ht_hk:KwTdNBX3Jqk"
+    border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/GazetteOnlineBreakingNews?a=ijM4OZqs5E4:IynNu6Ht_hk:gIN9vFwOqvQ"><img
+    src="http://feeds.feedburner.com/~ff/GazetteOnlineBreakingNews?i=ijM4OZqs5E4:IynNu6Ht_hk:gIN9vFwOqvQ"
+    border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/GazetteOnlineBreakingNews?a=ijM4OZqs5E4:IynNu6Ht_hk:l6gmwiTKsz0"><img
+    src="http://feeds.feedburner.com/~ff/GazetteOnlineBreakingNews?d=l6gmwiTKsz0"
+    border="0"></img></a>
+
+    </div><img src="http://feeds.feedburner.com/~r/GazetteOnlineBreakingNews/~4/ijM4OZqs5E4"
+    height="1" width="1"/>'
+- !ruby/object:Feedzirra::Parser::RSSEntry
+  title: !binary |-
+    SnVkZ2UgdG8gcnVsZSBpZiBMaWJlcnRhcmlhbiB3aWxsIGJlIG9uIElvd2Eg
+    YmFsbG90cw==
+  url: !binary |-
+    aHR0cDovL2ZlZWRwcm94eS5nb29nbGUuY29tL35yL0dhemV0dGVPbmxpbmVC
+    cmVha2luZ05ld3MvfjMvVTlIekJHdHdZYWMv
+  categories:
+  - !binary |-
+    U3RhdGVob3VzZQ==
+  - !binary |-
+    U3RhdGV3aWRlIE5ld3M=
+  author: !binary |-
+    UnlhbiBKLiBGb2xleQ==
+  published: 2012-08-31 20:10:22.000000000 Z
+  entry_id: !binary |-
+    aHR0cDovL3RoZWdhemV0dGUuY29tLz9wPTQ1NDU4Mw==
+  content: !binary |-
+    REVTIE1PSU5FUywgSW93YSAoQVApICYjODIxMjsgQSBkaXN0cmljdCBjb3Vy
+    dCBqdWRnZSBzYXlzIGhlIHBsYW5zIHRvIHJ1bGUgVHVlc2RheSB3aGV0aGVy
+    IHRvIGJsb2NrIExpYmVydGFyaWFuIHByZXNpZGVudGlhbCBjYW5kaWRhdGUg
+    R2FyeSBKb2huc29uJiM4MjE3O3MgbGlzdGluZyBvbiB0aGUgSW93YSBiYWxs
+    b3QgaW4gTm92ZW1iZXIuLi4uPGRpdiBjbGFzcz0iZmVlZGZsYXJlIj4KPGEg
+    aHJlZj0iaHR0cDovL2ZlZWRzLmZlZWRidXJuZXIuY29tL35mZi9HYXpldHRl
+    T25saW5lQnJlYWtpbmdOZXdzP2E9VTlIekJHdHdZYWM6aEZhcGVMWFphd3c6
+    eUlsMkFVb0M4ekEiPjxpbWcgc3JjPSJodHRwOi8vZmVlZHMuZmVlZGJ1cm5l
+    ci5jb20vfmZmL0dhemV0dGVPbmxpbmVCcmVha2luZ05ld3M/ZD15SWwyQVVv
+    Qzh6QSIgYm9yZGVyPSIwIj48L2ltZz48L2E+IDxhIGhyZWY9Imh0dHA6Ly9m
+    ZWVkcy5mZWVkYnVybmVyLmNvbS9+ZmYvR2F6ZXR0ZU9ubGluZUJyZWFraW5n
+    TmV3cz9hPVU5SHpCR3R3WWFjOmhGYXBlTFhaYXd3OlZfc0dMaVBCcFdVIj48
+    aW1nIHNyYz0iaHR0cDovL2ZlZWRzLmZlZWRidXJuZXIuY29tL35mZi9HYXpl
+    dHRlT25saW5lQnJlYWtpbmdOZXdzP2k9VTlIekJHdHdZYWM6aEZhcGVMWFph
+    d3c6Vl9zR0xpUEJwV1UiIGJvcmRlcj0iMCI+PC9pbWc+PC9hPiA8YSBocmVm
+    PSJodHRwOi8vZmVlZHMuZmVlZGJ1cm5lci5jb20vfmZmL0dhemV0dGVPbmxp
+    bmVCcmVha2luZ05ld3M/YT1VOUh6Qkd0d1lhYzpoRmFwZUxYWmF3dzpxajZJ
+    REs3cklUcyI+PGltZyBzcmM9Imh0dHA6Ly9mZWVkcy5mZWVkYnVybmVyLmNv
+    bS9+ZmYvR2F6ZXR0ZU9ubGluZUJyZWFraW5nTmV3cz9kPXFqNklESzdySVRz
+    IiBib3JkZXI9IjAiPjwvaW1nPjwvYT4gPGEgaHJlZj0iaHR0cDovL2ZlZWRz
+    LmZlZWRidXJuZXIuY29tL35mZi9HYXpldHRlT25saW5lQnJlYWtpbmdOZXdz
+    P2E9VTlIekJHdHdZYWM6aEZhcGVMWFphd3c6S3dUZE5CWDNKcWsiPjxpbWcg
+    c3JjPSJodHRwOi8vZmVlZHMuZmVlZGJ1cm5lci5jb20vfmZmL0dhemV0dGVP
+    bmxpbmVCcmVha2luZ05ld3M/aT1VOUh6Qkd0d1lhYzpoRmFwZUxYWmF3dzpL
+    d1RkTkJYM0pxayIgYm9yZGVyPSIwIj48L2ltZz48L2E+IDxhIGhyZWY9Imh0
+    dHA6Ly9mZWVkcy5mZWVkYnVybmVyLmNvbS9+ZmYvR2F6ZXR0ZU9ubGluZUJy
+    ZWFraW5nTmV3cz9hPVU5SHpCR3R3WWFjOmhGYXBlTFhaYXd3OmdJTjl2RndP
+    cXZRIj48aW1nIHNyYz0iaHR0cDovL2ZlZWRzLmZlZWRidXJuZXIuY29tL35m
+    Zi9HYXpldHRlT25saW5lQnJlYWtpbmdOZXdzP2k9VTlIekJHdHdZYWM6aEZh
+    cGVMWFphd3c6Z0lOOXZGd09xdlEiIGJvcmRlcj0iMCI+PC9pbWc+PC9hPiA8
+    YSBocmVmPSJodHRwOi8vZmVlZHMuZmVlZGJ1cm5lci5jb20vfmZmL0dhemV0
+    dGVPbmxpbmVCcmVha2luZ05ld3M/YT1VOUh6Qkd0d1lhYzpoRmFwZUxYWmF3
+    dzpsNmdtd2lUS3N6MCI+PGltZyBzcmM9Imh0dHA6Ly9mZWVkcy5mZWVkYnVy
+    bmVyLmNvbS9+ZmYvR2F6ZXR0ZU9ubGluZUJyZWFraW5nTmV3cz9kPWw2Z213
+    aVRLc3owIiBib3JkZXI9IjAiPjwvaW1nPjwvYT4KPC9kaXY+PGltZyBzcmM9
+    Imh0dHA6Ly9mZWVkcy5mZWVkYnVybmVyLmNvbS9+ci9HYXpldHRlT25saW5l
+    QnJlYWtpbmdOZXdzL340L1U5SHpCR3R3WWFjIiBoZWlnaHQ9IjEiIHdpZHRo
+    PSIxIi8+
+- !ruby/object:Feedzirra::Parser::RSSEntry
+  title: !binary |-
+    T2JhbWEgVmlzaXRzIFRheGluZyBJb3dhIFRheHBheWVycw==
+  url: !binary |-
+    aHR0cDovL2ZlZWRwcm94eS5nb29nbGUuY29tL35yL0dhemV0dGVPbmxpbmVC
+    cmVha2luZ05ld3MvfjMvMWl4T09jSFcyOU0v
+  categories:
+  - !binary |-
+    TmF0aW9uICYgV29ybGQ=
+  - !binary |-
+    U3RhdGV3aWRlIE5ld3M=
+  author: !binary |-
+    TmljayBIeXRyZWssIFNpb3V4IENpdHkgSm91cm5hbA==
+  published: 2012-08-31 20:07:38.000000000 Z
+  entry_id: !binary |-
+    aHR0cDovL3RoZWdhemV0dGUuY29tLz9wPTQ1NDcwNw==
+  content: !binary |-
+    U0lPVVggQ0lUWSAmIzgyMTI7IFRpY2tldHMgdG8gc2VlIFByZXNpZGVudCBC
+    YXJhY2sgT2JhbWEgaW4gU2lvdXggQ2l0eSBTYXR1cmRheSB3ZXJlIHByb3Zp
+    ZGVkIHRvIHRoZSBwdWJsaWMgZm9yIGZyZWUuIEJ1dCBsb2NhbCB0YXhwYXll
+    cnMgd2lsbCBiZSBmb290aW5nIHJvdWdobHkgJDEwLDAwMCBpbiBsYXcgZW5m
+    b3JjZW1lbnQgZXhwZW5zZXMuLi48ZGl2IGNsYXNzPSJmZWVkZmxhcmUiPgo8
+    YSBocmVmPSJodHRwOi8vZmVlZHMuZmVlZGJ1cm5lci5jb20vfmZmL0dhemV0
+    dGVPbmxpbmVCcmVha2luZ05ld3M/YT0xaXhPT2NIVzI5TTpJeERtT2pHSzhG
+    RTp5SWwyQVVvQzh6QSI+PGltZyBzcmM9Imh0dHA6Ly9mZWVkcy5mZWVkYnVy
+    bmVyLmNvbS9+ZmYvR2F6ZXR0ZU9ubGluZUJyZWFraW5nTmV3cz9kPXlJbDJB
+    VW9DOHpBIiBib3JkZXI9IjAiPjwvaW1nPjwvYT4gPGEgaHJlZj0iaHR0cDov
+    L2ZlZWRzLmZlZWRidXJuZXIuY29tL35mZi9HYXpldHRlT25saW5lQnJlYWtp
+    bmdOZXdzP2E9MWl4T09jSFcyOU06SXhEbU9qR0s4RkU6Vl9zR0xpUEJwV1Ui
+    PjxpbWcgc3JjPSJodHRwOi8vZmVlZHMuZmVlZGJ1cm5lci5jb20vfmZmL0dh
+    emV0dGVPbmxpbmVCcmVha2luZ05ld3M/aT0xaXhPT2NIVzI5TTpJeERtT2pH
+    SzhGRTpWX3NHTGlQQnBXVSIgYm9yZGVyPSIwIj48L2ltZz48L2E+IDxhIGhy
+    ZWY9Imh0dHA6Ly9mZWVkcy5mZWVkYnVybmVyLmNvbS9+ZmYvR2F6ZXR0ZU9u
+    bGluZUJyZWFraW5nTmV3cz9hPTFpeE9PY0hXMjlNOkl4RG1PakdLOEZFOnFq
+    NklESzdySVRzIj48aW1nIHNyYz0iaHR0cDovL2ZlZWRzLmZlZWRidXJuZXIu
+    Y29tL35mZi9HYXpldHRlT25saW5lQnJlYWtpbmdOZXdzP2Q9cWo2SURLN3JJ
+    VHMiIGJvcmRlcj0iMCI+PC9pbWc+PC9hPiA8YSBocmVmPSJodHRwOi8vZmVl
+    ZHMuZmVlZGJ1cm5lci5jb20vfmZmL0dhemV0dGVPbmxpbmVCcmVha2luZ05l
+    d3M/YT0xaXhPT2NIVzI5TTpJeERtT2pHSzhGRTpLd1RkTkJYM0pxayI+PGlt
+    ZyBzcmM9Imh0dHA6Ly9mZWVkcy5mZWVkYnVybmVyLmNvbS9+ZmYvR2F6ZXR0
+    ZU9ubGluZUJyZWFraW5nTmV3cz9pPTFpeE9PY0hXMjlNOkl4RG1PakdLOEZF
+    Okt3VGROQlgzSnFrIiBib3JkZXI9IjAiPjwvaW1nPjwvYT4gPGEgaHJlZj0i
+    aHR0cDovL2ZlZWRzLmZlZWRidXJuZXIuY29tL35mZi9HYXpldHRlT25saW5l
+    QnJlYWtpbmdOZXdzP2E9MWl4T09jSFcyOU06SXhEbU9qR0s4RkU6Z0lOOXZG
+    d09xdlEiPjxpbWcgc3JjPSJodHRwOi8vZmVlZHMuZmVlZGJ1cm5lci5jb20v
+    fmZmL0dhemV0dGVPbmxpbmVCcmVha2luZ05ld3M/aT0xaXhPT2NIVzI5TTpJ
+    eERtT2pHSzhGRTpnSU45dkZ3T3F2USIgYm9yZGVyPSIwIj48L2ltZz48L2E+
+    IDxhIGhyZWY9Imh0dHA6Ly9mZWVkcy5mZWVkYnVybmVyLmNvbS9+ZmYvR2F6
+    ZXR0ZU9ubGluZUJyZWFraW5nTmV3cz9hPTFpeE9PY0hXMjlNOkl4RG1PakdL
+    OEZFOmw2Z213aVRLc3owIj48aW1nIHNyYz0iaHR0cDovL2ZlZWRzLmZlZWRi
+    dXJuZXIuY29tL35mZi9HYXpldHRlT25saW5lQnJlYWtpbmdOZXdzP2Q9bDZn
+    bXdpVEtzejAiIGJvcmRlcj0iMCI+PC9pbWc+PC9hPgo8L2Rpdj48aW1nIHNy
+    Yz0iaHR0cDovL2ZlZWRzLmZlZWRidXJuZXIuY29tL35yL0dhemV0dGVPbmxp
+    bmVCcmVha2luZ05ld3MvfjQvMWl4T09jSFcyOU0iIGhlaWdodD0iMSIgd2lk
+    dGg9IjEiLz4=
+- !ruby/object:Feedzirra::Parser::RSSEntry
+  title: !binary |-
+    RW50cmVwcmVuZXVyc2hpcCBsZXNzb25zIHRvIGJlIGxlYXJuZWQgYXQgSW5u
+    b3ZhdGlvbiBFeHBv
+  url: !binary |-
+    aHR0cDovL2ZlZWRwcm94eS5nb29nbGUuY29tL35yL0dhemV0dGVPbmxpbmVC
+    cmVha2luZ05ld3MvfjMvTDIzV3BzNW00SHMv
+  categories:
+  - !binary |-
+    QjM4MA==
+  - !binary |-
+    TG9jYWwgTmV3cw==
+  - !binary |-
+    U3RhdGV3aWRlIE5ld3M=
+  - !binary |-
+    QmFua2VycyBUcnVzdA==
+  - !binary |-
+    SW5ub3ZhdGlvbiBFeHBv
+  - !binary |-
+    SW93YSBFY29ub21pYyBEZXZlbG9wbWVudCBBdXRob3JpdHk=
+  - !binary |-
+    S2lya3dvb2QgVHJhaW5pbmcgJiBPdXRyZWFjaCBTZXJ2aWNlcw==
+  - !binary |-
+    VW5pdmVyc2l0eSBvZiBJb3dhIEpvaG4gUGFwcGFqb2huIEVudHJlcHJlbmV1
+    cmlhbCBDZW50ZXI=
+  author: !binary |-
+    RGF2ZSBEZVdpdHRl
+  published: 2012-08-31 20:00:09.000000000 Z
+  entry_id: !binary |-
+    aHR0cDovL3RoZWdhemV0dGUuY29tLz9wPTQ1NDY4MA==
+  content: !binary |-
+    SW5ub3ZhdGlvbiBFeHBvIGlzIHBsYW5uZWQgZm9yIFNlcHQuIDE4IGhlbHBp
+    bmcgYXNwaXJpbmcgZW50cmVwcmVuZXVycyBhbnN3ZXIgdGhlIHF1ZXN0aW9u
+    LCAmIzgyMjA7SG93IGRvIEkgZ2V0IHNvbWV0aGluZyBnb2luZz8mIzgyMjE7
+    IFRoZSBleHBvLCBhIGNvbWJpbmF0aW9uIG9mIHNldmVyYWwgZXZlbnRzIGFu
+    ZCBpbnRlbmRlZCB0by4uLjxkaXYgY2xhc3M9ImZlZWRmbGFyZSI+CjxhIGhy
+    ZWY9Imh0dHA6Ly9mZWVkcy5mZWVkYnVybmVyLmNvbS9+ZmYvR2F6ZXR0ZU9u
+    bGluZUJyZWFraW5nTmV3cz9hPUwyM1dwczVtNEhzOkR4bTRYdVpZdVkwOnlJ
+    bDJBVW9DOHpBIj48aW1nIHNyYz0iaHR0cDovL2ZlZWRzLmZlZWRidXJuZXIu
+    Y29tL35mZi9HYXpldHRlT25saW5lQnJlYWtpbmdOZXdzP2Q9eUlsMkFVb0M4
+    ekEiIGJvcmRlcj0iMCI+PC9pbWc+PC9hPiA8YSBocmVmPSJodHRwOi8vZmVl
+    ZHMuZmVlZGJ1cm5lci5jb20vfmZmL0dhemV0dGVPbmxpbmVCcmVha2luZ05l
+    d3M/YT1MMjNXcHM1bTRIczpEeG00WHVaWXVZMDpWX3NHTGlQQnBXVSI+PGlt
+    ZyBzcmM9Imh0dHA6Ly9mZWVkcy5mZWVkYnVybmVyLmNvbS9+ZmYvR2F6ZXR0
+    ZU9ubGluZUJyZWFraW5nTmV3cz9pPUwyM1dwczVtNEhzOkR4bTRYdVpZdVkw
+    OlZfc0dMaVBCcFdVIiBib3JkZXI9IjAiPjwvaW1nPjwvYT4gPGEgaHJlZj0i
+    aHR0cDovL2ZlZWRzLmZlZWRidXJuZXIuY29tL35mZi9HYXpldHRlT25saW5l
+    QnJlYWtpbmdOZXdzP2E9TDIzV3BzNW00SHM6RHhtNFh1Wll1WTA6cWo2SURL
+    N3JJVHMiPjxpbWcgc3JjPSJodHRwOi8vZmVlZHMuZmVlZGJ1cm5lci5jb20v
+    fmZmL0dhemV0dGVPbmxpbmVCcmVha2luZ05ld3M/ZD1xajZJREs3cklUcyIg
+    Ym9yZGVyPSIwIj48L2ltZz48L2E+IDxhIGhyZWY9Imh0dHA6Ly9mZWVkcy5m
+    ZWVkYnVybmVyLmNvbS9+ZmYvR2F6ZXR0ZU9ubGluZUJyZWFraW5nTmV3cz9h
+    PUwyM1dwczVtNEhzOkR4bTRYdVpZdVkwOkt3VGROQlgzSnFrIj48aW1nIHNy
+    Yz0iaHR0cDovL2ZlZWRzLmZlZWRidXJuZXIuY29tL35mZi9HYXpldHRlT25s
+    aW5lQnJlYWtpbmdOZXdzP2k9TDIzV3BzNW00SHM6RHhtNFh1Wll1WTA6S3dU
+    ZE5CWDNKcWsiIGJvcmRlcj0iMCI+PC9pbWc+PC9hPiA8YSBocmVmPSJodHRw
+    Oi8vZmVlZHMuZmVlZGJ1cm5lci5jb20vfmZmL0dhemV0dGVPbmxpbmVCcmVh
+    a2luZ05ld3M/YT1MMjNXcHM1bTRIczpEeG00WHVaWXVZMDpnSU45dkZ3T3F2
+    USI+PGltZyBzcmM9Imh0dHA6Ly9mZWVkcy5mZWVkYnVybmVyLmNvbS9+ZmYv
+    R2F6ZXR0ZU9ubGluZUJyZWFraW5nTmV3cz9pPUwyM1dwczVtNEhzOkR4bTRY
+    dVpZdVkwOmdJTjl2RndPcXZRIiBib3JkZXI9IjAiPjwvaW1nPjwvYT4gPGEg
+    aHJlZj0iaHR0cDovL2ZlZWRzLmZlZWRidXJuZXIuY29tL35mZi9HYXpldHRl
+    T25saW5lQnJlYWtpbmdOZXdzP2E9TDIzV3BzNW00SHM6RHhtNFh1Wll1WTA6
+    bDZnbXdpVEtzejAiPjxpbWcgc3JjPSJodHRwOi8vZmVlZHMuZmVlZGJ1cm5l
+    ci5jb20vfmZmL0dhemV0dGVPbmxpbmVCcmVha2luZ05ld3M/ZD1sNmdtd2lU
+    S3N6MCIgYm9yZGVyPSIwIj48L2ltZz48L2E+CjwvZGl2PjxpbWcgc3JjPSJo
+    dHRwOi8vZmVlZHMuZmVlZGJ1cm5lci5jb20vfnIvR2F6ZXR0ZU9ubGluZUJy
+    ZWFraW5nTmV3cy9+NC9MMjNXcHM1bTRIcyIgaGVpZ2h0PSIxIiB3aWR0aD0i
+    MSIvPg==
+- !ruby/object:Feedzirra::Parser::RSSEntry
+  title: !binary |-
+    SW93YSBDaXR5IHZlaGljdWxhciBob21pY2lkZSB0cmlhbCBwb3N0cG9uZWQ=
+  url: !binary |-
+    aHR0cDovL2ZlZWRwcm94eS5nb29nbGUuY29tL35yL0dhemV0dGVPbmxpbmVC
+    cmVha2luZ05ld3MvfjMvdlRkOC11QnNiYjAv
+  categories:
+  - !binary |-
+    TG9jYWwgTmV3cw==
+  - !binary |-
+    UHVibGljIFNhZmV0eQ==
+  - !binary |-
+    U3RhdGV3aWRlIE5ld3M=
+  - !binary |-
+    SW93YSBDaXR5IFBvbGljZSBEZXBhcnRtZW50
+  - !binary |-
+    TWlyYW5kYSBMYWxsYQ==
+  - !binary |-
+    UGFtZWxhIEdyb3Nz
+  - !binary |-
+    dmVoaWN1bGFyIGhvbWljaWRl
+  author: !binary |-
+    VmFuZXNzYSBNaWxsZXI=
+  published: 2012-08-31 18:58:07.000000000 Z
+  entry_id: !binary |-
+    aHR0cDovL3RoZWdhemV0dGUuY29tLz9wPTQ1NDY1Nw==
+  content: ! 'A 50-year-old Iowa City woman accused of hitting and killing her friend
+    with her truck in June waived her right to speedy trial this morning and asked
+    a judge to reschedule her trial. Miranda Lalla’s...<div class="feedflare">
+
+    <a href="http://feeds.feedburner.com/~ff/GazetteOnlineBreakingNews?a=vTd8-uBsbb0:mLhaSRFMB28:yIl2AUoC8zA"><img
+    src="http://feeds.feedburner.com/~ff/GazetteOnlineBreakingNews?d=yIl2AUoC8zA"
+    border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/GazetteOnlineBreakingNews?a=vTd8-uBsbb0:mLhaSRFMB28:V_sGLiPBpWU"><img
+    src="http://feeds.feedburner.com/~ff/GazetteOnlineBreakingNews?i=vTd8-uBsbb0:mLhaSRFMB28:V_sGLiPBpWU"
+    border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/GazetteOnlineBreakingNews?a=vTd8-uBsbb0:mLhaSRFMB28:qj6IDK7rITs"><img
+    src="http://feeds.feedburner.com/~ff/GazetteOnlineBreakingNews?d=qj6IDK7rITs"
+    border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/GazetteOnlineBreakingNews?a=vTd8-uBsbb0:mLhaSRFMB28:KwTdNBX3Jqk"><img
+    src="http://feeds.feedburner.com/~ff/GazetteOnlineBreakingNews?i=vTd8-uBsbb0:mLhaSRFMB28:KwTdNBX3Jqk"
+    border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/GazetteOnlineBreakingNews?a=vTd8-uBsbb0:mLhaSRFMB28:gIN9vFwOqvQ"><img
+    src="http://feeds.feedburner.com/~ff/GazetteOnlineBreakingNews?i=vTd8-uBsbb0:mLhaSRFMB28:gIN9vFwOqvQ"
+    border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/GazetteOnlineBreakingNews?a=vTd8-uBsbb0:mLhaSRFMB28:l6gmwiTKsz0"><img
+    src="http://feeds.feedburner.com/~ff/GazetteOnlineBreakingNews?d=l6gmwiTKsz0"
+    border="0"></img></a>
+
+    </div><img src="http://feeds.feedburner.com/~r/GazetteOnlineBreakingNews/~4/vTd8-uBsbb0"
+    height="1" width="1"/>'
+- !ruby/object:Feedzirra::Parser::RSSEntry
+  title: !binary |-
+    VGVlbiBhZG1pdHRlZCByb2xlIGluIGJlYXRpbmcgb2YgdGVlbmFnZXJz
+  url: !binary |-
+    aHR0cDovL2ZlZWRwcm94eS5nb29nbGUuY29tL35yL0dhemV0dGVPbmxpbmVC
+    cmVha2luZ05ld3MvfjMvTGlERUdEUG8xeDAv
+  categories:
+  - !binary |-
+    Q3JpbWU=
+  - !binary |-
+    Q3JpbWUsIExhdyBhbmQgSnVzdGljZQ==
+  - !binary |-
+    TGlubiBDb3VudHk=
+  - !binary |-
+    UHVibGljIFNhZmV0eQ==
+  - !binary |-
+    QXNzYXVsdA==
+  - !binary |-
+    Q2hyaXN0aWFuIE1lZWs=
+  - !binary |-
+    S2VlbmFuIEJha2Vy
+  - !binary |-
+    U3R1ZGVudA==
+  - !binary |-
+    VHlyZXNzIE1hcnRpbg==
+  author: !binary |-
+    SmVmZiBSYWFzY2g=
+  published: 2012-08-31 17:50:24.000000000 Z
+  entry_id: !binary |-
+    aHR0cDovL3RoZWdhemV0dGUuY29tLz9wPTQ1NDU1Nw==
+  content: !binary |-
+    Q0VEQVIgUkFQSURTICYjODIxMTsgT25lIG9mIHRoZSB0ZWVuYWdlcnMgY2hh
+    cmdlZCBpbiBhbiBhc3NhdWx0IHRoYXQgbGVmdCBhIGJveSB3aXRoIGEgYnJv
+    a2VuIGphdyBhZG1pdHRlZCBoaXMgcm9sZSBpbiB0aGUgYXR0YWNrIHRvIHBv
+    bGljZSBhbmQgdG9sZCB0aGVtIGhlIGhhZCBiZWVuICYjODIyMDttYWQgYXQg
+    dGhlIHdvcmxkLCYjODIyMTsuLi48ZGl2IGNsYXNzPSJmZWVkZmxhcmUiPgo8
+    YSBocmVmPSJodHRwOi8vZmVlZHMuZmVlZGJ1cm5lci5jb20vfmZmL0dhemV0
+    dGVPbmxpbmVCcmVha2luZ05ld3M/YT1MaURFR0RQbzF4MDp0RndHYmU1VGxK
+    QTp5SWwyQVVvQzh6QSI+PGltZyBzcmM9Imh0dHA6Ly9mZWVkcy5mZWVkYnVy
+    bmVyLmNvbS9+ZmYvR2F6ZXR0ZU9ubGluZUJyZWFraW5nTmV3cz9kPXlJbDJB
+    VW9DOHpBIiBib3JkZXI9IjAiPjwvaW1nPjwvYT4gPGEgaHJlZj0iaHR0cDov
+    L2ZlZWRzLmZlZWRidXJuZXIuY29tL35mZi9HYXpldHRlT25saW5lQnJlYWtp
+    bmdOZXdzP2E9TGlERUdEUG8xeDA6dEZ3R2JlNVRsSkE6Vl9zR0xpUEJwV1Ui
+    PjxpbWcgc3JjPSJodHRwOi8vZmVlZHMuZmVlZGJ1cm5lci5jb20vfmZmL0dh
+    emV0dGVPbmxpbmVCcmVha2luZ05ld3M/aT1MaURFR0RQbzF4MDp0RndHYmU1
+    VGxKQTpWX3NHTGlQQnBXVSIgYm9yZGVyPSIwIj48L2ltZz48L2E+IDxhIGhy
+    ZWY9Imh0dHA6Ly9mZWVkcy5mZWVkYnVybmVyLmNvbS9+ZmYvR2F6ZXR0ZU9u
+    bGluZUJyZWFraW5nTmV3cz9hPUxpREVHRFBvMXgwOnRGd0diZTVUbEpBOnFq
+    NklESzdySVRzIj48aW1nIHNyYz0iaHR0cDovL2ZlZWRzLmZlZWRidXJuZXIu
+    Y29tL35mZi9HYXpldHRlT25saW5lQnJlYWtpbmdOZXdzP2Q9cWo2SURLN3JJ
+    VHMiIGJvcmRlcj0iMCI+PC9pbWc+PC9hPiA8YSBocmVmPSJodHRwOi8vZmVl
+    ZHMuZmVlZGJ1cm5lci5jb20vfmZmL0dhemV0dGVPbmxpbmVCcmVha2luZ05l
+    d3M/YT1MaURFR0RQbzF4MDp0RndHYmU1VGxKQTpLd1RkTkJYM0pxayI+PGlt
+    ZyBzcmM9Imh0dHA6Ly9mZWVkcy5mZWVkYnVybmVyLmNvbS9+ZmYvR2F6ZXR0
+    ZU9ubGluZUJyZWFraW5nTmV3cz9pPUxpREVHRFBvMXgwOnRGd0diZTVUbEpB
+    Okt3VGROQlgzSnFrIiBib3JkZXI9IjAiPjwvaW1nPjwvYT4gPGEgaHJlZj0i
+    aHR0cDovL2ZlZWRzLmZlZWRidXJuZXIuY29tL35mZi9HYXpldHRlT25saW5l
+    QnJlYWtpbmdOZXdzP2E9TGlERUdEUG8xeDA6dEZ3R2JlNVRsSkE6Z0lOOXZG
+    d09xdlEiPjxpbWcgc3JjPSJodHRwOi8vZmVlZHMuZmVlZGJ1cm5lci5jb20v
+    fmZmL0dhemV0dGVPbmxpbmVCcmVha2luZ05ld3M/aT1MaURFR0RQbzF4MDp0
+    RndHYmU1VGxKQTpnSU45dkZ3T3F2USIgYm9yZGVyPSIwIj48L2ltZz48L2E+
+    IDxhIGhyZWY9Imh0dHA6Ly9mZWVkcy5mZWVkYnVybmVyLmNvbS9+ZmYvR2F6
+    ZXR0ZU9ubGluZUJyZWFraW5nTmV3cz9hPUxpREVHRFBvMXgwOnRGd0diZTVU
+    bEpBOmw2Z213aVRLc3owIj48aW1nIHNyYz0iaHR0cDovL2ZlZWRzLmZlZWRi
+    dXJuZXIuY29tL35mZi9HYXpldHRlT25saW5lQnJlYWtpbmdOZXdzP2Q9bDZn
+    bXdpVEtzejAiIGJvcmRlcj0iMCI+PC9pbWc+PC9hPgo8L2Rpdj48aW1nIHNy
+    Yz0iaHR0cDovL2ZlZWRzLmZlZWRidXJuZXIuY29tL35yL0dhemV0dGVPbmxp
+    bmVCcmVha2luZ05ld3MvfjQvTGlERUdEUG8xeDAiIGhlaWdodD0iMSIgd2lk
+    dGg9IjEiLz4=
+- !ruby/object:Feedzirra::Parser::RSSEntry
+  title: !binary |-
+    SXNhYWMgdG8gYnJpbmcgcmFpbmZhbGwgdG8gSW93YQ==
+  url: !binary |-
+    aHR0cDovL2ZlZWRwcm94eS5nb29nbGUuY29tL35yL0dhemV0dGVPbmxpbmVC
+    cmVha2luZ05ld3MvfjMvekUteERBZnpHX0Ev
+  categories:
+  - !binary |-
+    U3RhdGV3aWRlIE5ld3M=
+  author: !binary |-
+    QXNzb2NpYXRlZCBQcmVzcw==
+  published: 2012-08-31 17:34:22.000000000 Z
+  entry_id: !binary |-
+    aHR0cDovL3RoZWdhemV0dGUuY29tLz9wPTQ1NDU2Mg==
+  content: !binary |-
+    QlVSTElOR1RPTiwgSW93YSAoQVApICYjODIxMjsgVGhlIE5hdGlvbmFsIFdl
+    YXRoZXIgU2VydmljZSBzYXlzIHRoZSBzb3V0aGVhc3QgY29ybmVyIG9mIElv
+    d2EsIGluY2x1ZGluZyB0aGUgY2l0eSBvZiBCdXJsaW5ndG9uLCBpcyBleHBl
+    Y3RlZCB0byBzZWUgYmV0d2VlbiAyIHRvIDQgaW5jaGVzIG9mIHJhaW4gb3Zl
+    ciB0aGUgd2Vla2VuZCBmcm9tLi4uPGRpdiBjbGFzcz0iZmVlZGZsYXJlIj4K
+    PGEgaHJlZj0iaHR0cDovL2ZlZWRzLmZlZWRidXJuZXIuY29tL35mZi9HYXpl
+    dHRlT25saW5lQnJlYWtpbmdOZXdzP2E9ekUteERBZnpHX0E6TVBQdHVWZk5r
+    X2M6eUlsMkFVb0M4ekEiPjxpbWcgc3JjPSJodHRwOi8vZmVlZHMuZmVlZGJ1
+    cm5lci5jb20vfmZmL0dhemV0dGVPbmxpbmVCcmVha2luZ05ld3M/ZD15SWwy
+    QVVvQzh6QSIgYm9yZGVyPSIwIj48L2ltZz48L2E+IDxhIGhyZWY9Imh0dHA6
+    Ly9mZWVkcy5mZWVkYnVybmVyLmNvbS9+ZmYvR2F6ZXR0ZU9ubGluZUJyZWFr
+    aW5nTmV3cz9hPXpFLXhEQWZ6R19BOk1QUHR1VmZOa19jOlZfc0dMaVBCcFdV
+    Ij48aW1nIHNyYz0iaHR0cDovL2ZlZWRzLmZlZWRidXJuZXIuY29tL35mZi9H
+    YXpldHRlT25saW5lQnJlYWtpbmdOZXdzP2k9ekUteERBZnpHX0E6TVBQdHVW
+    Zk5rX2M6Vl9zR0xpUEJwV1UiIGJvcmRlcj0iMCI+PC9pbWc+PC9hPiA8YSBo
+    cmVmPSJodHRwOi8vZmVlZHMuZmVlZGJ1cm5lci5jb20vfmZmL0dhemV0dGVP
+    bmxpbmVCcmVha2luZ05ld3M/YT16RS14REFmekdfQTpNUFB0dVZmTmtfYzpx
+    ajZJREs3cklUcyI+PGltZyBzcmM9Imh0dHA6Ly9mZWVkcy5mZWVkYnVybmVy
+    LmNvbS9+ZmYvR2F6ZXR0ZU9ubGluZUJyZWFraW5nTmV3cz9kPXFqNklESzdy
+    SVRzIiBib3JkZXI9IjAiPjwvaW1nPjwvYT4gPGEgaHJlZj0iaHR0cDovL2Zl
+    ZWRzLmZlZWRidXJuZXIuY29tL35mZi9HYXpldHRlT25saW5lQnJlYWtpbmdO
+    ZXdzP2E9ekUteERBZnpHX0E6TVBQdHVWZk5rX2M6S3dUZE5CWDNKcWsiPjxp
+    bWcgc3JjPSJodHRwOi8vZmVlZHMuZmVlZGJ1cm5lci5jb20vfmZmL0dhemV0
+    dGVPbmxpbmVCcmVha2luZ05ld3M/aT16RS14REFmekdfQTpNUFB0dVZmTmtf
+    YzpLd1RkTkJYM0pxayIgYm9yZGVyPSIwIj48L2ltZz48L2E+IDxhIGhyZWY9
+    Imh0dHA6Ly9mZWVkcy5mZWVkYnVybmVyLmNvbS9+ZmYvR2F6ZXR0ZU9ubGlu
+    ZUJyZWFraW5nTmV3cz9hPXpFLXhEQWZ6R19BOk1QUHR1VmZOa19jOmdJTjl2
+    RndPcXZRIj48aW1nIHNyYz0iaHR0cDovL2ZlZWRzLmZlZWRidXJuZXIuY29t
+    L35mZi9HYXpldHRlT25saW5lQnJlYWtpbmdOZXdzP2k9ekUteERBZnpHX0E6
+    TVBQdHVWZk5rX2M6Z0lOOXZGd09xdlEiIGJvcmRlcj0iMCI+PC9pbWc+PC9h
+    PiA8YSBocmVmPSJodHRwOi8vZmVlZHMuZmVlZGJ1cm5lci5jb20vfmZmL0dh
+    emV0dGVPbmxpbmVCcmVha2luZ05ld3M/YT16RS14REFmekdfQTpNUFB0dVZm
+    TmtfYzpsNmdtd2lUS3N6MCI+PGltZyBzcmM9Imh0dHA6Ly9mZWVkcy5mZWVk
+    YnVybmVyLmNvbS9+ZmYvR2F6ZXR0ZU9ubGluZUJyZWFraW5nTmV3cz9kPWw2
+    Z213aVRLc3owIiBib3JkZXI9IjAiPjwvaW1nPjwvYT4KPC9kaXY+PGltZyBz
+    cmM9Imh0dHA6Ly9mZWVkcy5mZWVkYnVybmVyLmNvbS9+ci9HYXpldHRlT25s
+    aW5lQnJlYWtpbmdOZXdzL340L3pFLXhEQWZ6R19BIiBoZWlnaHQ9IjEiIHdp
+    ZHRoPSIxIi8+
+- !ruby/object:Feedzirra::Parser::RSSEntry
+  title: !binary |-
+    R3VubWFuIHJvYnMgdG9iYWNjbyBzdG9yZSBpbiBDZWRhciBSYXBpZHM=
+  url: !binary |-
+    aHR0cDovL2ZlZWRwcm94eS5nb29nbGUuY29tL35yL0dhemV0dGVPbmxpbmVC
+    cmVha2luZ05ld3MvfjMvX1hZQnlKMDdEQWMv
+  categories:
+  - !binary |-
+    TG9jYWwgTmV3cw==
+  - !binary |-
+    UHVibGljIFNhZmV0eQ==
+  - !binary |-
+    U3RhdGV3aWRlIE5ld3M=
+  author: !binary |-
+    SmVmZiBSYWFzY2g=
+  published: 2012-08-31 16:50:09.000000000 Z
+  entry_id: !binary |-
+    aHR0cDovL3RoZWdhemV0dGUuY29tLz9wPTQ1NDUwMw==
+  content: !binary |-
+    UG9saWNlIGFyZSBpbnZlc3RpZ2F0aW5nIGFuIGFybWVkIHJvYmJlcnkgYXQg
+    YSBDZWRhciBSYXBpZHMgc21va2Ugc2hvcCBlYXJseSBGcmlkYXkgbW9ybmlu
+    Zy4gSXQgaGFwcGVuZWQgYXJvdW5kIDQgYS5tLiBhdCBQdWZmIE4mIzgyMTc7
+    IFN0dWZmIDIsIDE1NDUgRmlyc3QgQXZlLiBTRS4gVGhlIGxvbmUgc3VzcGVj
+    dCBkaXNwbGF5ZWQgd2hhdC4uLjxkaXYgY2xhc3M9ImZlZWRmbGFyZSI+Cjxh
+    IGhyZWY9Imh0dHA6Ly9mZWVkcy5mZWVkYnVybmVyLmNvbS9+ZmYvR2F6ZXR0
+    ZU9ubGluZUJyZWFraW5nTmV3cz9hPV9YWUJ5SjA3REFjOkVYLWJwQmtOdWZF
+    OnlJbDJBVW9DOHpBIj48aW1nIHNyYz0iaHR0cDovL2ZlZWRzLmZlZWRidXJu
+    ZXIuY29tL35mZi9HYXpldHRlT25saW5lQnJlYWtpbmdOZXdzP2Q9eUlsMkFV
+    b0M4ekEiIGJvcmRlcj0iMCI+PC9pbWc+PC9hPiA8YSBocmVmPSJodHRwOi8v
+    ZmVlZHMuZmVlZGJ1cm5lci5jb20vfmZmL0dhemV0dGVPbmxpbmVCcmVha2lu
+    Z05ld3M/YT1fWFlCeUowN0RBYzpFWC1icEJrTnVmRTpWX3NHTGlQQnBXVSI+
+    PGltZyBzcmM9Imh0dHA6Ly9mZWVkcy5mZWVkYnVybmVyLmNvbS9+ZmYvR2F6
+    ZXR0ZU9ubGluZUJyZWFraW5nTmV3cz9pPV9YWUJ5SjA3REFjOkVYLWJwQmtO
+    dWZFOlZfc0dMaVBCcFdVIiBib3JkZXI9IjAiPjwvaW1nPjwvYT4gPGEgaHJl
+    Zj0iaHR0cDovL2ZlZWRzLmZlZWRidXJuZXIuY29tL35mZi9HYXpldHRlT25s
+    aW5lQnJlYWtpbmdOZXdzP2E9X1hZQnlKMDdEQWM6RVgtYnBCa051ZkU6cWo2
+    SURLN3JJVHMiPjxpbWcgc3JjPSJodHRwOi8vZmVlZHMuZmVlZGJ1cm5lci5j
+    b20vfmZmL0dhemV0dGVPbmxpbmVCcmVha2luZ05ld3M/ZD1xajZJREs3cklU
+    cyIgYm9yZGVyPSIwIj48L2ltZz48L2E+IDxhIGhyZWY9Imh0dHA6Ly9mZWVk
+    cy5mZWVkYnVybmVyLmNvbS9+ZmYvR2F6ZXR0ZU9ubGluZUJyZWFraW5nTmV3
+    cz9hPV9YWUJ5SjA3REFjOkVYLWJwQmtOdWZFOkt3VGROQlgzSnFrIj48aW1n
+    IHNyYz0iaHR0cDovL2ZlZWRzLmZlZWRidXJuZXIuY29tL35mZi9HYXpldHRl
+    T25saW5lQnJlYWtpbmdOZXdzP2k9X1hZQnlKMDdEQWM6RVgtYnBCa051ZkU6
+    S3dUZE5CWDNKcWsiIGJvcmRlcj0iMCI+PC9pbWc+PC9hPiA8YSBocmVmPSJo
+    dHRwOi8vZmVlZHMuZmVlZGJ1cm5lci5jb20vfmZmL0dhemV0dGVPbmxpbmVC
+    cmVha2luZ05ld3M/YT1fWFlCeUowN0RBYzpFWC1icEJrTnVmRTpnSU45dkZ3
+    T3F2USI+PGltZyBzcmM9Imh0dHA6Ly9mZWVkcy5mZWVkYnVybmVyLmNvbS9+
+    ZmYvR2F6ZXR0ZU9ubGluZUJyZWFraW5nTmV3cz9pPV9YWUJ5SjA3REFjOkVY
+    LWJwQmtOdWZFOmdJTjl2RndPcXZRIiBib3JkZXI9IjAiPjwvaW1nPjwvYT4g
+    PGEgaHJlZj0iaHR0cDovL2ZlZWRzLmZlZWRidXJuZXIuY29tL35mZi9HYXpl
+    dHRlT25saW5lQnJlYWtpbmdOZXdzP2E9X1hZQnlKMDdEQWM6RVgtYnBCa051
+    ZkU6bDZnbXdpVEtzejAiPjxpbWcgc3JjPSJodHRwOi8vZmVlZHMuZmVlZGJ1
+    cm5lci5jb20vfmZmL0dhemV0dGVPbmxpbmVCcmVha2luZ05ld3M/ZD1sNmdt
+    d2lUS3N6MCIgYm9yZGVyPSIwIj48L2ltZz48L2E+CjwvZGl2PjxpbWcgc3Jj
+    PSJodHRwOi8vZmVlZHMuZmVlZGJ1cm5lci5jb20vfnIvR2F6ZXR0ZU9ubGlu
+    ZUJyZWFraW5nTmV3cy9+NC9fWFlCeUowN0RBYyIgaGVpZ2h0PSIxIiB3aWR0
+    aD0iMSIvPg==
+- !ruby/object:Feedzirra::Parser::RSSEntry
+  title: !binary |-
+    TWFzb252aWxsZSB3b21hbiBkaWVzIGluIGNyYXNoIGluIERlbGF3YXJlIENv
+    dW50eQ==
+  url: !binary |-
+    aHR0cDovL2ZlZWRwcm94eS5nb29nbGUuY29tL35yL0dhemV0dGVPbmxpbmVC
+    cmVha2luZ05ld3MvfjMvQXpKb0ZpVDl3dlkv
+  categories:
+  - !binary |-
+    TG9jYWwgTmV3cw==
+  - !binary |-
+    UHVibGljIFNhZmV0eQ==
+  author: !binary |-
+    Q2hyaXN0eSBBdW1lci9Tb3VyY2VNZWRpYSBHcm91cCBOZXdz
+  published: 2012-08-31 16:50:05.000000000 Z
+  entry_id: !binary |-
+    aHR0cDovL3RoZWdhemV0dGUuY29tLz9wPTQ1NDUwMg==
+  content: !binary |-
+    QSBNYXNvbnZpbGxlIHJlc2lkZW50IGRpZWQgaW4gYSByb2xsb3ZlciBjcmFz
+    aCB0aHJlZSBtaWxlcyB3ZXN0IG9mIE1hbmNoZXN0ZXIgVGh1cnNkYXkgbW9y
+    bmluZy4gQWNjb3JkaW5nIHRvIElvd2EgU3RhdGUgUGF0cm9sLCBMaW5kc2F5
+    IEJhcm5ldHQgd2FzIHRyYXZlbGluZyB3ZXN0IG9uIDIxMHRoIFN0cmVldCwg
+    bGVmdCB0aGUgcm9hZHdheS4uLjxkaXYgY2xhc3M9ImZlZWRmbGFyZSI+Cjxh
+    IGhyZWY9Imh0dHA6Ly9mZWVkcy5mZWVkYnVybmVyLmNvbS9+ZmYvR2F6ZXR0
+    ZU9ubGluZUJyZWFraW5nTmV3cz9hPUF6Sm9GaVQ5d3ZZOks0SEFzMEZnTlU0
+    OnlJbDJBVW9DOHpBIj48aW1nIHNyYz0iaHR0cDovL2ZlZWRzLmZlZWRidXJu
+    ZXIuY29tL35mZi9HYXpldHRlT25saW5lQnJlYWtpbmdOZXdzP2Q9eUlsMkFV
+    b0M4ekEiIGJvcmRlcj0iMCI+PC9pbWc+PC9hPiA8YSBocmVmPSJodHRwOi8v
+    ZmVlZHMuZmVlZGJ1cm5lci5jb20vfmZmL0dhemV0dGVPbmxpbmVCcmVha2lu
+    Z05ld3M/YT1BekpvRmlUOXd2WTpLNEhBczBGZ05VNDpWX3NHTGlQQnBXVSI+
+    PGltZyBzcmM9Imh0dHA6Ly9mZWVkcy5mZWVkYnVybmVyLmNvbS9+ZmYvR2F6
+    ZXR0ZU9ubGluZUJyZWFraW5nTmV3cz9pPUF6Sm9GaVQ5d3ZZOks0SEFzMEZn
+    TlU0OlZfc0dMaVBCcFdVIiBib3JkZXI9IjAiPjwvaW1nPjwvYT4gPGEgaHJl
+    Zj0iaHR0cDovL2ZlZWRzLmZlZWRidXJuZXIuY29tL35mZi9HYXpldHRlT25s
+    aW5lQnJlYWtpbmdOZXdzP2E9QXpKb0ZpVDl3dlk6SzRIQXMwRmdOVTQ6cWo2
+    SURLN3JJVHMiPjxpbWcgc3JjPSJodHRwOi8vZmVlZHMuZmVlZGJ1cm5lci5j
+    b20vfmZmL0dhemV0dGVPbmxpbmVCcmVha2luZ05ld3M/ZD1xajZJREs3cklU
+    cyIgYm9yZGVyPSIwIj48L2ltZz48L2E+IDxhIGhyZWY9Imh0dHA6Ly9mZWVk
+    cy5mZWVkYnVybmVyLmNvbS9+ZmYvR2F6ZXR0ZU9ubGluZUJyZWFraW5nTmV3
+    cz9hPUF6Sm9GaVQ5d3ZZOks0SEFzMEZnTlU0Okt3VGROQlgzSnFrIj48aW1n
+    IHNyYz0iaHR0cDovL2ZlZWRzLmZlZWRidXJuZXIuY29tL35mZi9HYXpldHRl
+    T25saW5lQnJlYWtpbmdOZXdzP2k9QXpKb0ZpVDl3dlk6SzRIQXMwRmdOVTQ6
+    S3dUZE5CWDNKcWsiIGJvcmRlcj0iMCI+PC9pbWc+PC9hPiA8YSBocmVmPSJo
+    dHRwOi8vZmVlZHMuZmVlZGJ1cm5lci5jb20vfmZmL0dhemV0dGVPbmxpbmVC
+    cmVha2luZ05ld3M/YT1BekpvRmlUOXd2WTpLNEhBczBGZ05VNDpnSU45dkZ3
+    T3F2USI+PGltZyBzcmM9Imh0dHA6Ly9mZWVkcy5mZWVkYnVybmVyLmNvbS9+
+    ZmYvR2F6ZXR0ZU9ubGluZUJyZWFraW5nTmV3cz9pPUF6Sm9GaVQ5d3ZZOks0
+    SEFzMEZnTlU0OmdJTjl2RndPcXZRIiBib3JkZXI9IjAiPjwvaW1nPjwvYT4g
+    PGEgaHJlZj0iaHR0cDovL2ZlZWRzLmZlZWRidXJuZXIuY29tL35mZi9HYXpl
+    dHRlT25saW5lQnJlYWtpbmdOZXdzP2E9QXpKb0ZpVDl3dlk6SzRIQXMwRmdO
+    VTQ6bDZnbXdpVEtzejAiPjxpbWcgc3JjPSJodHRwOi8vZmVlZHMuZmVlZGJ1
+    cm5lci5jb20vfmZmL0dhemV0dGVPbmxpbmVCcmVha2luZ05ld3M/ZD1sNmdt
+    d2lUS3N6MCIgYm9yZGVyPSIwIj48L2ltZz48L2E+CjwvZGl2PjxpbWcgc3Jj
+    PSJodHRwOi8vZmVlZHMuZmVlZGJ1cm5lci5jb20vfnIvR2F6ZXR0ZU9ubGlu
+    ZUJyZWFraW5nTmV3cy9+NC9BekpvRmlUOXd2WSIgaGVpZ2h0PSIxIiB3aWR0
+    aD0iMSIvPg==
+- !ruby/object:Feedzirra::Parser::RSSEntry
+  title: !binary |-
+    SW93YSBDaXR5IG11cmRlciBzdXNwZWN0IGJhY2sgaW4gSm9obnNvbiBDb3Vu
+    dHk=
+  url: !binary |-
+    aHR0cDovL2ZlZWRwcm94eS5nb29nbGUuY29tL35yL0dhemV0dGVPbmxpbmVC
+    cmVha2luZ05ld3MvfjMvTmtianVXNi12Rmsv
+  categories:
+  - !binary |-
+    TG9jYWwgTmV3cw==
+  - !binary |-
+    UHVibGljIFNhZmV0eQ==
+  - !binary |-
+    U3RhdGV3aWRlIE5ld3M=
+  - !binary |-
+    QnJhbmRvbiBCcm93bg==
+  - !binary |-
+    Q29vayBDb3VudHkgU2hlcmlmZidzIE9mZmljZQ==
+  - !binary |-
+    RG9ubmVsbGUgTGluZHNleQ==
+  - !binary |-
+    Zmlyc3QtZGVncmVlIG11cmRlcg==
+  - !binary |-
+    SW93YSBDaXR5IFBvbGljZSBEZXBhcnRtZW50
+  - !binary |-
+    U291dGggSG9sbGFuZA==
+  author: !binary |-
+    VmFuZXNzYSBNaWxsZXI=
+  published: 2012-08-31 15:18:11.000000000 Z
+  entry_id: !binary |-
+    aHR0cDovL3RoZWdhemV0dGUuY29tLz9wPTQ1NDQzNA==
+  content: !binary |-
+    QSAyNy15ZWFyLW9sZCBJbGxpbm9pcyBtYW4gYWNjdXNlZCBvZiBndW5uaW5n
+    IGRvd24gYSBDaXR5IEhpZ2ggZ3JhZHVhdGUgb24gdGhlIHdlc3Qgc2lkZSBv
+    ZiBJb3dhIENpdHkgaW4gSnVuZSB3YXMgYm9va2VkIGludG8gdGhlIEpvaG5z
+    b24gQ291bnR5IEphaWwgb24gVGh1cnNkYXkgZXZlbmluZywgMTAgZGF5cyBh
+    ZnRlciBoZSB3YXMuLi48ZGl2IGNsYXNzPSJmZWVkZmxhcmUiPgo8YSBocmVm
+    PSJodHRwOi8vZmVlZHMuZmVlZGJ1cm5lci5jb20vfmZmL0dhemV0dGVPbmxp
+    bmVCcmVha2luZ05ld3M/YT1Oa2JqdVc2LXZGazpIcjV2bzBMMEl4NDp5SWwy
+    QVVvQzh6QSI+PGltZyBzcmM9Imh0dHA6Ly9mZWVkcy5mZWVkYnVybmVyLmNv
+    bS9+ZmYvR2F6ZXR0ZU9ubGluZUJyZWFraW5nTmV3cz9kPXlJbDJBVW9DOHpB
+    IiBib3JkZXI9IjAiPjwvaW1nPjwvYT4gPGEgaHJlZj0iaHR0cDovL2ZlZWRz
+    LmZlZWRidXJuZXIuY29tL35mZi9HYXpldHRlT25saW5lQnJlYWtpbmdOZXdz
+    P2E9TmtianVXNi12Rms6SHI1dm8wTDBJeDQ6Vl9zR0xpUEJwV1UiPjxpbWcg
+    c3JjPSJodHRwOi8vZmVlZHMuZmVlZGJ1cm5lci5jb20vfmZmL0dhemV0dGVP
+    bmxpbmVCcmVha2luZ05ld3M/aT1Oa2JqdVc2LXZGazpIcjV2bzBMMEl4NDpW
+    X3NHTGlQQnBXVSIgYm9yZGVyPSIwIj48L2ltZz48L2E+IDxhIGhyZWY9Imh0
+    dHA6Ly9mZWVkcy5mZWVkYnVybmVyLmNvbS9+ZmYvR2F6ZXR0ZU9ubGluZUJy
+    ZWFraW5nTmV3cz9hPU5rYmp1VzYtdkZrOkhyNXZvMEwwSXg0OnFqNklESzdy
+    SVRzIj48aW1nIHNyYz0iaHR0cDovL2ZlZWRzLmZlZWRidXJuZXIuY29tL35m
+    Zi9HYXpldHRlT25saW5lQnJlYWtpbmdOZXdzP2Q9cWo2SURLN3JJVHMiIGJv
+    cmRlcj0iMCI+PC9pbWc+PC9hPiA8YSBocmVmPSJodHRwOi8vZmVlZHMuZmVl
+    ZGJ1cm5lci5jb20vfmZmL0dhemV0dGVPbmxpbmVCcmVha2luZ05ld3M/YT1O
+    a2JqdVc2LXZGazpIcjV2bzBMMEl4NDpLd1RkTkJYM0pxayI+PGltZyBzcmM9
+    Imh0dHA6Ly9mZWVkcy5mZWVkYnVybmVyLmNvbS9+ZmYvR2F6ZXR0ZU9ubGlu
+    ZUJyZWFraW5nTmV3cz9pPU5rYmp1VzYtdkZrOkhyNXZvMEwwSXg0Okt3VGRO
+    QlgzSnFrIiBib3JkZXI9IjAiPjwvaW1nPjwvYT4gPGEgaHJlZj0iaHR0cDov
+    L2ZlZWRzLmZlZWRidXJuZXIuY29tL35mZi9HYXpldHRlT25saW5lQnJlYWtp
+    bmdOZXdzP2E9TmtianVXNi12Rms6SHI1dm8wTDBJeDQ6Z0lOOXZGd09xdlEi
+    PjxpbWcgc3JjPSJodHRwOi8vZmVlZHMuZmVlZGJ1cm5lci5jb20vfmZmL0dh
+    emV0dGVPbmxpbmVCcmVha2luZ05ld3M/aT1Oa2JqdVc2LXZGazpIcjV2bzBM
+    MEl4NDpnSU45dkZ3T3F2USIgYm9yZGVyPSIwIj48L2ltZz48L2E+IDxhIGhy
+    ZWY9Imh0dHA6Ly9mZWVkcy5mZWVkYnVybmVyLmNvbS9+ZmYvR2F6ZXR0ZU9u
+    bGluZUJyZWFraW5nTmV3cz9hPU5rYmp1VzYtdkZrOkhyNXZvMEwwSXg0Omw2
+    Z213aVRLc3owIj48aW1nIHNyYz0iaHR0cDovL2ZlZWRzLmZlZWRidXJuZXIu
+    Y29tL35mZi9HYXpldHRlT25saW5lQnJlYWtpbmdOZXdzP2Q9bDZnbXdpVEtz
+    ejAiIGJvcmRlcj0iMCI+PC9pbWc+PC9hPgo8L2Rpdj48aW1nIHNyYz0iaHR0
+    cDovL2ZlZWRzLmZlZWRidXJuZXIuY29tL35yL0dhemV0dGVPbmxpbmVCcmVh
+    a2luZ05ld3MvfjQvTmtianVXNi12RmsiIGhlaWdodD0iMSIgd2lkdGg9IjEi
+    Lz4=
+- !ruby/object:Feedzirra::Parser::RSSEntry
+  title: !binary |-
+    SGlnaCB0ZW1wcyBtZWFuIGVhcmx5IGRpc21pc3NhbHMgZm9yIHNjaG9vbHM=
+  url: !binary |-
+    aHR0cDovL2ZlZWRwcm94eS5nb29nbGUuY29tL35yL0dhemV0dGVPbmxpbmVC
+    cmVha2luZ05ld3MvfjMvQ2tYUmJWUGhfUk0v
+  categories:
+  - !binary |-
+    RWR1Y2F0aW9u
+  - !binary |-
+    TG9jYWwgTmV3cw==
+  - !binary |-
+    V2VhdGhlcg==
+  - !binary |-
+    QWxidXJuZXR0
+  - !binary |-
+    QWxidXJuZXR0IENvbW11bml0eSBTY2hvb2wgRGlzdHJpY3Q=
+  - !binary |-
+    RGFuaSBUcmltYmxl
+  - !binary |-
+    aG90IHNjaG9vbHM=
+  - !binary |-
+    SW93YSBEZXBhcnRtZW50IG9mIEVkdWNhdGlvbg==
+  - !binary |-
+    TWlrZSBDb3JtYWNr
+  - !binary |-
+    U2Nob29sIEluc3RydWN0aW9uYWwgVGltZSBUYXNrIEZvcmNl
+  author: !binary |-
+    TWVyeW4gRmx1a2VyL1NvdXJjZU1lZGlhIEdyb3VwIE5ld3M=
+  published: 2012-08-31 04:00:27.000000000 Z
+  entry_id: !binary |-
+    aHR0cDovL3RoZWdhemV0dGUuY29tLz9wPTQ1NDI0OQ==
+  content: !binary |-
+    VGhlIGFjYWRlbWljIHllYXIgaXMgdW5kZXIgd2F5IGZvciB0aGUgdmFzdCBt
+    YWpvcml0eSBvZiBJb3dhIGRpc3RyaWN0cywgYnV0IGNsYXNzcm9vbXMgZnJv
+    bSBUaXB0b24gdG8gVGFtYSBoYXZlIHNhdCBlbXB0eSBhcyBoaWdoIHRlbXBl
+    cmF0dXJlcyBzcHVyIGFkbWluaXN0cmF0b3JzIHRvIHNoYXZlIGFuIGhvdXIg
+    b3IgdHdvIGZyb20gc2Nob29sLi4uPGRpdiBjbGFzcz0iZmVlZGZsYXJlIj4K
+    PGEgaHJlZj0iaHR0cDovL2ZlZWRzLmZlZWRidXJuZXIuY29tL35mZi9HYXpl
+    dHRlT25saW5lQnJlYWtpbmdOZXdzP2E9Q2tYUmJWUGhfUk06MG5uUWtpZlFS
+    Q2s6eUlsMkFVb0M4ekEiPjxpbWcgc3JjPSJodHRwOi8vZmVlZHMuZmVlZGJ1
+    cm5lci5jb20vfmZmL0dhemV0dGVPbmxpbmVCcmVha2luZ05ld3M/ZD15SWwy
+    QVVvQzh6QSIgYm9yZGVyPSIwIj48L2ltZz48L2E+IDxhIGhyZWY9Imh0dHA6
+    Ly9mZWVkcy5mZWVkYnVybmVyLmNvbS9+ZmYvR2F6ZXR0ZU9ubGluZUJyZWFr
+    aW5nTmV3cz9hPUNrWFJiVlBoX1JNOjBublFraWZRUkNrOlZfc0dMaVBCcFdV
+    Ij48aW1nIHNyYz0iaHR0cDovL2ZlZWRzLmZlZWRidXJuZXIuY29tL35mZi9H
+    YXpldHRlT25saW5lQnJlYWtpbmdOZXdzP2k9Q2tYUmJWUGhfUk06MG5uUWtp
+    ZlFSQ2s6Vl9zR0xpUEJwV1UiIGJvcmRlcj0iMCI+PC9pbWc+PC9hPiA8YSBo
+    cmVmPSJodHRwOi8vZmVlZHMuZmVlZGJ1cm5lci5jb20vfmZmL0dhemV0dGVP
+    bmxpbmVCcmVha2luZ05ld3M/YT1Da1hSYlZQaF9STTowbm5Ra2lmUVJDazpx
+    ajZJREs3cklUcyI+PGltZyBzcmM9Imh0dHA6Ly9mZWVkcy5mZWVkYnVybmVy
+    LmNvbS9+ZmYvR2F6ZXR0ZU9ubGluZUJyZWFraW5nTmV3cz9kPXFqNklESzdy
+    SVRzIiBib3JkZXI9IjAiPjwvaW1nPjwvYT4gPGEgaHJlZj0iaHR0cDovL2Zl
+    ZWRzLmZlZWRidXJuZXIuY29tL35mZi9HYXpldHRlT25saW5lQnJlYWtpbmdO
+    ZXdzP2E9Q2tYUmJWUGhfUk06MG5uUWtpZlFSQ2s6S3dUZE5CWDNKcWsiPjxp
+    bWcgc3JjPSJodHRwOi8vZmVlZHMuZmVlZGJ1cm5lci5jb20vfmZmL0dhemV0
+    dGVPbmxpbmVCcmVha2luZ05ld3M/aT1Da1hSYlZQaF9STTowbm5Ra2lmUVJD
+    azpLd1RkTkJYM0pxayIgYm9yZGVyPSIwIj48L2ltZz48L2E+IDxhIGhyZWY9
+    Imh0dHA6Ly9mZWVkcy5mZWVkYnVybmVyLmNvbS9+ZmYvR2F6ZXR0ZU9ubGlu
+    ZUJyZWFraW5nTmV3cz9hPUNrWFJiVlBoX1JNOjBublFraWZRUkNrOmdJTjl2
+    RndPcXZRIj48aW1nIHNyYz0iaHR0cDovL2ZlZWRzLmZlZWRidXJuZXIuY29t
+    L35mZi9HYXpldHRlT25saW5lQnJlYWtpbmdOZXdzP2k9Q2tYUmJWUGhfUk06
+    MG5uUWtpZlFSQ2s6Z0lOOXZGd09xdlEiIGJvcmRlcj0iMCI+PC9pbWc+PC9h
+    PiA8YSBocmVmPSJodHRwOi8vZmVlZHMuZmVlZGJ1cm5lci5jb20vfmZmL0dh
+    emV0dGVPbmxpbmVCcmVha2luZ05ld3M/YT1Da1hSYlZQaF9STTowbm5Ra2lm
+    UVJDazpsNmdtd2lUS3N6MCI+PGltZyBzcmM9Imh0dHA6Ly9mZWVkcy5mZWVk
+    YnVybmVyLmNvbS9+ZmYvR2F6ZXR0ZU9ubGluZUJyZWFraW5nTmV3cz9kPWw2
+    Z213aVRLc3owIiBib3JkZXI9IjAiPjwvaW1nPjwvYT4KPC9kaXY+PGltZyBz
+    cmM9Imh0dHA6Ly9mZWVkcy5mZWVkYnVybmVyLmNvbS9+ci9HYXpldHRlT25s
+    aW5lQnJlYWtpbmdOZXdzL340L0NrWFJiVlBoX1JNIiBoZWlnaHQ9IjEiIHdp
+    ZHRoPSIxIi8+
+- !ruby/object:Feedzirra::Parser::RSSEntry
+  title: ! '6-year-old witness: Grandmother ‘poured some gasoline on a pillow’'
+  url: !binary |-
+    aHR0cDovL2ZlZWRwcm94eS5nb29nbGUuY29tL35yL0dhemV0dGVPbmxpbmVC
+    cmVha2luZ05ld3MvfjMvdjJWUTF3RXlwUWsv
+  categories:
+  - !binary |-
+    Q3JpbWUsIExhdyBhbmQgSnVzdGljZQ==
+  - !binary |-
+    Sm9obnNvbiBDb3VudHk=
+  - !binary |-
+    UHVibGljIFNhZmV0eQ==
+  - !binary |-
+    Y29yYWx2aWxsZQ==
+  - !binary |-
+    ZmF0YWwgZmlyZQ==
+  - !binary |-
+    TGlsbGllIFdpbGxpYW1z
+  - !binary |-
+    UmF5bW9uZSBCcnlhbnQ=
+  author: !binary |-
+    VmFuZXNzYSBNaWxsZXI=
+  published: 2012-08-30 23:40:06.000000000 Z
+  entry_id: !binary |-
+    aHR0cDovL3RoZWdhemV0dGUuY29tLz9wPTQ1NDE2Nw==
+  content: ! '&#160; The 6-year-old grandson of a Coralville woman facing a first-degree
+    murder charge in connection with a fatal fire last September told a judge Thursday
+    afternoon that his grandma “Lillie”...<div class="feedflare">
+
+    <a href="http://feeds.feedburner.com/~ff/GazetteOnlineBreakingNews?a=v2VQ1wEypQk:Bh8-fZvue5w:yIl2AUoC8zA"><img
+    src="http://feeds.feedburner.com/~ff/GazetteOnlineBreakingNews?d=yIl2AUoC8zA"
+    border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/GazetteOnlineBreakingNews?a=v2VQ1wEypQk:Bh8-fZvue5w:V_sGLiPBpWU"><img
+    src="http://feeds.feedburner.com/~ff/GazetteOnlineBreakingNews?i=v2VQ1wEypQk:Bh8-fZvue5w:V_sGLiPBpWU"
+    border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/GazetteOnlineBreakingNews?a=v2VQ1wEypQk:Bh8-fZvue5w:qj6IDK7rITs"><img
+    src="http://feeds.feedburner.com/~ff/GazetteOnlineBreakingNews?d=qj6IDK7rITs"
+    border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/GazetteOnlineBreakingNews?a=v2VQ1wEypQk:Bh8-fZvue5w:KwTdNBX3Jqk"><img
+    src="http://feeds.feedburner.com/~ff/GazetteOnlineBreakingNews?i=v2VQ1wEypQk:Bh8-fZvue5w:KwTdNBX3Jqk"
+    border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/GazetteOnlineBreakingNews?a=v2VQ1wEypQk:Bh8-fZvue5w:gIN9vFwOqvQ"><img
+    src="http://feeds.feedburner.com/~ff/GazetteOnlineBreakingNews?i=v2VQ1wEypQk:Bh8-fZvue5w:gIN9vFwOqvQ"
+    border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/GazetteOnlineBreakingNews?a=v2VQ1wEypQk:Bh8-fZvue5w:l6gmwiTKsz0"><img
+    src="http://feeds.feedburner.com/~ff/GazetteOnlineBreakingNews?d=l6gmwiTKsz0"
+    border="0"></img></a>
+
+    </div><img src="http://feeds.feedburner.com/~r/GazetteOnlineBreakingNews/~4/v2VQ1wEypQk"
+    height="1" width="1"/>'
+- !ruby/object:Feedzirra::Parser::RSSEntry
+  title: !binary |-
+    Q2VkYXIgRmFsbHMgc2FpbG9yIHdlbGNvbWVkIGhvbWU=
+  url: !binary |-
+    aHR0cDovL2ZlZWRwcm94eS5nb29nbGUuY29tL35yL0dhemV0dGVPbmxpbmVC
+    cmVha2luZ05ld3MvfjMvM0pXbHdZajcwZE0v
+  categories:
+  - !binary |-
+    UGVvcGxlIGFuZCBQbGFjZXM=
+  - !binary |-
+    U3RhdGV3aWRlIE5ld3M=
+  author: !binary |-
+    SG9sbHkgSHVkc29uIC8gQ291cmllciBTdGFmZg==
+  published: 2012-08-30 23:35:47.000000000 Z
+  entry_id: !binary |-
+    aHR0cDovL3RoZWdhemV0dGUuY29tLz9wPTQ1NDIwOQ==
+  content: ! '&#160; CEDAR FALLS — The Cedar Valley did it up right. Thousands gathered
+    at the Waterloo Regional Airport and along a route through downtown Cedar Falls,
+    past Cedar Falls High School and ending at...<div class="feedflare">
+
+    <a href="http://feeds.feedburner.com/~ff/GazetteOnlineBreakingNews?a=3JWlwYj70dM:jkJvis9ejEo:yIl2AUoC8zA"><img
+    src="http://feeds.feedburner.com/~ff/GazetteOnlineBreakingNews?d=yIl2AUoC8zA"
+    border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/GazetteOnlineBreakingNews?a=3JWlwYj70dM:jkJvis9ejEo:V_sGLiPBpWU"><img
+    src="http://feeds.feedburner.com/~ff/GazetteOnlineBreakingNews?i=3JWlwYj70dM:jkJvis9ejEo:V_sGLiPBpWU"
+    border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/GazetteOnlineBreakingNews?a=3JWlwYj70dM:jkJvis9ejEo:qj6IDK7rITs"><img
+    src="http://feeds.feedburner.com/~ff/GazetteOnlineBreakingNews?d=qj6IDK7rITs"
+    border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/GazetteOnlineBreakingNews?a=3JWlwYj70dM:jkJvis9ejEo:KwTdNBX3Jqk"><img
+    src="http://feeds.feedburner.com/~ff/GazetteOnlineBreakingNews?i=3JWlwYj70dM:jkJvis9ejEo:KwTdNBX3Jqk"
+    border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/GazetteOnlineBreakingNews?a=3JWlwYj70dM:jkJvis9ejEo:gIN9vFwOqvQ"><img
+    src="http://feeds.feedburner.com/~ff/GazetteOnlineBreakingNews?i=3JWlwYj70dM:jkJvis9ejEo:gIN9vFwOqvQ"
+    border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/GazetteOnlineBreakingNews?a=3JWlwYj70dM:jkJvis9ejEo:l6gmwiTKsz0"><img
+    src="http://feeds.feedburner.com/~ff/GazetteOnlineBreakingNews?d=l6gmwiTKsz0"
+    border="0"></img></a>
+
+    </div><img src="http://feeds.feedburner.com/~r/GazetteOnlineBreakingNews/~4/3JWlwYj70dM"
+    height="1" width="1"/>'
+- !ruby/object:Feedzirra::Parser::RSSEntry
+  title: !binary |-
+    UmFpbCBzbmFmdSBwdXRzIENlZGFyIFJhcGlkcyBsaWJyYXJ5IHNreXdhbGsg
+    b24gaG9sZA==
+  url: !binary |-
+    aHR0cDovL2ZlZWRwcm94eS5nb29nbGUuY29tL35yL0dhemV0dGVPbmxpbmVC
+    cmVha2luZ05ld3MvfjMvNG5JR2wtX05LVHMv
+  categories:
+  - !binary |-
+    RmVhdHVyZWQ=
+  - !binary |-
+    Rmxvb2QgUmVjb3Zlcnk=
+  - !binary |-
+    TGlubiBDb3VudHkgQXJlYQ==
+  author: !binary |-
+    UmljayBTbWl0aA==
+  published: 2012-08-30 23:30:16.000000000 Z
+  entry_id: !binary |-
+    aHR0cDovL3RoZWdhemV0dGUuY29tLz9wPTQ1NDA2Nw==
+  content: ! '&#160; CEDAR RAPIDS — How badly do library patrons want a planned skywalk
+    from the Fourth Avenue SE Parkade over the railroad tracks to the new library,
+    slated to open in August 2013? That’s the...<div class="feedflare">
+
+    <a href="http://feeds.feedburner.com/~ff/GazetteOnlineBreakingNews?a=4nIGl-_NKTs:jrL3t9crBDc:yIl2AUoC8zA"><img
+    src="http://feeds.feedburner.com/~ff/GazetteOnlineBreakingNews?d=yIl2AUoC8zA"
+    border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/GazetteOnlineBreakingNews?a=4nIGl-_NKTs:jrL3t9crBDc:V_sGLiPBpWU"><img
+    src="http://feeds.feedburner.com/~ff/GazetteOnlineBreakingNews?i=4nIGl-_NKTs:jrL3t9crBDc:V_sGLiPBpWU"
+    border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/GazetteOnlineBreakingNews?a=4nIGl-_NKTs:jrL3t9crBDc:qj6IDK7rITs"><img
+    src="http://feeds.feedburner.com/~ff/GazetteOnlineBreakingNews?d=qj6IDK7rITs"
+    border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/GazetteOnlineBreakingNews?a=4nIGl-_NKTs:jrL3t9crBDc:KwTdNBX3Jqk"><img
+    src="http://feeds.feedburner.com/~ff/GazetteOnlineBreakingNews?i=4nIGl-_NKTs:jrL3t9crBDc:KwTdNBX3Jqk"
+    border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/GazetteOnlineBreakingNews?a=4nIGl-_NKTs:jrL3t9crBDc:gIN9vFwOqvQ"><img
+    src="http://feeds.feedburner.com/~ff/GazetteOnlineBreakingNews?i=4nIGl-_NKTs:jrL3t9crBDc:gIN9vFwOqvQ"
+    border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/GazetteOnlineBreakingNews?a=4nIGl-_NKTs:jrL3t9crBDc:l6gmwiTKsz0"><img
+    src="http://feeds.feedburner.com/~ff/GazetteOnlineBreakingNews?d=l6gmwiTKsz0"
+    border="0"></img></a>
+
+    </div><img src="http://feeds.feedburner.com/~r/GazetteOnlineBreakingNews/~4/4nIGl-_NKTs"
+    height="1" width="1"/>'
+- !ruby/object:Feedzirra::Parser::RSSEntry
+  title: !binary |-
+    QWxsZWdlZCBDb2xvcmFkbyBndW5tYW4gZGVuaWVkIGFkbWlzc2lvbiB0byBJ
+    b3dhIGdyYWR1YXRlIHNjaG9vbCBpbiAyMDEx
+  url: !binary |-
+    aHR0cDovL2ZlZWRwcm94eS5nb29nbGUuY29tL35yL0dhemV0dGVPbmxpbmVC
+    cmVha2luZ05ld3MvfjMvdDY3SFdXZzFfOFUv
+  categories:
+  - !binary |-
+    SGlnaGVyIEVkdWNhdGlvbg==
+  author: !binary |-
+    RGlhbmUgSGVsZHQ=
+  published: 2012-08-30 22:40:20.000000000 Z
+  entry_id: !binary |-
+    aHR0cDovL3RoZWdhemV0dGUuY29tLz9wPTQ1MzgyNg==
+  content: !binary |-
+    VVBEQVRFOiBPbmUgVW5pdmVyc2l0eSBvZiBJb3dhIG5ldXJvbG9neSBwcm9m
+    ZXNzb3Igc3Rlcm5seSB3YXJuZWQgYWdhaW5zdCBncmFkdWF0ZSBzY2hvb2wg
+    YWRtaXNzaW9uIGxhc3QgeWVhciB0byB0aGUgbWFuIG5vdyBhY2N1c2VkIG9m
+    IGtpbGxpbmcgMTIgcGVvcGxlIGFuZCB3b3VuZGluZyA1OCBvdGhlcnMgZHVy
+    aW5nIHRoZSBvcGVuaW5nLi4uPGRpdiBjbGFzcz0iZmVlZGZsYXJlIj4KPGEg
+    aHJlZj0iaHR0cDovL2ZlZWRzLmZlZWRidXJuZXIuY29tL35mZi9HYXpldHRl
+    T25saW5lQnJlYWtpbmdOZXdzP2E9dDY3SFdXZzFfOFU6YlVDSWUxTHBvb2c6
+    eUlsMkFVb0M4ekEiPjxpbWcgc3JjPSJodHRwOi8vZmVlZHMuZmVlZGJ1cm5l
+    ci5jb20vfmZmL0dhemV0dGVPbmxpbmVCcmVha2luZ05ld3M/ZD15SWwyQVVv
+    Qzh6QSIgYm9yZGVyPSIwIj48L2ltZz48L2E+IDxhIGhyZWY9Imh0dHA6Ly9m
+    ZWVkcy5mZWVkYnVybmVyLmNvbS9+ZmYvR2F6ZXR0ZU9ubGluZUJyZWFraW5n
+    TmV3cz9hPXQ2N0hXV2cxXzhVOmJVQ0llMUxwb29nOlZfc0dMaVBCcFdVIj48
+    aW1nIHNyYz0iaHR0cDovL2ZlZWRzLmZlZWRidXJuZXIuY29tL35mZi9HYXpl
+    dHRlT25saW5lQnJlYWtpbmdOZXdzP2k9dDY3SFdXZzFfOFU6YlVDSWUxTHBv
+    b2c6Vl9zR0xpUEJwV1UiIGJvcmRlcj0iMCI+PC9pbWc+PC9hPiA8YSBocmVm
+    PSJodHRwOi8vZmVlZHMuZmVlZGJ1cm5lci5jb20vfmZmL0dhemV0dGVPbmxp
+    bmVCcmVha2luZ05ld3M/YT10NjdIV1dnMV84VTpiVUNJZTFMcG9vZzpxajZJ
+    REs3cklUcyI+PGltZyBzcmM9Imh0dHA6Ly9mZWVkcy5mZWVkYnVybmVyLmNv
+    bS9+ZmYvR2F6ZXR0ZU9ubGluZUJyZWFraW5nTmV3cz9kPXFqNklESzdySVRz
+    IiBib3JkZXI9IjAiPjwvaW1nPjwvYT4gPGEgaHJlZj0iaHR0cDovL2ZlZWRz
+    LmZlZWRidXJuZXIuY29tL35mZi9HYXpldHRlT25saW5lQnJlYWtpbmdOZXdz
+    P2E9dDY3SFdXZzFfOFU6YlVDSWUxTHBvb2c6S3dUZE5CWDNKcWsiPjxpbWcg
+    c3JjPSJodHRwOi8vZmVlZHMuZmVlZGJ1cm5lci5jb20vfmZmL0dhemV0dGVP
+    bmxpbmVCcmVha2luZ05ld3M/aT10NjdIV1dnMV84VTpiVUNJZTFMcG9vZzpL
+    d1RkTkJYM0pxayIgYm9yZGVyPSIwIj48L2ltZz48L2E+IDxhIGhyZWY9Imh0
+    dHA6Ly9mZWVkcy5mZWVkYnVybmVyLmNvbS9+ZmYvR2F6ZXR0ZU9ubGluZUJy
+    ZWFraW5nTmV3cz9hPXQ2N0hXV2cxXzhVOmJVQ0llMUxwb29nOmdJTjl2RndP
+    cXZRIj48aW1nIHNyYz0iaHR0cDovL2ZlZWRzLmZlZWRidXJuZXIuY29tL35m
+    Zi9HYXpldHRlT25saW5lQnJlYWtpbmdOZXdzP2k9dDY3SFdXZzFfOFU6YlVD
+    SWUxTHBvb2c6Z0lOOXZGd09xdlEiIGJvcmRlcj0iMCI+PC9pbWc+PC9hPiA8
+    YSBocmVmPSJodHRwOi8vZmVlZHMuZmVlZGJ1cm5lci5jb20vfmZmL0dhemV0
+    dGVPbmxpbmVCcmVha2luZ05ld3M/YT10NjdIV1dnMV84VTpiVUNJZTFMcG9v
+    ZzpsNmdtd2lUS3N6MCI+PGltZyBzcmM9Imh0dHA6Ly9mZWVkcy5mZWVkYnVy
+    bmVyLmNvbS9+ZmYvR2F6ZXR0ZU9ubGluZUJyZWFraW5nTmV3cz9kPWw2Z213
+    aVRLc3owIiBib3JkZXI9IjAiPjwvaW1nPjwvYT4KPC9kaXY+PGltZyBzcmM9
+    Imh0dHA6Ly9mZWVkcy5mZWVkYnVybmVyLmNvbS9+ci9HYXpldHRlT25saW5l
+    QnJlYWtpbmdOZXdzL340L3Q2N0hXV2cxXzhVIiBoZWlnaHQ9IjEiIHdpZHRo
+    PSIxIi8+
+- !ruby/object:Feedzirra::Parser::RSSEntry
+  title: !binary |-
+    TW90b3JjeWNsaXN0IHdobyBkaWVkIGR1cmluZyBwb2xpY2UgY2hhc2Ugd2Fz
+    IHRyYXZlbGluZyAxMjQgbXBoIHdoaWxlIGRydW5rLCByZXBvcnQgc2F5cw==
+  url: !binary |-
+    aHR0cDovL2ZlZWRwcm94eS5nb29nbGUuY29tL35yL0dhemV0dGVPbmxpbmVC
+    cmVha2luZ05ld3MvfjMvbXVXdzhKTFJTQnMv
+  categories:
+  - !binary |-
+    RGlzYXN0ZXIgYW5kIEFjY2lkZW50
+  - !binary |-
+    TGlubiBDb3VudHk=
+  - !binary |-
+    UHVibGljIFNhZmV0eQ==
+  - !binary |-
+    QW5kcmV3IExvd24=
+  - !binary |-
+    QW5keSBMb3du
+  - !binary |-
+    ZGFzaCBjYW1lcmE=
+  - !binary |-
+    ZmF0YWxpdHk=
+  - !binary |-
+    SGlnaHdheSAxMDA=
+  - !binary |-
+    TWFyaW9u
+  - !binary |-
+    cG9saWNlIGNoYXNl
+  author: !binary |-
+    SmVmZiBSYWFzY2g=
+  published: 2012-08-30 21:15:00.000000000 Z
+  entry_id: !binary |-
+    aHR0cDovL3RoZWdhemV0dGUuY29tLz9wPTQ1NDE1NQ==
+  content: ! 'A motorcyclist who died when he crashed during a high-speed police chase
+    last month had a blood alcohol level of more than twice the legal limit, an investigation
+    revealed. Andrew S. Lown, 26, of...<div class="feedflare">
+
+    <a href="http://feeds.feedburner.com/~ff/GazetteOnlineBreakingNews?a=muWw8JLRSBs:OeWuEguGKi0:yIl2AUoC8zA"><img
+    src="http://feeds.feedburner.com/~ff/GazetteOnlineBreakingNews?d=yIl2AUoC8zA"
+    border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/GazetteOnlineBreakingNews?a=muWw8JLRSBs:OeWuEguGKi0:V_sGLiPBpWU"><img
+    src="http://feeds.feedburner.com/~ff/GazetteOnlineBreakingNews?i=muWw8JLRSBs:OeWuEguGKi0:V_sGLiPBpWU"
+    border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/GazetteOnlineBreakingNews?a=muWw8JLRSBs:OeWuEguGKi0:qj6IDK7rITs"><img
+    src="http://feeds.feedburner.com/~ff/GazetteOnlineBreakingNews?d=qj6IDK7rITs"
+    border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/GazetteOnlineBreakingNews?a=muWw8JLRSBs:OeWuEguGKi0:KwTdNBX3Jqk"><img
+    src="http://feeds.feedburner.com/~ff/GazetteOnlineBreakingNews?i=muWw8JLRSBs:OeWuEguGKi0:KwTdNBX3Jqk"
+    border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/GazetteOnlineBreakingNews?a=muWw8JLRSBs:OeWuEguGKi0:gIN9vFwOqvQ"><img
+    src="http://feeds.feedburner.com/~ff/GazetteOnlineBreakingNews?i=muWw8JLRSBs:OeWuEguGKi0:gIN9vFwOqvQ"
+    border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/GazetteOnlineBreakingNews?a=muWw8JLRSBs:OeWuEguGKi0:l6gmwiTKsz0"><img
+    src="http://feeds.feedburner.com/~ff/GazetteOnlineBreakingNews?d=l6gmwiTKsz0"
+    border="0"></img></a>
+
+    </div><img src="http://feeds.feedburner.com/~r/GazetteOnlineBreakingNews/~4/muWw8JLRSBs"
+    height="1" width="1"/>'
+- !ruby/object:Feedzirra::Parser::RSSEntry
+  title: !binary |-
+    MTIgZnVuIHRoaW5ncyB0byBkbyB0aGlzIExhYm9yIERheSB3ZWVrZW5k
+  url: !binary |-
+    aHR0cDovL2ZlZWRwcm94eS5nb29nbGUuY29tL35yL0dhemV0dGVPbmxpbmVC
+    cmVha2luZ05ld3MvfjMvWVZ6UGdOREQwX2sv
+  categories:
+  - !binary |-
+    TG9jYWwgTmV3cw==
+  author: !binary |-
+    R2F6ZXR0ZSBTdGFmZi9Tb3VyY2VNZWRpYQ==
+  published: 2012-08-30 20:25:16.000000000 Z
+  entry_id: !binary |-
+    aHR0cDovL3RoZWdhemV0dGUuY29tLz9wPTQ1MzgyMA==
+  content: ! 'There are more than 175 fun things to do this Labor Day weekend in Eastern
+    Iowa, including 52 live music shows. Below we highlight some of our favorite things
+    going on this weekend. What will you be...<div class="feedflare">
+
+    <a href="http://feeds.feedburner.com/~ff/GazetteOnlineBreakingNews?a=YVzPgNDD0_k:YAMRtyXe0lM:yIl2AUoC8zA"><img
+    src="http://feeds.feedburner.com/~ff/GazetteOnlineBreakingNews?d=yIl2AUoC8zA"
+    border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/GazetteOnlineBreakingNews?a=YVzPgNDD0_k:YAMRtyXe0lM:V_sGLiPBpWU"><img
+    src="http://feeds.feedburner.com/~ff/GazetteOnlineBreakingNews?i=YVzPgNDD0_k:YAMRtyXe0lM:V_sGLiPBpWU"
+    border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/GazetteOnlineBreakingNews?a=YVzPgNDD0_k:YAMRtyXe0lM:qj6IDK7rITs"><img
+    src="http://feeds.feedburner.com/~ff/GazetteOnlineBreakingNews?d=qj6IDK7rITs"
+    border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/GazetteOnlineBreakingNews?a=YVzPgNDD0_k:YAMRtyXe0lM:KwTdNBX3Jqk"><img
+    src="http://feeds.feedburner.com/~ff/GazetteOnlineBreakingNews?i=YVzPgNDD0_k:YAMRtyXe0lM:KwTdNBX3Jqk"
+    border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/GazetteOnlineBreakingNews?a=YVzPgNDD0_k:YAMRtyXe0lM:gIN9vFwOqvQ"><img
+    src="http://feeds.feedburner.com/~ff/GazetteOnlineBreakingNews?i=YVzPgNDD0_k:YAMRtyXe0lM:gIN9vFwOqvQ"
+    border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/GazetteOnlineBreakingNews?a=YVzPgNDD0_k:YAMRtyXe0lM:l6gmwiTKsz0"><img
+    src="http://feeds.feedburner.com/~ff/GazetteOnlineBreakingNews?d=l6gmwiTKsz0"
+    border="0"></img></a>
+
+    </div><img src="http://feeds.feedburner.com/~r/GazetteOnlineBreakingNews/~4/YVzPgNDD0_k"
+    height="1" width="1"/>'
+- !ruby/object:Feedzirra::Parser::RSSEntry
+  title: !binary |-
+    SW93YSByZWFjaGVzIHNldHRsZW1lbnQgd2l0aCBkcnVnIGNvbXBhbnkgZm9y
+    IGltcHJvcGVyIG1hcmtldGluZw==
+  url: !binary |-
+    aHR0cDovL2ZlZWRwcm94eS5nb29nbGUuY29tL35yL0dhemV0dGVPbmxpbmVC
+    cmVha2luZ05ld3MvfjMvaElqbWVzeTd3b3Mv
+  categories:
+  - !binary |-
+    Q3JpbWUsIExhdyBhbmQgSnVzdGljZQ==
+  - !binary |-
+    SGVhbHRo
+  - !binary |-
+    TWVkaWNpbmVz
+  - !binary |-
+    U3RhdGVob3VzZQ==
+  - !binary |-
+    U3RhdGV3aWRlIE5ld3M=
+  - !binary |-
+    YW50aSBwc3ljaG90aWNz
+  - !binary |-
+    QXR0b3JuZXkgR2VuZXJhbCBUb20gTWlsbGVy
+  - !binary |-
+    Y29uc3VtZXIgcHJvdGVjdGlvbiBzZXR0bGVtZW50
+  - !binary |-
+    SmFuc3NlbiBQaGFybWFjZXV0aWNhbHM=
+  - !binary |-
+    Sm9obnNvbiBhbmQgSm9obnNvbg==
+  - !binary |-
+    UmlzcGVyZGFs
+  author: !binary |-
+    VHJpc2ggTWVoYWZmZXk=
+  published: 2012-08-30 17:55:05.000000000 Z
+  entry_id: !binary |-
+    aHR0cDovL3RoZWdhemV0dGUuY29tLz9wPTQ1NDA2NQ==
+  content: !binary |-
+    SW93YSBhbmQgMzYgb3RoZXIgYXR0b3JuZXkgZ2VuZXJhbHMgcmVhY2hlZCBh
+    IHJlY29yZCAkMTgxIG1pbGxpb24gc2V0dGxlbWVudCBUaHVyc2RheSB3aXRo
+    IEphbnNzZW4gUGhhcm1hY2V1dGljYWxzLCBJbmMuIGFmdGVyIGF0dG9ybmV5
+    cyBjbGFpbWVkIEphbnNzZW4gaW1wcm9wZXJseSBtYXJrZXRlZCBhbnRpLXBz
+    eWNob3RpYyBkcnVncy4uLi48ZGl2IGNsYXNzPSJmZWVkZmxhcmUiPgo8YSBo
+    cmVmPSJodHRwOi8vZmVlZHMuZmVlZGJ1cm5lci5jb20vfmZmL0dhemV0dGVP
+    bmxpbmVCcmVha2luZ05ld3M/YT1oSWptZXN5N3dvczpPcUdfc1VoTWVFdzp5
+    SWwyQVVvQzh6QSI+PGltZyBzcmM9Imh0dHA6Ly9mZWVkcy5mZWVkYnVybmVy
+    LmNvbS9+ZmYvR2F6ZXR0ZU9ubGluZUJyZWFraW5nTmV3cz9kPXlJbDJBVW9D
+    OHpBIiBib3JkZXI9IjAiPjwvaW1nPjwvYT4gPGEgaHJlZj0iaHR0cDovL2Zl
+    ZWRzLmZlZWRidXJuZXIuY29tL35mZi9HYXpldHRlT25saW5lQnJlYWtpbmdO
+    ZXdzP2E9aElqbWVzeTd3b3M6T3FHX3NVaE1lRXc6Vl9zR0xpUEJwV1UiPjxp
+    bWcgc3JjPSJodHRwOi8vZmVlZHMuZmVlZGJ1cm5lci5jb20vfmZmL0dhemV0
+    dGVPbmxpbmVCcmVha2luZ05ld3M/aT1oSWptZXN5N3dvczpPcUdfc1VoTWVF
+    dzpWX3NHTGlQQnBXVSIgYm9yZGVyPSIwIj48L2ltZz48L2E+IDxhIGhyZWY9
+    Imh0dHA6Ly9mZWVkcy5mZWVkYnVybmVyLmNvbS9+ZmYvR2F6ZXR0ZU9ubGlu
+    ZUJyZWFraW5nTmV3cz9hPWhJam1lc3k3d29zOk9xR19zVWhNZUV3OnFqNklE
+    SzdySVRzIj48aW1nIHNyYz0iaHR0cDovL2ZlZWRzLmZlZWRidXJuZXIuY29t
+    L35mZi9HYXpldHRlT25saW5lQnJlYWtpbmdOZXdzP2Q9cWo2SURLN3JJVHMi
+    IGJvcmRlcj0iMCI+PC9pbWc+PC9hPiA8YSBocmVmPSJodHRwOi8vZmVlZHMu
+    ZmVlZGJ1cm5lci5jb20vfmZmL0dhemV0dGVPbmxpbmVCcmVha2luZ05ld3M/
+    YT1oSWptZXN5N3dvczpPcUdfc1VoTWVFdzpLd1RkTkJYM0pxayI+PGltZyBz
+    cmM9Imh0dHA6Ly9mZWVkcy5mZWVkYnVybmVyLmNvbS9+ZmYvR2F6ZXR0ZU9u
+    bGluZUJyZWFraW5nTmV3cz9pPWhJam1lc3k3d29zOk9xR19zVWhNZUV3Okt3
+    VGROQlgzSnFrIiBib3JkZXI9IjAiPjwvaW1nPjwvYT4gPGEgaHJlZj0iaHR0
+    cDovL2ZlZWRzLmZlZWRidXJuZXIuY29tL35mZi9HYXpldHRlT25saW5lQnJl
+    YWtpbmdOZXdzP2E9aElqbWVzeTd3b3M6T3FHX3NVaE1lRXc6Z0lOOXZGd09x
+    dlEiPjxpbWcgc3JjPSJodHRwOi8vZmVlZHMuZmVlZGJ1cm5lci5jb20vfmZm
+    L0dhemV0dGVPbmxpbmVCcmVha2luZ05ld3M/aT1oSWptZXN5N3dvczpPcUdf
+    c1VoTWVFdzpnSU45dkZ3T3F2USIgYm9yZGVyPSIwIj48L2ltZz48L2E+IDxh
+    IGhyZWY9Imh0dHA6Ly9mZWVkcy5mZWVkYnVybmVyLmNvbS9+ZmYvR2F6ZXR0
+    ZU9ubGluZUJyZWFraW5nTmV3cz9hPWhJam1lc3k3d29zOk9xR19zVWhNZUV3
+    Omw2Z213aVRLc3owIj48aW1nIHNyYz0iaHR0cDovL2ZlZWRzLmZlZWRidXJu
+    ZXIuY29tL35mZi9HYXpldHRlT25saW5lQnJlYWtpbmdOZXdzP2Q9bDZnbXdp
+    VEtzejAiIGJvcmRlcj0iMCI+PC9pbWc+PC9hPgo8L2Rpdj48aW1nIHNyYz0i
+    aHR0cDovL2ZlZWRzLmZlZWRidXJuZXIuY29tL35yL0dhemV0dGVPbmxpbmVC
+    cmVha2luZ05ld3MvfjQvaElqbWVzeTd3b3MiIGhlaWdodD0iMSIgd2lkdGg9
+    IjEiLz4=
+- !ruby/object:Feedzirra::Parser::RSSEntry
+  title: !binary |-
+    SW93YSBDaXR5IGxvb2tzIGZvciBuZXcgc29mdHdhcmUgYWZ0ZXIgZmlyc3Qg
+    ZGVhbCBnb2VzIGF3cnk=
+  url: !binary |-
+    aHR0cDovL2ZlZWRwcm94eS5nb29nbGUuY29tL35yL0dhemV0dGVPbmxpbmVC
+    cmVha2luZ05ld3MvfjMvOEFRQW42ckFKWWsv
+  categories:
+  - !binary |-
+    RmVhdHVyZWQ=
+  - !binary |-
+    Sm9obnNvbiBDb3VudHkgQXJlYQ==
+  - !binary |-
+    ZW50ZXJwcmlzZSByZXNvdXJjZSBwbGFubmluZyBzb2Z0d2FyZQ==
+  - !binary |-
+    RVJQ
+  - !binary |-
+    SW5ub3ByaXNlIFNvZnR3YXJl
+  - !binary |-
+    SW93YSBDaXR5
+  - !binary |-
+    VHlsZXIgVGVjaG5vbG9naWVz
+  author: !binary |-
+    R3JlZ2cgSGVubmlnYW4=
+  published: 2012-08-30 17:55:02.000000000 Z
+  entry_id: !binary |-
+    aHR0cDovL3RoZWdhemV0dGUuY29tLz9wPTQ1NDA2NA==
+  content: !binary |-
+    SW93YSBDaXR5IGlzIG1ha2luZyBhbm90aGVyIHJ1biBhdCBpbXBsZW1lbnRp
+    bmcgYSBuZXcgc29mdHdhcmUgc3lzdGVtIGFmdGVyIGFuIGluaXRpYWwgYXR0
+    ZW1wdCBlbmRlZCBpbiBmYWlsdXJlIGFuZCBhIGxhd3N1aXQuIENpdHkgc3Rh
+    ZmZlcnMgYXJlIHJlY29tbWVuZGluZyB0aGUgY2l0eSBjb250cmFjdCB3aXRo
+    IERhbGxhcy1iYXNlZCBUeWxlci4uLjxkaXYgY2xhc3M9ImZlZWRmbGFyZSI+
+    CjxhIGhyZWY9Imh0dHA6Ly9mZWVkcy5mZWVkYnVybmVyLmNvbS9+ZmYvR2F6
+    ZXR0ZU9ubGluZUJyZWFraW5nTmV3cz9hPThBUUFuNnJBSllrOmV4aGQtVUpx
+    SmtJOnlJbDJBVW9DOHpBIj48aW1nIHNyYz0iaHR0cDovL2ZlZWRzLmZlZWRi
+    dXJuZXIuY29tL35mZi9HYXpldHRlT25saW5lQnJlYWtpbmdOZXdzP2Q9eUls
+    MkFVb0M4ekEiIGJvcmRlcj0iMCI+PC9pbWc+PC9hPiA8YSBocmVmPSJodHRw
+    Oi8vZmVlZHMuZmVlZGJ1cm5lci5jb20vfmZmL0dhemV0dGVPbmxpbmVCcmVh
+    a2luZ05ld3M/YT04QVFBbjZyQUpZazpleGhkLVVKcUprSTpWX3NHTGlQQnBX
+    VSI+PGltZyBzcmM9Imh0dHA6Ly9mZWVkcy5mZWVkYnVybmVyLmNvbS9+ZmYv
+    R2F6ZXR0ZU9ubGluZUJyZWFraW5nTmV3cz9pPThBUUFuNnJBSllrOmV4aGQt
+    VUpxSmtJOlZfc0dMaVBCcFdVIiBib3JkZXI9IjAiPjwvaW1nPjwvYT4gPGEg
+    aHJlZj0iaHR0cDovL2ZlZWRzLmZlZWRidXJuZXIuY29tL35mZi9HYXpldHRl
+    T25saW5lQnJlYWtpbmdOZXdzP2E9OEFRQW42ckFKWWs6ZXhoZC1VSnFKa0k6
+    cWo2SURLN3JJVHMiPjxpbWcgc3JjPSJodHRwOi8vZmVlZHMuZmVlZGJ1cm5l
+    ci5jb20vfmZmL0dhemV0dGVPbmxpbmVCcmVha2luZ05ld3M/ZD1xajZJREs3
+    cklUcyIgYm9yZGVyPSIwIj48L2ltZz48L2E+IDxhIGhyZWY9Imh0dHA6Ly9m
+    ZWVkcy5mZWVkYnVybmVyLmNvbS9+ZmYvR2F6ZXR0ZU9ubGluZUJyZWFraW5n
+    TmV3cz9hPThBUUFuNnJBSllrOmV4aGQtVUpxSmtJOkt3VGROQlgzSnFrIj48
+    aW1nIHNyYz0iaHR0cDovL2ZlZWRzLmZlZWRidXJuZXIuY29tL35mZi9HYXpl
+    dHRlT25saW5lQnJlYWtpbmdOZXdzP2k9OEFRQW42ckFKWWs6ZXhoZC1VSnFK
+    a0k6S3dUZE5CWDNKcWsiIGJvcmRlcj0iMCI+PC9pbWc+PC9hPiA8YSBocmVm
+    PSJodHRwOi8vZmVlZHMuZmVlZGJ1cm5lci5jb20vfmZmL0dhemV0dGVPbmxp
+    bmVCcmVha2luZ05ld3M/YT04QVFBbjZyQUpZazpleGhkLVVKcUprSTpnSU45
+    dkZ3T3F2USI+PGltZyBzcmM9Imh0dHA6Ly9mZWVkcy5mZWVkYnVybmVyLmNv
+    bS9+ZmYvR2F6ZXR0ZU9ubGluZUJyZWFraW5nTmV3cz9pPThBUUFuNnJBSllr
+    OmV4aGQtVUpxSmtJOmdJTjl2RndPcXZRIiBib3JkZXI9IjAiPjwvaW1nPjwv
+    YT4gPGEgaHJlZj0iaHR0cDovL2ZlZWRzLmZlZWRidXJuZXIuY29tL35mZi9H
+    YXpldHRlT25saW5lQnJlYWtpbmdOZXdzP2E9OEFRQW42ckFKWWs6ZXhoZC1V
+    SnFKa0k6bDZnbXdpVEtzejAiPjxpbWcgc3JjPSJodHRwOi8vZmVlZHMuZmVl
+    ZGJ1cm5lci5jb20vfmZmL0dhemV0dGVPbmxpbmVCcmVha2luZ05ld3M/ZD1s
+    Nmdtd2lUS3N6MCIgYm9yZGVyPSIwIj48L2ltZz48L2E+CjwvZGl2PjxpbWcg
+    c3JjPSJodHRwOi8vZmVlZHMuZmVlZGJ1cm5lci5jb20vfnIvR2F6ZXR0ZU9u
+    bGluZUJyZWFraW5nTmV3cy9+NC84QVFBbjZyQUpZayIgaGVpZ2h0PSIxIiB3
+    aWR0aD0iMSIvPg==
+- !ruby/object:Feedzirra::Parser::RSSEntry
+  title: !binary |-
+    T25lIHRlZW4gc3VzcGVjdGVkIGluIENlZGFyIFJhcGlkcyBzdHVkZW50IGFz
+    c2F1bHRzIHdpbGwgYmUgY2hhcmdlZCBhcyBhZHVsdA==
+  url: !binary |-
+    aHR0cDovL2ZlZWRwcm94eS5nb29nbGUuY29tL35yL0dhemV0dGVPbmxpbmVC
+    cmVha2luZ05ld3MvfjMvNG1KTTdRQ1o4d0Ev
+  categories:
+  - !binary |-
+    Q3JpbWUsIExhdyBhbmQgSnVzdGljZQ==
+  - !binary |-
+    TGlubiBDb3VudHk=
+  - !binary |-
+    UHVibGljIFNhZmV0eQ==
+  - !binary |-
+    QXNzYXVsdA==
+  - !binary |-
+    S2VlbmFuIEJha2Vy
+  - !binary |-
+    VHlyZXNzIE1hcnRpbg==
+  - !binary |-
+    V2FzaGluZ3RvbiBzdHVkZW50cyBhc3NhdWx0cw==
+  - !binary |-
+    d2lsbGZ1bCBpbmp1cnk=
+  author: !binary |-
+    VHJpc2ggTWVoYWZmZXk=
+  published: 2012-08-30 16:52:05.000000000 Z
+  entry_id: !binary |-
+    aHR0cDovL3RoZWdhemV0dGUuY29tLz9wPTQ1Mzk2OQ==
+  content: ! 'CEDAR RAPIDS &#8211; A 16-year-old charged as a juvenile this week for
+    his involvement in  a severe assault on three other boys will be charged in adult
+    court Friday and a judge will decide whether...<div class="feedflare">
+
+    <a href="http://feeds.feedburner.com/~ff/GazetteOnlineBreakingNews?a=4mJM7QCZ8wA:c6E-JLM-do4:yIl2AUoC8zA"><img
+    src="http://feeds.feedburner.com/~ff/GazetteOnlineBreakingNews?d=yIl2AUoC8zA"
+    border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/GazetteOnlineBreakingNews?a=4mJM7QCZ8wA:c6E-JLM-do4:V_sGLiPBpWU"><img
+    src="http://feeds.feedburner.com/~ff/GazetteOnlineBreakingNews?i=4mJM7QCZ8wA:c6E-JLM-do4:V_sGLiPBpWU"
+    border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/GazetteOnlineBreakingNews?a=4mJM7QCZ8wA:c6E-JLM-do4:qj6IDK7rITs"><img
+    src="http://feeds.feedburner.com/~ff/GazetteOnlineBreakingNews?d=qj6IDK7rITs"
+    border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/GazetteOnlineBreakingNews?a=4mJM7QCZ8wA:c6E-JLM-do4:KwTdNBX3Jqk"><img
+    src="http://feeds.feedburner.com/~ff/GazetteOnlineBreakingNews?i=4mJM7QCZ8wA:c6E-JLM-do4:KwTdNBX3Jqk"
+    border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/GazetteOnlineBreakingNews?a=4mJM7QCZ8wA:c6E-JLM-do4:gIN9vFwOqvQ"><img
+    src="http://feeds.feedburner.com/~ff/GazetteOnlineBreakingNews?i=4mJM7QCZ8wA:c6E-JLM-do4:gIN9vFwOqvQ"
+    border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/GazetteOnlineBreakingNews?a=4mJM7QCZ8wA:c6E-JLM-do4:l6gmwiTKsz0"><img
+    src="http://feeds.feedburner.com/~ff/GazetteOnlineBreakingNews?d=l6gmwiTKsz0"
+    border="0"></img></a>
+
+    </div><img src="http://feeds.feedburner.com/~r/GazetteOnlineBreakingNews/~4/4mJM7QCZ8wA"
+    height="1" width="1"/>'
+- !ruby/object:Feedzirra::Parser::RSSEntry
+  title: !binary |-
+    Sm9obnNvbiBDb3VudHkgZXhwZWN0ZWQgdG8gc2VsbCBwcm9wZXJ0eSB0byBD
+    cmlzaXMgQ2VudGVyIGZvciAkMQ==
+  url: !binary |-
+    aHR0cDovL2ZlZWRwcm94eS5nb29nbGUuY29tL35yL0dhemV0dGVPbmxpbmVC
+    cmVha2luZ05ld3MvfjMvV1JBTTJVUlhfZ0Uv
+  categories:
+  - !binary |-
+    RmVhdHVyZWQ=
+  - !binary |-
+    Sm9obnNvbiBDb3VudHkgQXJlYQ==
+  - !binary |-
+    MTEwNSBQcm9qZWN0
+  - !binary |-
+    Y3Jpc2lzIGNlbnRlciBvZiBqb2huc29uIGNvdW50eQ==
+  - !binary |-
+    RG9tZXN0aWMgVmlvbGVuY2UgSW50ZXJ2ZW50aW9uIFByb2dyYW0=
+  - !binary |-
+    RnJlZSBMdW5jaCBQcm9ncmFtIG9mIElvd2EgQ2l0eSBhbmQgTmF0aW9uYWwg
+    QWxsaWFuY2Ugb24gTWVudGFsIElsbG5lc3Mgb2YgSm9obnNvbiBDb3VudHk=
+  - !binary |-
+    Sm9obnNvbiBDb3VudHkgQm9hcmQgb2YgU3VwZXJ2aXNvcnM=
+  author: !binary |-
+    R3JlZ2cgSGVubmlnYW4=
+  published: 2012-08-30 16:15:02.000000000 Z
+  entry_id: !binary |-
+    aHR0cDovL3RoZWdhemV0dGUuY29tLz9wPTQ1Mzk2OA==
+  content: !binary |-
+    Sm9obnNvbiBDb3VudHkgcGxhbnMgdG8gc2VsbCBvbmUgb2YgaXRzIGJ1aWxk
+    aW5ncyBmb3IgJDEgdG8gc2VydmUgYXMgYSBuZXcgaG9tZSBmb3IgYSBmZXcg
+    YXJlYSBub25wcm9maXQgb3JnYW5pemF0aW9ucyB0aGF0IGhlbHAgcGVvcGxl
+    IGluIG5lZWQuIFRoZSBCb2FyZCBvZiBTdXBlcnZpc29ycyB2b3RlZCA1LTAg
+    VGh1cnNkYXkgaW4gc3VwcG9ydC4uLjxkaXYgY2xhc3M9ImZlZWRmbGFyZSI+
+    CjxhIGhyZWY9Imh0dHA6Ly9mZWVkcy5mZWVkYnVybmVyLmNvbS9+ZmYvR2F6
+    ZXR0ZU9ubGluZUJyZWFraW5nTmV3cz9hPVdSQU0yVVJYX2dFOlpzYVY4M2tX
+    cF9FOnlJbDJBVW9DOHpBIj48aW1nIHNyYz0iaHR0cDovL2ZlZWRzLmZlZWRi
+    dXJuZXIuY29tL35mZi9HYXpldHRlT25saW5lQnJlYWtpbmdOZXdzP2Q9eUls
+    MkFVb0M4ekEiIGJvcmRlcj0iMCI+PC9pbWc+PC9hPiA8YSBocmVmPSJodHRw
+    Oi8vZmVlZHMuZmVlZGJ1cm5lci5jb20vfmZmL0dhemV0dGVPbmxpbmVCcmVh
+    a2luZ05ld3M/YT1XUkFNMlVSWF9nRTpac2FWODNrV3BfRTpWX3NHTGlQQnBX
+    VSI+PGltZyBzcmM9Imh0dHA6Ly9mZWVkcy5mZWVkYnVybmVyLmNvbS9+ZmYv
+    R2F6ZXR0ZU9ubGluZUJyZWFraW5nTmV3cz9pPVdSQU0yVVJYX2dFOlpzYVY4
+    M2tXcF9FOlZfc0dMaVBCcFdVIiBib3JkZXI9IjAiPjwvaW1nPjwvYT4gPGEg
+    aHJlZj0iaHR0cDovL2ZlZWRzLmZlZWRidXJuZXIuY29tL35mZi9HYXpldHRl
+    T25saW5lQnJlYWtpbmdOZXdzP2E9V1JBTTJVUlhfZ0U6WnNhVjgza1dwX0U6
+    cWo2SURLN3JJVHMiPjxpbWcgc3JjPSJodHRwOi8vZmVlZHMuZmVlZGJ1cm5l
+    ci5jb20vfmZmL0dhemV0dGVPbmxpbmVCcmVha2luZ05ld3M/ZD1xajZJREs3
+    cklUcyIgYm9yZGVyPSIwIj48L2ltZz48L2E+IDxhIGhyZWY9Imh0dHA6Ly9m
+    ZWVkcy5mZWVkYnVybmVyLmNvbS9+ZmYvR2F6ZXR0ZU9ubGluZUJyZWFraW5n
+    TmV3cz9hPVdSQU0yVVJYX2dFOlpzYVY4M2tXcF9FOkt3VGROQlgzSnFrIj48
+    aW1nIHNyYz0iaHR0cDovL2ZlZWRzLmZlZWRidXJuZXIuY29tL35mZi9HYXpl
+    dHRlT25saW5lQnJlYWtpbmdOZXdzP2k9V1JBTTJVUlhfZ0U6WnNhVjgza1dw
+    X0U6S3dUZE5CWDNKcWsiIGJvcmRlcj0iMCI+PC9pbWc+PC9hPiA8YSBocmVm
+    PSJodHRwOi8vZmVlZHMuZmVlZGJ1cm5lci5jb20vfmZmL0dhemV0dGVPbmxp
+    bmVCcmVha2luZ05ld3M/YT1XUkFNMlVSWF9nRTpac2FWODNrV3BfRTpnSU45
+    dkZ3T3F2USI+PGltZyBzcmM9Imh0dHA6Ly9mZWVkcy5mZWVkYnVybmVyLmNv
+    bS9+ZmYvR2F6ZXR0ZU9ubGluZUJyZWFraW5nTmV3cz9pPVdSQU0yVVJYX2dF
+    OlpzYVY4M2tXcF9FOmdJTjl2RndPcXZRIiBib3JkZXI9IjAiPjwvaW1nPjwv
+    YT4gPGEgaHJlZj0iaHR0cDovL2ZlZWRzLmZlZWRidXJuZXIuY29tL35mZi9H
+    YXpldHRlT25saW5lQnJlYWtpbmdOZXdzP2E9V1JBTTJVUlhfZ0U6WnNhVjgz
+    a1dwX0U6bDZnbXdpVEtzejAiPjxpbWcgc3JjPSJodHRwOi8vZmVlZHMuZmVl
+    ZGJ1cm5lci5jb20vfmZmL0dhemV0dGVPbmxpbmVCcmVha2luZ05ld3M/ZD1s
+    Nmdtd2lUS3N6MCIgYm9yZGVyPSIwIj48L2ltZz48L2E+CjwvZGl2PjxpbWcg
+    c3JjPSJodHRwOi8vZmVlZHMuZmVlZGJ1cm5lci5jb20vfnIvR2F6ZXR0ZU9u
+    bGluZUJyZWFraW5nTmV3cy9+NC9XUkFNMlVSWF9nRSIgaGVpZ2h0PSIxIiB3
+    aWR0aD0iMSIvPg==
+- !ruby/object:Feedzirra::Parser::RSSEntry
+  title: !binary |-
+    SW93YSBDaXR5IHBvbGljZSBvZmZpY2VyIGF0dGFja2VkIHdoaWxlIHJlc3Bv
+    bmRpbmcgdG8gbG91ZCBwYXJ0eQ==
+  url: !binary |-
+    aHR0cDovL2ZlZWRwcm94eS5nb29nbGUuY29tL35yL0dhemV0dGVPbmxpbmVC
+    cmVha2luZ05ld3MvfjMvaHZqNWp4MVpySk0v
+  categories:
+  - !binary |-
+    TG9jYWwgTmV3cw==
+  - !binary |-
+    UHVibGljIFNhZmV0eQ==
+  - !binary |-
+    U3RhdGV3aWRlIE5ld3M=
+  - !binary |-
+    QnJldHQgRWR3YXJkIFRoZXJpYXVsdA==
+  - !binary |-
+    R2FycmV0IFYgQ3Vycnk=
+  - !binary |-
+    SWFuIFJ1YmVuIFplbGtv
+  - !binary |-
+    SW93YSBDaXR5IFBvbGljZSBEZXBhcnRtZW50
+  - !binary |-
+    TW9yZ2FuIFJvYmVydCBKYW5zc2Vu
+  author: !binary |-
+    VmFuZXNzYSBNaWxsZXI=
+  published: 2012-08-30 15:23:15.000000000 Z
+  entry_id: !binary |-
+    aHR0cDovL3RoZWdhemV0dGUuY29tLz9wPTQ1Mzg4NA==
+  content: ! 'At least four people were arrested early Thursday morning – including
+    one man charged with felony assault with a weapon on a peace officer – after the
+    officer was attacked while checking in on a...<div class="feedflare">
+
+    <a href="http://feeds.feedburner.com/~ff/GazetteOnlineBreakingNews?a=hvj5jx1ZrJM:twsgziliT6U:yIl2AUoC8zA"><img
+    src="http://feeds.feedburner.com/~ff/GazetteOnlineBreakingNews?d=yIl2AUoC8zA"
+    border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/GazetteOnlineBreakingNews?a=hvj5jx1ZrJM:twsgziliT6U:V_sGLiPBpWU"><img
+    src="http://feeds.feedburner.com/~ff/GazetteOnlineBreakingNews?i=hvj5jx1ZrJM:twsgziliT6U:V_sGLiPBpWU"
+    border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/GazetteOnlineBreakingNews?a=hvj5jx1ZrJM:twsgziliT6U:qj6IDK7rITs"><img
+    src="http://feeds.feedburner.com/~ff/GazetteOnlineBreakingNews?d=qj6IDK7rITs"
+    border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/GazetteOnlineBreakingNews?a=hvj5jx1ZrJM:twsgziliT6U:KwTdNBX3Jqk"><img
+    src="http://feeds.feedburner.com/~ff/GazetteOnlineBreakingNews?i=hvj5jx1ZrJM:twsgziliT6U:KwTdNBX3Jqk"
+    border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/GazetteOnlineBreakingNews?a=hvj5jx1ZrJM:twsgziliT6U:gIN9vFwOqvQ"><img
+    src="http://feeds.feedburner.com/~ff/GazetteOnlineBreakingNews?i=hvj5jx1ZrJM:twsgziliT6U:gIN9vFwOqvQ"
+    border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/GazetteOnlineBreakingNews?a=hvj5jx1ZrJM:twsgziliT6U:l6gmwiTKsz0"><img
+    src="http://feeds.feedburner.com/~ff/GazetteOnlineBreakingNews?d=l6gmwiTKsz0"
+    border="0"></img></a>
+
+    </div><img src="http://feeds.feedburner.com/~r/GazetteOnlineBreakingNews/~4/hvj5jx1ZrJM"
+    height="1" width="1"/>'
+- !ruby/object:Feedzirra::Parser::RSSEntry
+  title: !binary |-
+    VW5pdmVyc2l0eSBvZiBJb3dhIGV4cGVjdGluZyByZWNvcmQgZW5yb2xsbWVu
+    dA==
+  url: !binary |-
+    aHR0cDovL2ZlZWRwcm94eS5nb29nbGUuY29tL35yL0dhemV0dGVPbmxpbmVC
+    cmVha2luZ05ld3MvfjMva1prWk1CTWtUSzQv
+  categories:
+  - !binary |-
+    RWR1Y2F0aW9u
+  - !binary |-
+    SGlnaGVyIEVkdWNhdGlvbg==
+  - !binary |-
+    TG9jYWwgTmV3cw==
+  author: !binary |-
+    QXNzb2NpYXRlZCBQcmVzcw==
+  published: 2012-08-30 13:15:59.000000000 Z
+  entry_id: !binary |-
+    aHR0cDovL3RoZWdhemV0dGUuY29tLz9wPTQ1MzY5MQ==
+  content: !binary |-
+    VGhlIFVuaXZlcnNpdHkgb2YgSW93YSBleHBlY3RzIHRvIGVucm9sbCBhIHJl
+    Y29yZCAzMSwwMDAgc3R1ZGVudHMgdGhpcyBmYWxsLCBwdXR0aW5nIGEgc3Ry
+    YWluIG9uIGEgY2FtcHVzIHN0aWxsIHJlYnVpbGRpbmcgYWZ0ZXIgdGhlIDIw
+    MDggZmxvb2RpbmcuIEVucm9sbG1lbnQgZmlndXJlcyB3b24mIzgyMTc7dCBi
+    ZSBvZmZpY2lhbCB1bnRpbC4uLjxkaXYgY2xhc3M9ImZlZWRmbGFyZSI+Cjxh
+    IGhyZWY9Imh0dHA6Ly9mZWVkcy5mZWVkYnVybmVyLmNvbS9+ZmYvR2F6ZXR0
+    ZU9ubGluZUJyZWFraW5nTmV3cz9hPWtaa1pNQk1rVEs0OnY1VTNFQkZsRGlF
+    OnlJbDJBVW9DOHpBIj48aW1nIHNyYz0iaHR0cDovL2ZlZWRzLmZlZWRidXJu
+    ZXIuY29tL35mZi9HYXpldHRlT25saW5lQnJlYWtpbmdOZXdzP2Q9eUlsMkFV
+    b0M4ekEiIGJvcmRlcj0iMCI+PC9pbWc+PC9hPiA8YSBocmVmPSJodHRwOi8v
+    ZmVlZHMuZmVlZGJ1cm5lci5jb20vfmZmL0dhemV0dGVPbmxpbmVCcmVha2lu
+    Z05ld3M/YT1rWmtaTUJNa1RLNDp2NVUzRUJGbERpRTpWX3NHTGlQQnBXVSI+
+    PGltZyBzcmM9Imh0dHA6Ly9mZWVkcy5mZWVkYnVybmVyLmNvbS9+ZmYvR2F6
+    ZXR0ZU9ubGluZUJyZWFraW5nTmV3cz9pPWtaa1pNQk1rVEs0OnY1VTNFQkZs
+    RGlFOlZfc0dMaVBCcFdVIiBib3JkZXI9IjAiPjwvaW1nPjwvYT4gPGEgaHJl
+    Zj0iaHR0cDovL2ZlZWRzLmZlZWRidXJuZXIuY29tL35mZi9HYXpldHRlT25s
+    aW5lQnJlYWtpbmdOZXdzP2E9a1prWk1CTWtUSzQ6djVVM0VCRmxEaUU6cWo2
+    SURLN3JJVHMiPjxpbWcgc3JjPSJodHRwOi8vZmVlZHMuZmVlZGJ1cm5lci5j
+    b20vfmZmL0dhemV0dGVPbmxpbmVCcmVha2luZ05ld3M/ZD1xajZJREs3cklU
+    cyIgYm9yZGVyPSIwIj48L2ltZz48L2E+IDxhIGhyZWY9Imh0dHA6Ly9mZWVk
+    cy5mZWVkYnVybmVyLmNvbS9+ZmYvR2F6ZXR0ZU9ubGluZUJyZWFraW5nTmV3
+    cz9hPWtaa1pNQk1rVEs0OnY1VTNFQkZsRGlFOkt3VGROQlgzSnFrIj48aW1n
+    IHNyYz0iaHR0cDovL2ZlZWRzLmZlZWRidXJuZXIuY29tL35mZi9HYXpldHRl
+    T25saW5lQnJlYWtpbmdOZXdzP2k9a1prWk1CTWtUSzQ6djVVM0VCRmxEaUU6
+    S3dUZE5CWDNKcWsiIGJvcmRlcj0iMCI+PC9pbWc+PC9hPiA8YSBocmVmPSJo
+    dHRwOi8vZmVlZHMuZmVlZGJ1cm5lci5jb20vfmZmL0dhemV0dGVPbmxpbmVC
+    cmVha2luZ05ld3M/YT1rWmtaTUJNa1RLNDp2NVUzRUJGbERpRTpnSU45dkZ3
+    T3F2USI+PGltZyBzcmM9Imh0dHA6Ly9mZWVkcy5mZWVkYnVybmVyLmNvbS9+
+    ZmYvR2F6ZXR0ZU9ubGluZUJyZWFraW5nTmV3cz9pPWtaa1pNQk1rVEs0OnY1
+    VTNFQkZsRGlFOmdJTjl2RndPcXZRIiBib3JkZXI9IjAiPjwvaW1nPjwvYT4g
+    PGEgaHJlZj0iaHR0cDovL2ZlZWRzLmZlZWRidXJuZXIuY29tL35mZi9HYXpl
+    dHRlT25saW5lQnJlYWtpbmdOZXdzP2E9a1prWk1CTWtUSzQ6djVVM0VCRmxE
+    aUU6bDZnbXdpVEtzejAiPjxpbWcgc3JjPSJodHRwOi8vZmVlZHMuZmVlZGJ1
+    cm5lci5jb20vfmZmL0dhemV0dGVPbmxpbmVCcmVha2luZ05ld3M/ZD1sNmdt
+    d2lUS3N6MCIgYm9yZGVyPSIwIj48L2ltZz48L2E+CjwvZGl2PjxpbWcgc3Jj
+    PSJodHRwOi8vZmVlZHMuZmVlZGJ1cm5lci5jb20vfnIvR2F6ZXR0ZU9ubGlu
+    ZUJyZWFraW5nTmV3cy9+NC9rWmtaTUJNa1RLNCIgaGVpZ2h0PSIxIiB3aWR0
+    aD0iMSIvPg==
+- !ruby/object:Feedzirra::Parser::RSSEntry
+  title: !binary |-
+    TW9yZSBwYXJvbGVzIGhlbHAgc2hyaW5rIElvd2EgcHJpc29uIHBvcHVsYXRp
+    b24=
+  url: !binary |-
+    aHR0cDovL2ZlZWRwcm94eS5nb29nbGUuY29tL35yL0dhemV0dGVPbmxpbmVC
+    cmVha2luZ05ld3MvfjMvbUNoeVVMQ0dTWU0v
+  categories:
+  - !binary |-
+    Q3JpbWU=
+  - !binary |-
+    U3RhdGV3aWRlIE5ld3M=
+  author: !binary |-
+    VHJpc2ggTWVoYWZmZXk=
+  published: 2012-08-30 13:15:31.000000000 Z
+  entry_id: !binary |-
+    aHR0cDovL3RoZWdhemV0dGUuY29tLz9wPTQ1MzY4Mg==
+  content: ! 'A 5 percent decline in the state’s prison population between 2011 and
+    2012 — the largest drop within a year — is the result of a 40 percent increase
+    in paroles, according to prison officials. Lettie...<div class="feedflare">
+
+    <a href="http://feeds.feedburner.com/~ff/GazetteOnlineBreakingNews?a=mChyULCGSYM:cCE5A1JANT4:yIl2AUoC8zA"><img
+    src="http://feeds.feedburner.com/~ff/GazetteOnlineBreakingNews?d=yIl2AUoC8zA"
+    border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/GazetteOnlineBreakingNews?a=mChyULCGSYM:cCE5A1JANT4:V_sGLiPBpWU"><img
+    src="http://feeds.feedburner.com/~ff/GazetteOnlineBreakingNews?i=mChyULCGSYM:cCE5A1JANT4:V_sGLiPBpWU"
+    border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/GazetteOnlineBreakingNews?a=mChyULCGSYM:cCE5A1JANT4:qj6IDK7rITs"><img
+    src="http://feeds.feedburner.com/~ff/GazetteOnlineBreakingNews?d=qj6IDK7rITs"
+    border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/GazetteOnlineBreakingNews?a=mChyULCGSYM:cCE5A1JANT4:KwTdNBX3Jqk"><img
+    src="http://feeds.feedburner.com/~ff/GazetteOnlineBreakingNews?i=mChyULCGSYM:cCE5A1JANT4:KwTdNBX3Jqk"
+    border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/GazetteOnlineBreakingNews?a=mChyULCGSYM:cCE5A1JANT4:gIN9vFwOqvQ"><img
+    src="http://feeds.feedburner.com/~ff/GazetteOnlineBreakingNews?i=mChyULCGSYM:cCE5A1JANT4:gIN9vFwOqvQ"
+    border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/GazetteOnlineBreakingNews?a=mChyULCGSYM:cCE5A1JANT4:l6gmwiTKsz0"><img
+    src="http://feeds.feedburner.com/~ff/GazetteOnlineBreakingNews?d=l6gmwiTKsz0"
+    border="0"></img></a>
+
+    </div><img src="http://feeds.feedburner.com/~r/GazetteOnlineBreakingNews/~4/mChyULCGSYM"
+    height="1" width="1"/>'
+- !ruby/object:Feedzirra::Parser::RSSEntry
+  title: Fire in Shellsburg leaves police chief’s home damaged
+  url: !binary |-
+    aHR0cDovL2ZlZWRwcm94eS5nb29nbGUuY29tL35yL0dhemV0dGVPbmxpbmVC
+    cmVha2luZ05ld3MvfjMvWmcxTDhqSVlaQncv
+  categories:
+  - !binary |-
+    RGlzYXN0ZXIgYW5kIEFjY2lkZW50
+  - !binary |-
+    TGlubiBDb3VudHk=
+  - !binary |-
+    UHVibGljIFNhZmV0eQ==
+  author: !binary |-
+    SGF5bGV5IEJydWNlL1NvdXJjZU1lZGlhIEdyb3VwIE5ld3M=
+  published: 2012-08-30 12:25:13.000000000 Z
+  entry_id: !binary |-
+    aHR0cDovL3RoZWdhemV0dGUuY29tLz9wPTQ1MzgwNA==
+  content: !binary |-
+    VGhlIFNoZWxsc2J1cmcgcG9saWNlIGNoaWVmIG1heSBiZSB3aXRob3V0IGEg
+    aG9tZSBmb2xsb3dpbmcgYSBmaXJlIHRoYXQgc3ByZWFkIGZyb20gaGlzIGdh
+    cmFnZSB0byBoaXMgaG91c2UgZWFybHkgV2VkbmVzZGF5IG5pZ2h0LiBUaGUg
+    ZmlyZSB3YXMgcmVwb3J0ZWQgYXJvdW5kIDU6NDUgcC5tLiBhdCB0aGUgaG9t
+    ZSBvZiBTaGVsbHNidXJnLi4uPGRpdiBjbGFzcz0iZmVlZGZsYXJlIj4KPGEg
+    aHJlZj0iaHR0cDovL2ZlZWRzLmZlZWRidXJuZXIuY29tL35mZi9HYXpldHRl
+    T25saW5lQnJlYWtpbmdOZXdzP2E9WmcxTDhqSVlaQnc6elJKc3JZZTM0U1U6
+    eUlsMkFVb0M4ekEiPjxpbWcgc3JjPSJodHRwOi8vZmVlZHMuZmVlZGJ1cm5l
+    ci5jb20vfmZmL0dhemV0dGVPbmxpbmVCcmVha2luZ05ld3M/ZD15SWwyQVVv
+    Qzh6QSIgYm9yZGVyPSIwIj48L2ltZz48L2E+IDxhIGhyZWY9Imh0dHA6Ly9m
+    ZWVkcy5mZWVkYnVybmVyLmNvbS9+ZmYvR2F6ZXR0ZU9ubGluZUJyZWFraW5n
+    TmV3cz9hPVpnMUw4aklZWkJ3OnpSSnNyWWUzNFNVOlZfc0dMaVBCcFdVIj48
+    aW1nIHNyYz0iaHR0cDovL2ZlZWRzLmZlZWRidXJuZXIuY29tL35mZi9HYXpl
+    dHRlT25saW5lQnJlYWtpbmdOZXdzP2k9WmcxTDhqSVlaQnc6elJKc3JZZTM0
+    U1U6Vl9zR0xpUEJwV1UiIGJvcmRlcj0iMCI+PC9pbWc+PC9hPiA8YSBocmVm
+    PSJodHRwOi8vZmVlZHMuZmVlZGJ1cm5lci5jb20vfmZmL0dhemV0dGVPbmxp
+    bmVCcmVha2luZ05ld3M/YT1aZzFMOGpJWVpCdzp6UkpzclllMzRTVTpxajZJ
+    REs3cklUcyI+PGltZyBzcmM9Imh0dHA6Ly9mZWVkcy5mZWVkYnVybmVyLmNv
+    bS9+ZmYvR2F6ZXR0ZU9ubGluZUJyZWFraW5nTmV3cz9kPXFqNklESzdySVRz
+    IiBib3JkZXI9IjAiPjwvaW1nPjwvYT4gPGEgaHJlZj0iaHR0cDovL2ZlZWRz
+    LmZlZWRidXJuZXIuY29tL35mZi9HYXpldHRlT25saW5lQnJlYWtpbmdOZXdz
+    P2E9WmcxTDhqSVlaQnc6elJKc3JZZTM0U1U6S3dUZE5CWDNKcWsiPjxpbWcg
+    c3JjPSJodHRwOi8vZmVlZHMuZmVlZGJ1cm5lci5jb20vfmZmL0dhemV0dGVP
+    bmxpbmVCcmVha2luZ05ld3M/aT1aZzFMOGpJWVpCdzp6UkpzclllMzRTVTpL
+    d1RkTkJYM0pxayIgYm9yZGVyPSIwIj48L2ltZz48L2E+IDxhIGhyZWY9Imh0
+    dHA6Ly9mZWVkcy5mZWVkYnVybmVyLmNvbS9+ZmYvR2F6ZXR0ZU9ubGluZUJy
+    ZWFraW5nTmV3cz9hPVpnMUw4aklZWkJ3OnpSSnNyWWUzNFNVOmdJTjl2RndP
+    cXZRIj48aW1nIHNyYz0iaHR0cDovL2ZlZWRzLmZlZWRidXJuZXIuY29tL35m
+    Zi9HYXpldHRlT25saW5lQnJlYWtpbmdOZXdzP2k9WmcxTDhqSVlaQnc6elJK
+    c3JZZTM0U1U6Z0lOOXZGd09xdlEiIGJvcmRlcj0iMCI+PC9pbWc+PC9hPiA8
+    YSBocmVmPSJodHRwOi8vZmVlZHMuZmVlZGJ1cm5lci5jb20vfmZmL0dhemV0
+    dGVPbmxpbmVCcmVha2luZ05ld3M/YT1aZzFMOGpJWVpCdzp6UkpzclllMzRT
+    VTpsNmdtd2lUS3N6MCI+PGltZyBzcmM9Imh0dHA6Ly9mZWVkcy5mZWVkYnVy
+    bmVyLmNvbS9+ZmYvR2F6ZXR0ZU9ubGluZUJyZWFraW5nTmV3cz9kPWw2Z213
+    aVRLc3owIiBib3JkZXI9IjAiPjwvaW1nPjwvYT4KPC9kaXY+PGltZyBzcmM9
+    Imh0dHA6Ly9mZWVkcy5mZWVkYnVybmVyLmNvbS9+ci9HYXpldHRlT25saW5l
+    QnJlYWtpbmdOZXdzL340L1pnMUw4aklZWkJ3IiBoZWlnaHQ9IjEiIHdpZHRo
+    PSIxIi8+
+- !ruby/object:Feedzirra::Parser::RSSEntry
+  title: !binary |-
+    RWFzdGVybiBJb3dhIHNjaG9vbCBsdW5jaGVzIGNoYW5naW5nIHdpdGggbmV3
+    IHJ1bGVz
+  url: !binary |-
+    aHR0cDovL2ZlZWRwcm94eS5nb29nbGUuY29tL35yL0dhemV0dGVPbmxpbmVC
+    cmVha2luZ05ld3MvfjMvaXhZVnV1VFQyS1kv
+  categories:
+  - !binary |-
+    TG9jYWwgTmV3cw==
+  - !binary |-
+    U3RhdGV3aWRlIE5ld3M=
+  author: !binary |-
+    TWVyeW4gRmx1a2VyL1RoZSBHYXpldHRl
+  published: 2012-08-30 11:30:26.000000000 Z
+  entry_id: !binary |-
+    aHR0cDovL3RoZWdhemV0dGUuY29tLz9wPTQ1MzI4Mw==
+  content: ! 'Beets, beans and berries; they’re what’s for lunch in Eastern Iowa.
+    This academic year is the first for new federal regulations under the Healthy,
+    Hunger Free Kids Act aimed at promoting good...<div class="feedflare">
+
+    <a href="http://feeds.feedburner.com/~ff/GazetteOnlineBreakingNews?a=ixYVuuTT2KY:7k62GcjJCMg:yIl2AUoC8zA"><img
+    src="http://feeds.feedburner.com/~ff/GazetteOnlineBreakingNews?d=yIl2AUoC8zA"
+    border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/GazetteOnlineBreakingNews?a=ixYVuuTT2KY:7k62GcjJCMg:V_sGLiPBpWU"><img
+    src="http://feeds.feedburner.com/~ff/GazetteOnlineBreakingNews?i=ixYVuuTT2KY:7k62GcjJCMg:V_sGLiPBpWU"
+    border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/GazetteOnlineBreakingNews?a=ixYVuuTT2KY:7k62GcjJCMg:qj6IDK7rITs"><img
+    src="http://feeds.feedburner.com/~ff/GazetteOnlineBreakingNews?d=qj6IDK7rITs"
+    border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/GazetteOnlineBreakingNews?a=ixYVuuTT2KY:7k62GcjJCMg:KwTdNBX3Jqk"><img
+    src="http://feeds.feedburner.com/~ff/GazetteOnlineBreakingNews?i=ixYVuuTT2KY:7k62GcjJCMg:KwTdNBX3Jqk"
+    border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/GazetteOnlineBreakingNews?a=ixYVuuTT2KY:7k62GcjJCMg:gIN9vFwOqvQ"><img
+    src="http://feeds.feedburner.com/~ff/GazetteOnlineBreakingNews?i=ixYVuuTT2KY:7k62GcjJCMg:gIN9vFwOqvQ"
+    border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/GazetteOnlineBreakingNews?a=ixYVuuTT2KY:7k62GcjJCMg:l6gmwiTKsz0"><img
+    src="http://feeds.feedburner.com/~ff/GazetteOnlineBreakingNews?d=l6gmwiTKsz0"
+    border="0"></img></a>
+
+    </div><img src="http://feeds.feedburner.com/~r/GazetteOnlineBreakingNews/~4/ixYVuuTT2KY"
+    height="1" width="1"/>'
+- !ruby/object:Feedzirra::Parser::RSSEntry
+  title: !binary |-
+    Q2VkYXIgUmFwaWRzIHBvbGljZSBjaGllZiBodW50IGRvd24gdG8gMw==
+  url: !binary |-
+    aHR0cDovL2ZlZWRwcm94eS5nb29nbGUuY29tL35yL0dhemV0dGVPbmxpbmVC
+    cmVha2luZ05ld3MvfjMvaUE2TGpfbjBnak0v
+  categories:
+  - !binary |-
+    TGlubiBDb3VudHkgQXJlYQ==
+  - !binary |-
+    TG9jYWwgTmV3cw==
+  author: !binary |-
+    UmljayBTbWl0aCBhbmQgSmVmZiBSYWFzY2g=
+  published: 2012-08-30 00:18:15.000000000 Z
+  entry_id: !binary |-
+    aHR0cDovL3RoZWdhemV0dGUuY29tLz9wPTQ1MzcyMQ==
+  content: ! 'CEDAR RAPIDS – Police Department Capt. Steve O’Konek and police commanders
+    from Maryland and North Carolina will vie to become the city’s next police chief,
+    City Manager Jeff Pomeranz announced late...<div class="feedflare">
+
+    <a href="http://feeds.feedburner.com/~ff/GazetteOnlineBreakingNews?a=iA6Lj_n0gjM:J-h55yxPrpU:yIl2AUoC8zA"><img
+    src="http://feeds.feedburner.com/~ff/GazetteOnlineBreakingNews?d=yIl2AUoC8zA"
+    border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/GazetteOnlineBreakingNews?a=iA6Lj_n0gjM:J-h55yxPrpU:V_sGLiPBpWU"><img
+    src="http://feeds.feedburner.com/~ff/GazetteOnlineBreakingNews?i=iA6Lj_n0gjM:J-h55yxPrpU:V_sGLiPBpWU"
+    border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/GazetteOnlineBreakingNews?a=iA6Lj_n0gjM:J-h55yxPrpU:qj6IDK7rITs"><img
+    src="http://feeds.feedburner.com/~ff/GazetteOnlineBreakingNews?d=qj6IDK7rITs"
+    border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/GazetteOnlineBreakingNews?a=iA6Lj_n0gjM:J-h55yxPrpU:KwTdNBX3Jqk"><img
+    src="http://feeds.feedburner.com/~ff/GazetteOnlineBreakingNews?i=iA6Lj_n0gjM:J-h55yxPrpU:KwTdNBX3Jqk"
+    border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/GazetteOnlineBreakingNews?a=iA6Lj_n0gjM:J-h55yxPrpU:gIN9vFwOqvQ"><img
+    src="http://feeds.feedburner.com/~ff/GazetteOnlineBreakingNews?i=iA6Lj_n0gjM:J-h55yxPrpU:gIN9vFwOqvQ"
+    border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/GazetteOnlineBreakingNews?a=iA6Lj_n0gjM:J-h55yxPrpU:l6gmwiTKsz0"><img
+    src="http://feeds.feedburner.com/~ff/GazetteOnlineBreakingNews?d=l6gmwiTKsz0"
+    border="0"></img></a>
+
+    </div><img src="http://feeds.feedburner.com/~r/GazetteOnlineBreakingNews/~4/iA6Lj_n0gjM"
+    height="1" width="1"/>'
+- !ruby/object:Feedzirra::Parser::RSSEntry
+  title: Video boards outside U.S. Cellular Center won’t cause crashes, council told
+  url: !binary |-
+    aHR0cDovL2ZlZWRwcm94eS5nb29nbGUuY29tL35yL0dhemV0dGVPbmxpbmVC
+    cmVha2luZ05ld3MvfjMveWUzTDRQSTlfdmMv
+  categories:
+  - !binary |-
+    RmVhdHVyZWQ=
+  - !binary |-
+    TGlubiBDb3VudHkgQXJlYQ==
+  - !binary |-
+    U3RhdGV3aWRlIE5ld3M=
+  author: !binary |-
+    UmljayBTbWl0aA==
+  published: 2012-08-30 00:15:41.000000000 Z
+  entry_id: !binary |-
+    aHR0cDovL3RoZWdhemV0dGUuY29tLz9wPTQ1MzI3MQ==
+  content: ! '&#160; CEDAR RAPIDS — Two large video boards going up on the outside
+    of the U.S. Cellular Center facing the Interstate 380 S-curve shouldn&#8217;t distract
+    drivers and cause crashes, the City Council...<div class="feedflare">
+
+    <a href="http://feeds.feedburner.com/~ff/GazetteOnlineBreakingNews?a=ye3L4PI9_vc:zAyKLc6Fx7s:yIl2AUoC8zA"><img
+    src="http://feeds.feedburner.com/~ff/GazetteOnlineBreakingNews?d=yIl2AUoC8zA"
+    border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/GazetteOnlineBreakingNews?a=ye3L4PI9_vc:zAyKLc6Fx7s:V_sGLiPBpWU"><img
+    src="http://feeds.feedburner.com/~ff/GazetteOnlineBreakingNews?i=ye3L4PI9_vc:zAyKLc6Fx7s:V_sGLiPBpWU"
+    border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/GazetteOnlineBreakingNews?a=ye3L4PI9_vc:zAyKLc6Fx7s:qj6IDK7rITs"><img
+    src="http://feeds.feedburner.com/~ff/GazetteOnlineBreakingNews?d=qj6IDK7rITs"
+    border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/GazetteOnlineBreakingNews?a=ye3L4PI9_vc:zAyKLc6Fx7s:KwTdNBX3Jqk"><img
+    src="http://feeds.feedburner.com/~ff/GazetteOnlineBreakingNews?i=ye3L4PI9_vc:zAyKLc6Fx7s:KwTdNBX3Jqk"
+    border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/GazetteOnlineBreakingNews?a=ye3L4PI9_vc:zAyKLc6Fx7s:gIN9vFwOqvQ"><img
+    src="http://feeds.feedburner.com/~ff/GazetteOnlineBreakingNews?i=ye3L4PI9_vc:zAyKLc6Fx7s:gIN9vFwOqvQ"
+    border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/GazetteOnlineBreakingNews?a=ye3L4PI9_vc:zAyKLc6Fx7s:l6gmwiTKsz0"><img
+    src="http://feeds.feedburner.com/~ff/GazetteOnlineBreakingNews?d=l6gmwiTKsz0"
+    border="0"></img></a>
+
+    </div><img src="http://feeds.feedburner.com/~r/GazetteOnlineBreakingNews/~4/ye3L4PI9_vc"
+    height="1" width="1"/>'
+- !ruby/object:Feedzirra::Parser::RSSEntry
+  title: !binary |-
+    UmVwb3J0IHJlY29tbWVuZHMgY2hhbmdlcyBhdCBJb3dhIENpdHkgVkEgaG9z
+    cGl0YWw=
+  url: !binary |-
+    aHR0cDovL2ZlZWRwcm94eS5nb29nbGUuY29tL35yL0dhemV0dGVPbmxpbmVC
+    cmVha2luZ05ld3MvfjMvQ2drZHJqc0M4YmMv
+  categories:
+  - !binary |-
+    SGVhbHRo
+  - !binary |-
+    SGVhbHRoIE9yZ2FuaXphdGlvbnM=
+  - !binary |-
+    SW93YSBDaXR5IFZldGVyYW5zIEFmZmFpcnMgTWVkaWNhbCBDZW50ZXI=
+  - !binary |-
+    TG9jYWwgTmV3cw==
+  - !binary |-
+    U3RhdGV3aWRlIE5ld3M=
+  - !binary |-
+    aG9zcGl0YWw=
+  - !binary |-
+    SW93YSBDaXR5IFZB
+  - !binary |-
+    bWVkaWNhbCBjZW50ZXI=
+  - !binary |-
+    dmV0ZXJhbnMgYWZmYWlycw==
+  author: !binary |-
+    Q2luZHkgSGFkaXNo
+  published: 2012-08-30 00:10:40.000000000 Z
+  entry_id: !binary |-
+    aHR0cDovL3RoZWdhemV0dGUuY29tLz9wPTQ1MzU1MQ==
+  content: !binary |-
+    JiMxNjA7IEEgcmVwb3J0IGNvbmNsdWRlcyB0aGF0IHF1YWxpdHkgbWVkaWNh
+    bCBjYXJlIGhhcyBub3QgYmVlbiBjb21wcm9taXNlZCwgYnV0IGNoYW5nZXMg
+    YXJlIHJlY29tbWVuZGVkIGZvciB0aGUgSW93YSBDaXR5IFZBIEhlYWx0aCBD
+    YXJlIFN5c3RlbSwgc3RlbW1pbmcgZnJvbSBhIHJldmlldyBjb25kdWN0ZWQg
+    YW1pZCBhbGxlZ2F0aW9ucyBvZi4uLjxkaXYgY2xhc3M9ImZlZWRmbGFyZSI+
+    CjxhIGhyZWY9Imh0dHA6Ly9mZWVkcy5mZWVkYnVybmVyLmNvbS9+ZmYvR2F6
+    ZXR0ZU9ubGluZUJyZWFraW5nTmV3cz9hPUNna2RyanNDOGJjOjZMZVUtWkVz
+    aVo4OnlJbDJBVW9DOHpBIj48aW1nIHNyYz0iaHR0cDovL2ZlZWRzLmZlZWRi
+    dXJuZXIuY29tL35mZi9HYXpldHRlT25saW5lQnJlYWtpbmdOZXdzP2Q9eUls
+    MkFVb0M4ekEiIGJvcmRlcj0iMCI+PC9pbWc+PC9hPiA8YSBocmVmPSJodHRw
+    Oi8vZmVlZHMuZmVlZGJ1cm5lci5jb20vfmZmL0dhemV0dGVPbmxpbmVCcmVh
+    a2luZ05ld3M/YT1DZ2tkcmpzQzhiYzo2TGVVLVpFc2laODpWX3NHTGlQQnBX
+    VSI+PGltZyBzcmM9Imh0dHA6Ly9mZWVkcy5mZWVkYnVybmVyLmNvbS9+ZmYv
+    R2F6ZXR0ZU9ubGluZUJyZWFraW5nTmV3cz9pPUNna2RyanNDOGJjOjZMZVUt
+    WkVzaVo4OlZfc0dMaVBCcFdVIiBib3JkZXI9IjAiPjwvaW1nPjwvYT4gPGEg
+    aHJlZj0iaHR0cDovL2ZlZWRzLmZlZWRidXJuZXIuY29tL35mZi9HYXpldHRl
+    T25saW5lQnJlYWtpbmdOZXdzP2E9Q2drZHJqc0M4YmM6NkxlVS1aRXNpWjg6
+    cWo2SURLN3JJVHMiPjxpbWcgc3JjPSJodHRwOi8vZmVlZHMuZmVlZGJ1cm5l
+    ci5jb20vfmZmL0dhemV0dGVPbmxpbmVCcmVha2luZ05ld3M/ZD1xajZJREs3
+    cklUcyIgYm9yZGVyPSIwIj48L2ltZz48L2E+IDxhIGhyZWY9Imh0dHA6Ly9m
+    ZWVkcy5mZWVkYnVybmVyLmNvbS9+ZmYvR2F6ZXR0ZU9ubGluZUJyZWFraW5n
+    TmV3cz9hPUNna2RyanNDOGJjOjZMZVUtWkVzaVo4Okt3VGROQlgzSnFrIj48
+    aW1nIHNyYz0iaHR0cDovL2ZlZWRzLmZlZWRidXJuZXIuY29tL35mZi9HYXpl
+    dHRlT25saW5lQnJlYWtpbmdOZXdzP2k9Q2drZHJqc0M4YmM6NkxlVS1aRXNp
+    Wjg6S3dUZE5CWDNKcWsiIGJvcmRlcj0iMCI+PC9pbWc+PC9hPiA8YSBocmVm
+    PSJodHRwOi8vZmVlZHMuZmVlZGJ1cm5lci5jb20vfmZmL0dhemV0dGVPbmxp
+    bmVCcmVha2luZ05ld3M/YT1DZ2tkcmpzQzhiYzo2TGVVLVpFc2laODpnSU45
+    dkZ3T3F2USI+PGltZyBzcmM9Imh0dHA6Ly9mZWVkcy5mZWVkYnVybmVyLmNv
+    bS9+ZmYvR2F6ZXR0ZU9ubGluZUJyZWFraW5nTmV3cz9pPUNna2RyanNDOGJj
+    OjZMZVUtWkVzaVo4OmdJTjl2RndPcXZRIiBib3JkZXI9IjAiPjwvaW1nPjwv
+    YT4gPGEgaHJlZj0iaHR0cDovL2ZlZWRzLmZlZWRidXJuZXIuY29tL35mZi9H
+    YXpldHRlT25saW5lQnJlYWtpbmdOZXdzP2E9Q2drZHJqc0M4YmM6NkxlVS1a
+    RXNpWjg6bDZnbXdpVEtzejAiPjxpbWcgc3JjPSJodHRwOi8vZmVlZHMuZmVl
+    ZGJ1cm5lci5jb20vfmZmL0dhemV0dGVPbmxpbmVCcmVha2luZ05ld3M/ZD1s
+    Nmdtd2lUS3N6MCIgYm9yZGVyPSIwIj48L2ltZz48L2E+CjwvZGl2PjxpbWcg
+    c3JjPSJodHRwOi8vZmVlZHMuZmVlZGJ1cm5lci5jb20vfnIvR2F6ZXR0ZU9u
+    bGluZUJyZWFraW5nTmV3cy9+NC9DZ2tkcmpzQzhiYyIgaGVpZ2h0PSIxIiB3
+    aWR0aD0iMSIvPg==
+- !ruby/object:Feedzirra::Parser::RSSEntry
+  title: !binary |-
+    SGlzdG9yaWMgVHVybmVyIE1vcnR1YXJ5IGJ1aWxkaW5nIHVwIGZvciBzYWxl
+  url: !binary |-
+    aHR0cDovL2ZlZWRwcm94eS5nb29nbGUuY29tL35yL0dhemV0dGVPbmxpbmVC
+    cmVha2luZ05ld3MvfjMvaFhaRnc5WVJwYmcv
+  categories:
+  - !binary |-
+    TG9jYWwgTmV3cw==
+  - !binary |-
+    UGVvcGxlIGFuZCBQbGFjZXM=
+  author: !binary |-
+    Q2luZHkgSGFkaXNo
+  published: 2012-08-29 23:45:41.000000000 Z
+  entry_id: !binary |-
+    aHR0cDovL3RoZWdhemV0dGUuY29tLz9wPTQ1MzQwMQ==
+  content: ! '&#160; CEDAR RAPIDS &#8211; Commercial real estate broker Scott Byers
+    is hard-pressed to think of a similar building that’s gone on the market in recent
+    years in the Cedar Rapids area. A former...<div class="feedflare">
+
+    <a href="http://feeds.feedburner.com/~ff/GazetteOnlineBreakingNews?a=hXZFw9YRpbg:nqmWwjUPcPg:yIl2AUoC8zA"><img
+    src="http://feeds.feedburner.com/~ff/GazetteOnlineBreakingNews?d=yIl2AUoC8zA"
+    border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/GazetteOnlineBreakingNews?a=hXZFw9YRpbg:nqmWwjUPcPg:V_sGLiPBpWU"><img
+    src="http://feeds.feedburner.com/~ff/GazetteOnlineBreakingNews?i=hXZFw9YRpbg:nqmWwjUPcPg:V_sGLiPBpWU"
+    border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/GazetteOnlineBreakingNews?a=hXZFw9YRpbg:nqmWwjUPcPg:qj6IDK7rITs"><img
+    src="http://feeds.feedburner.com/~ff/GazetteOnlineBreakingNews?d=qj6IDK7rITs"
+    border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/GazetteOnlineBreakingNews?a=hXZFw9YRpbg:nqmWwjUPcPg:KwTdNBX3Jqk"><img
+    src="http://feeds.feedburner.com/~ff/GazetteOnlineBreakingNews?i=hXZFw9YRpbg:nqmWwjUPcPg:KwTdNBX3Jqk"
+    border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/GazetteOnlineBreakingNews?a=hXZFw9YRpbg:nqmWwjUPcPg:gIN9vFwOqvQ"><img
+    src="http://feeds.feedburner.com/~ff/GazetteOnlineBreakingNews?i=hXZFw9YRpbg:nqmWwjUPcPg:gIN9vFwOqvQ"
+    border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/GazetteOnlineBreakingNews?a=hXZFw9YRpbg:nqmWwjUPcPg:l6gmwiTKsz0"><img
+    src="http://feeds.feedburner.com/~ff/GazetteOnlineBreakingNews?d=l6gmwiTKsz0"
+    border="0"></img></a>
+
+    </div><img src="http://feeds.feedburner.com/~r/GazetteOnlineBreakingNews/~4/hXZFw9YRpbg"
+    height="1" width="1"/>'
+- !ruby/object:Feedzirra::Parser::RSSEntry
+  title: !binary |-
+    Q2hhbGxlbmdlcnMgYXJpc2UgaW4gSm9obnNvbiBDb3VudHkgc3VwZXJ2aXNv
+    cnMgZWxlY3Rpb24=
+  url: !binary |-
+    aHR0cDovL2ZlZWRwcm94eS5nb29nbGUuY29tL35yL0dhemV0dGVPbmxpbmVC
+    cmVha2luZ05ld3MvfjMvOUNLbEtJZTEwRHMv
+  categories:
+  - !binary |-
+    RWxlY3Rpb25z
+  - !binary |-
+    Sm9obnNvbiBDb3VudHkgQXJlYQ==
+  - !binary |-
+    U3RhdGV3aWRlIE5ld3M=
+  author: !binary |-
+    R3JlZ2cgSGVubmlnYW4=
+  published: 2012-08-29 22:00:38.000000000 Z
+  entry_id: !binary |-
+    aHR0cDovL3RoZWdhemV0dGUuY29tLz9wPTQ1MzQwNA==
+  content: ! 'IOWA CITY – Two Johnson County men will take a nontraditional route
+    in trying to be elected county supervisors. John Etheredge of Kalona and David
+    Kimm Fesler of Coralville filed paperwork Tuesday...<div class="feedflare">
+
+    <a href="http://feeds.feedburner.com/~ff/GazetteOnlineBreakingNews?a=9CKlKIe10Ds:NoLD7o5IqZo:yIl2AUoC8zA"><img
+    src="http://feeds.feedburner.com/~ff/GazetteOnlineBreakingNews?d=yIl2AUoC8zA"
+    border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/GazetteOnlineBreakingNews?a=9CKlKIe10Ds:NoLD7o5IqZo:V_sGLiPBpWU"><img
+    src="http://feeds.feedburner.com/~ff/GazetteOnlineBreakingNews?i=9CKlKIe10Ds:NoLD7o5IqZo:V_sGLiPBpWU"
+    border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/GazetteOnlineBreakingNews?a=9CKlKIe10Ds:NoLD7o5IqZo:qj6IDK7rITs"><img
+    src="http://feeds.feedburner.com/~ff/GazetteOnlineBreakingNews?d=qj6IDK7rITs"
+    border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/GazetteOnlineBreakingNews?a=9CKlKIe10Ds:NoLD7o5IqZo:KwTdNBX3Jqk"><img
+    src="http://feeds.feedburner.com/~ff/GazetteOnlineBreakingNews?i=9CKlKIe10Ds:NoLD7o5IqZo:KwTdNBX3Jqk"
+    border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/GazetteOnlineBreakingNews?a=9CKlKIe10Ds:NoLD7o5IqZo:gIN9vFwOqvQ"><img
+    src="http://feeds.feedburner.com/~ff/GazetteOnlineBreakingNews?i=9CKlKIe10Ds:NoLD7o5IqZo:gIN9vFwOqvQ"
+    border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/GazetteOnlineBreakingNews?a=9CKlKIe10Ds:NoLD7o5IqZo:l6gmwiTKsz0"><img
+    src="http://feeds.feedburner.com/~ff/GazetteOnlineBreakingNews?d=l6gmwiTKsz0"
+    border="0"></img></a>
+
+    </div><img src="http://feeds.feedburner.com/~r/GazetteOnlineBreakingNews/~4/9CKlKIe10Ds"
+    height="1" width="1"/>'
+- !ruby/object:Feedzirra::Parser::RSSEntry
+  title: !binary |-
+    QXR0b3JuZXkgR2VuZXJhbCBhc2tzIGZvciBzaHV0ZG93biBvZiBicmVhdGgg
+    YWxjb2hvbCBXZWIgc2l0ZQ==
+  url: !binary |-
+    aHR0cDovL2ZlZWRwcm94eS5nb29nbGUuY29tL35yL0dhemV0dGVPbmxpbmVC
+    cmVha2luZ05ld3MvfjMvRWNBZnFobFozSUUv
+  categories:
+  - !binary |-
+    UHVibGljIFNhZmV0eQ==
+  - !binary |-
+    UmVnaW9uYWw=
+  - !binary |-
+    U3RhdGVob3VzZQ==
+  - !binary |-
+    U3RhdGV3aWRlIE5ld3M=
+  - !binary |-
+    QXR0b3JuZXkgR2VuZXJhbCBPZmZpY2U=
+  - !binary |-
+    QnJlYXRoIEFsY29ob2wgV2Vic2l0ZQ==
+  - !binary |-
+    SW93YSBEaXZpc2lvbiBvZiBDcmltaW5hbCBJbg==
+  author: !binary |-
+    Q2hyaXN0eSBBdW1lci9Tb3VyY2VNZWRpYSBHcm91cCBOZXdz
+  published: 2012-08-29 21:40:36.000000000 Z
+  entry_id: !binary |-
+    aHR0cDovL3RoZWdhemV0dGUuY29tLz9wPTQ1MzI2OQ==
+  content: !binary |-
+    JiMxNjA7IENFREFSIFJBUElEUyAmIzgyMTE7IFRoZSBJb3dhIEF0dG9ybmV5
+    IEdlbmVyYWwmIzgyMTc7cyBvZmZpY2UgaGFzIGFza2VkIGEgc3RhdGUtbGF1
+    bmNoZWQgd2Vic2l0ZSB0aGF0IGFsbG93cyB0aGUgcHVibGljIGFuZCBsYXcg
+    ZW5mb3JjbWVudCB0byBzZWFyY2ggZm9yIGJyZWF0aCBhbGNvaG9sIHRlc3Qg
+    cmVzdWx0cyB0byBzaHV0Li4uPGRpdiBjbGFzcz0iZmVlZGZsYXJlIj4KPGEg
+    aHJlZj0iaHR0cDovL2ZlZWRzLmZlZWRidXJuZXIuY29tL35mZi9HYXpldHRl
+    T25saW5lQnJlYWtpbmdOZXdzP2E9RWNBZnFobFozSUU6ZGRKWFNIZkJoVTg6
+    eUlsMkFVb0M4ekEiPjxpbWcgc3JjPSJodHRwOi8vZmVlZHMuZmVlZGJ1cm5l
+    ci5jb20vfmZmL0dhemV0dGVPbmxpbmVCcmVha2luZ05ld3M/ZD15SWwyQVVv
+    Qzh6QSIgYm9yZGVyPSIwIj48L2ltZz48L2E+IDxhIGhyZWY9Imh0dHA6Ly9m
+    ZWVkcy5mZWVkYnVybmVyLmNvbS9+ZmYvR2F6ZXR0ZU9ubGluZUJyZWFraW5n
+    TmV3cz9hPUVjQWZxaGxaM0lFOmRkSlhTSGZCaFU4OlZfc0dMaVBCcFdVIj48
+    aW1nIHNyYz0iaHR0cDovL2ZlZWRzLmZlZWRidXJuZXIuY29tL35mZi9HYXpl
+    dHRlT25saW5lQnJlYWtpbmdOZXdzP2k9RWNBZnFobFozSUU6ZGRKWFNIZkJo
+    VTg6Vl9zR0xpUEJwV1UiIGJvcmRlcj0iMCI+PC9pbWc+PC9hPiA8YSBocmVm
+    PSJodHRwOi8vZmVlZHMuZmVlZGJ1cm5lci5jb20vfmZmL0dhemV0dGVPbmxp
+    bmVCcmVha2luZ05ld3M/YT1FY0FmcWhsWjNJRTpkZEpYU0hmQmhVODpxajZJ
+    REs3cklUcyI+PGltZyBzcmM9Imh0dHA6Ly9mZWVkcy5mZWVkYnVybmVyLmNv
+    bS9+ZmYvR2F6ZXR0ZU9ubGluZUJyZWFraW5nTmV3cz9kPXFqNklESzdySVRz
+    IiBib3JkZXI9IjAiPjwvaW1nPjwvYT4gPGEgaHJlZj0iaHR0cDovL2ZlZWRz
+    LmZlZWRidXJuZXIuY29tL35mZi9HYXpldHRlT25saW5lQnJlYWtpbmdOZXdz
+    P2E9RWNBZnFobFozSUU6ZGRKWFNIZkJoVTg6S3dUZE5CWDNKcWsiPjxpbWcg
+    c3JjPSJodHRwOi8vZmVlZHMuZmVlZGJ1cm5lci5jb20vfmZmL0dhemV0dGVP
+    bmxpbmVCcmVha2luZ05ld3M/aT1FY0FmcWhsWjNJRTpkZEpYU0hmQmhVODpL
+    d1RkTkJYM0pxayIgYm9yZGVyPSIwIj48L2ltZz48L2E+IDxhIGhyZWY9Imh0
+    dHA6Ly9mZWVkcy5mZWVkYnVybmVyLmNvbS9+ZmYvR2F6ZXR0ZU9ubGluZUJy
+    ZWFraW5nTmV3cz9hPUVjQWZxaGxaM0lFOmRkSlhTSGZCaFU4OmdJTjl2RndP
+    cXZRIj48aW1nIHNyYz0iaHR0cDovL2ZlZWRzLmZlZWRidXJuZXIuY29tL35m
+    Zi9HYXpldHRlT25saW5lQnJlYWtpbmdOZXdzP2k9RWNBZnFobFozSUU6ZGRK
+    WFNIZkJoVTg6Z0lOOXZGd09xdlEiIGJvcmRlcj0iMCI+PC9pbWc+PC9hPiA8
+    YSBocmVmPSJodHRwOi8vZmVlZHMuZmVlZGJ1cm5lci5jb20vfmZmL0dhemV0
+    dGVPbmxpbmVCcmVha2luZ05ld3M/YT1FY0FmcWhsWjNJRTpkZEpYU0hmQmhV
+    ODpsNmdtd2lUS3N6MCI+PGltZyBzcmM9Imh0dHA6Ly9mZWVkcy5mZWVkYnVy
+    bmVyLmNvbS9+ZmYvR2F6ZXR0ZU9ubGluZUJyZWFraW5nTmV3cz9kPWw2Z213
+    aVRLc3owIiBib3JkZXI9IjAiPjwvaW1nPjwvYT4KPC9kaXY+PGltZyBzcmM9
+    Imh0dHA6Ly9mZWVkcy5mZWVkYnVybmVyLmNvbS9+ci9HYXpldHRlT25saW5l
+    QnJlYWtpbmdOZXdzL340L0VjQWZxaGxaM0lFIiBoZWlnaHQ9IjEiIHdpZHRo
+    PSIxIi8+
+- !ruby/object:Feedzirra::Parser::RSSEntry
+  title: !binary |-
+    SW5qdXJlZCBDZWRhciBSYXBpZHMgV2FzaGluZ3RvbiBzdHVkZW50IHJldHVy
+    bnMgdG8gc2Nob29s
+  url: !binary |-
+    aHR0cDovL2ZlZWRwcm94eS5nb29nbGUuY29tL35yL0dhemV0dGVPbmxpbmVC
+    cmVha2luZ05ld3MvfjMvam8tdnRiVDRiTVUv
+  categories:
+  - !binary |-
+    TG9jYWwgTmV3cw==
+  - !binary |-
+    VW5jYXRlZ29yaXplZA==
+  - !binary |-
+    Q2VkYXIgUmFwaWRzIFBvbGljZSBEZXBhcnRtZW50
+  - !binary |-
+    Q2VkYXIgUmFwaWRzIFdhc2hpbmd0b24gSGlnaCBTY2hvb2w=
+  - !binary |-
+    Q2hyaXN0aWFuIE1lZWs=
+  - !binary |-
+    S2VlbmFuIEJha2Vy
+  - !binary |-
+    U3RlcGhlbmllIE1lZWs=
+  - !binary |-
+    VHlyZWVzIE1hcnRpbg==
+  author: !binary |-
+    Q2hyaXMgRWFybA==
+  published: 2012-08-29 20:57:16.000000000 Z
+  entry_id: !binary |-
+    aHR0cDovL3RoZWdhemV0dGUuY29tLz9wPTQ1MzgwNQ==
+  content: !binary |-
+    Q0VEQVIgUkFQSURTICYjODIxMTtFaWdodCBkYXlzIGFmdGVyIHBvbGljZSBz
+    YXkgdHdvIGFzc2FpbGFudHMgYXR0YWNrZWQgZm91ciBzdHVkZW50cyB3YWxr
+    aW5nIGhvbWUgZnJvbSBDZWRhciBSYXBpZHMgV2FzaGluZ3RvbiBIaWdoIFNj
+    aG9vbCwgdGhlIG1vc3Qgc2V2ZXJlbHkgaW5qdXJlZCB0ZWVuIHJldHVybmVk
+    IHRvIGNsYXNzLi4uLjxkaXYgY2xhc3M9ImZlZWRmbGFyZSI+CjxhIGhyZWY9
+    Imh0dHA6Ly9mZWVkcy5mZWVkYnVybmVyLmNvbS9+ZmYvR2F6ZXR0ZU9ubGlu
+    ZUJyZWFraW5nTmV3cz9hPWpvLXZ0YlQ0Yk1VOmdadXhWc0F3T0U0OnlJbDJB
+    VW9DOHpBIj48aW1nIHNyYz0iaHR0cDovL2ZlZWRzLmZlZWRidXJuZXIuY29t
+    L35mZi9HYXpldHRlT25saW5lQnJlYWtpbmdOZXdzP2Q9eUlsMkFVb0M4ekEi
+    IGJvcmRlcj0iMCI+PC9pbWc+PC9hPiA8YSBocmVmPSJodHRwOi8vZmVlZHMu
+    ZmVlZGJ1cm5lci5jb20vfmZmL0dhemV0dGVPbmxpbmVCcmVha2luZ05ld3M/
+    YT1qby12dGJUNGJNVTpnWnV4VnNBd09FNDpWX3NHTGlQQnBXVSI+PGltZyBz
+    cmM9Imh0dHA6Ly9mZWVkcy5mZWVkYnVybmVyLmNvbS9+ZmYvR2F6ZXR0ZU9u
+    bGluZUJyZWFraW5nTmV3cz9pPWpvLXZ0YlQ0Yk1VOmdadXhWc0F3T0U0OlZf
+    c0dMaVBCcFdVIiBib3JkZXI9IjAiPjwvaW1nPjwvYT4gPGEgaHJlZj0iaHR0
+    cDovL2ZlZWRzLmZlZWRidXJuZXIuY29tL35mZi9HYXpldHRlT25saW5lQnJl
+    YWtpbmdOZXdzP2E9am8tdnRiVDRiTVU6Z1p1eFZzQXdPRTQ6cWo2SURLN3JJ
+    VHMiPjxpbWcgc3JjPSJodHRwOi8vZmVlZHMuZmVlZGJ1cm5lci5jb20vfmZm
+    L0dhemV0dGVPbmxpbmVCcmVha2luZ05ld3M/ZD1xajZJREs3cklUcyIgYm9y
+    ZGVyPSIwIj48L2ltZz48L2E+IDxhIGhyZWY9Imh0dHA6Ly9mZWVkcy5mZWVk
+    YnVybmVyLmNvbS9+ZmYvR2F6ZXR0ZU9ubGluZUJyZWFraW5nTmV3cz9hPWpv
+    LXZ0YlQ0Yk1VOmdadXhWc0F3T0U0Okt3VGROQlgzSnFrIj48aW1nIHNyYz0i
+    aHR0cDovL2ZlZWRzLmZlZWRidXJuZXIuY29tL35mZi9HYXpldHRlT25saW5l
+    QnJlYWtpbmdOZXdzP2k9am8tdnRiVDRiTVU6Z1p1eFZzQXdPRTQ6S3dUZE5C
+    WDNKcWsiIGJvcmRlcj0iMCI+PC9pbWc+PC9hPiA8YSBocmVmPSJodHRwOi8v
+    ZmVlZHMuZmVlZGJ1cm5lci5jb20vfmZmL0dhemV0dGVPbmxpbmVCcmVha2lu
+    Z05ld3M/YT1qby12dGJUNGJNVTpnWnV4VnNBd09FNDpnSU45dkZ3T3F2USI+
+    PGltZyBzcmM9Imh0dHA6Ly9mZWVkcy5mZWVkYnVybmVyLmNvbS9+ZmYvR2F6
+    ZXR0ZU9ubGluZUJyZWFraW5nTmV3cz9pPWpvLXZ0YlQ0Yk1VOmdadXhWc0F3
+    T0U0OmdJTjl2RndPcXZRIiBib3JkZXI9IjAiPjwvaW1nPjwvYT4gPGEgaHJl
+    Zj0iaHR0cDovL2ZlZWRzLmZlZWRidXJuZXIuY29tL35mZi9HYXpldHRlT25s
+    aW5lQnJlYWtpbmdOZXdzP2E9am8tdnRiVDRiTVU6Z1p1eFZzQXdPRTQ6bDZn
+    bXdpVEtzejAiPjxpbWcgc3JjPSJodHRwOi8vZmVlZHMuZmVlZGJ1cm5lci5j
+    b20vfmZmL0dhemV0dGVPbmxpbmVCcmVha2luZ05ld3M/ZD1sNmdtd2lUS3N6
+    MCIgYm9yZGVyPSIwIj48L2ltZz48L2E+CjwvZGl2PjxpbWcgc3JjPSJodHRw
+    Oi8vZmVlZHMuZmVlZGJ1cm5lci5jb20vfnIvR2F6ZXR0ZU9ubGluZUJyZWFr
+    aW5nTmV3cy9+NC9qby12dGJUNGJNVSIgaGVpZ2h0PSIxIiB3aWR0aD0iMSIv
+    Pg==
+- !ruby/object:Feedzirra::Parser::RSSEntry
+  title: !binary |-
+    QnJhbGV5LCBMYW5nZSBiYWNrZXJzIHR1cm4gb3V0IGZvciBCcmFsZXkgZXZl
+    bnQ=
+  url: !binary |-
+    aHR0cDovL2ZlZWRwcm94eS5nb29nbGUuY29tL35yL0dhemV0dGVPbmxpbmVC
+    cmVha2luZ05ld3MvfjMvVXZLdkxPVjI1eGMv
+  categories:
+  - !binary |-
+    Q292ZXJpbmcgSW93YSBQb2xpdGljcw==
+  - !binary |-
+    R292ZXJubWVudA==
+  - !binary |-
+    TGlubiBDb3VudHkgQXJlYQ==
+  - !binary |-
+    TG9jYWwgTmV3cw==
+  - !binary |-
+    QmVuIExhbmdl
+  - !binary |-
+    Qmxha2UgQmVobGVy
+  - !binary |-
+    Qm9iIEtsYXVz
+  - !binary |-
+    QnJ1Y2UgQnJhbGV5
+  - !binary |-
+    SmFuZSBMYXVl
+  - !binary |-
+    Tm9ybSBTdGVyemVuYmFjaA==
+  author: !binary |-
+    U3RldmUgR3JhdmVsbGU=
+  published: 2012-08-29 20:45:28.000000000 Z
+  entry_id: !binary |-
+    aHR0cDovL3RoZWdhemV0dGUuY29tLz9wPTQ1MzM5Nw==
+  content: !binary |-
+    JiMxNjA7IFN1cHBvcnRlcnMgb2YgYm90aCBjYW5kaWRhdGVzIGluIHRoZSBG
+    aXJzdCBEaXN0cmljdCBjb25ncmVzc2lvbmFsIHJhY2UgdHVybmVkIG91dCBv
+    biBNYXlzIElzbGFuZCBXZWRuZXNkYXkgYWZ0ZXJub29uIGZvciBhbiBldmVu
+    dCBvcmdhbml6ZWQgYnkgUmVwLiBCcnVjZSBCcmFsZXkmIzgyMTc7cyBjYW1w
+    YWlnbi4gQWJvdXQgdHdvLi4uPGRpdiBjbGFzcz0iZmVlZGZsYXJlIj4KPGEg
+    aHJlZj0iaHR0cDovL2ZlZWRzLmZlZWRidXJuZXIuY29tL35mZi9HYXpldHRl
+    T25saW5lQnJlYWtpbmdOZXdzP2E9VXZLdkxPVjI1eGM6blJ2X0h3aGtHSXM6
+    eUlsMkFVb0M4ekEiPjxpbWcgc3JjPSJodHRwOi8vZmVlZHMuZmVlZGJ1cm5l
+    ci5jb20vfmZmL0dhemV0dGVPbmxpbmVCcmVha2luZ05ld3M/ZD15SWwyQVVv
+    Qzh6QSIgYm9yZGVyPSIwIj48L2ltZz48L2E+IDxhIGhyZWY9Imh0dHA6Ly9m
+    ZWVkcy5mZWVkYnVybmVyLmNvbS9+ZmYvR2F6ZXR0ZU9ubGluZUJyZWFraW5n
+    TmV3cz9hPVV2S3ZMT1YyNXhjOm5Sdl9Id2hrR0lzOlZfc0dMaVBCcFdVIj48
+    aW1nIHNyYz0iaHR0cDovL2ZlZWRzLmZlZWRidXJuZXIuY29tL35mZi9HYXpl
+    dHRlT25saW5lQnJlYWtpbmdOZXdzP2k9VXZLdkxPVjI1eGM6blJ2X0h3aGtH
+    SXM6Vl9zR0xpUEJwV1UiIGJvcmRlcj0iMCI+PC9pbWc+PC9hPiA8YSBocmVm
+    PSJodHRwOi8vZmVlZHMuZmVlZGJ1cm5lci5jb20vfmZmL0dhemV0dGVPbmxp
+    bmVCcmVha2luZ05ld3M/YT1Vdkt2TE9WMjV4YzpuUnZfSHdoa0dJczpxajZJ
+    REs3cklUcyI+PGltZyBzcmM9Imh0dHA6Ly9mZWVkcy5mZWVkYnVybmVyLmNv
+    bS9+ZmYvR2F6ZXR0ZU9ubGluZUJyZWFraW5nTmV3cz9kPXFqNklESzdySVRz
+    IiBib3JkZXI9IjAiPjwvaW1nPjwvYT4gPGEgaHJlZj0iaHR0cDovL2ZlZWRz
+    LmZlZWRidXJuZXIuY29tL35mZi9HYXpldHRlT25saW5lQnJlYWtpbmdOZXdz
+    P2E9VXZLdkxPVjI1eGM6blJ2X0h3aGtHSXM6S3dUZE5CWDNKcWsiPjxpbWcg
+    c3JjPSJodHRwOi8vZmVlZHMuZmVlZGJ1cm5lci5jb20vfmZmL0dhemV0dGVP
+    bmxpbmVCcmVha2luZ05ld3M/aT1Vdkt2TE9WMjV4YzpuUnZfSHdoa0dJczpL
+    d1RkTkJYM0pxayIgYm9yZGVyPSIwIj48L2ltZz48L2E+IDxhIGhyZWY9Imh0
+    dHA6Ly9mZWVkcy5mZWVkYnVybmVyLmNvbS9+ZmYvR2F6ZXR0ZU9ubGluZUJy
+    ZWFraW5nTmV3cz9hPVV2S3ZMT1YyNXhjOm5Sdl9Id2hrR0lzOmdJTjl2RndP
+    cXZRIj48aW1nIHNyYz0iaHR0cDovL2ZlZWRzLmZlZWRidXJuZXIuY29tL35m
+    Zi9HYXpldHRlT25saW5lQnJlYWtpbmdOZXdzP2k9VXZLdkxPVjI1eGM6blJ2
+    X0h3aGtHSXM6Z0lOOXZGd09xdlEiIGJvcmRlcj0iMCI+PC9pbWc+PC9hPiA8
+    YSBocmVmPSJodHRwOi8vZmVlZHMuZmVlZGJ1cm5lci5jb20vfmZmL0dhemV0
+    dGVPbmxpbmVCcmVha2luZ05ld3M/YT1Vdkt2TE9WMjV4YzpuUnZfSHdoa0dJ
+    czpsNmdtd2lUS3N6MCI+PGltZyBzcmM9Imh0dHA6Ly9mZWVkcy5mZWVkYnVy
+    bmVyLmNvbS9+ZmYvR2F6ZXR0ZU9ubGluZUJyZWFraW5nTmV3cz9kPWw2Z213
+    aVRLc3owIiBib3JkZXI9IjAiPjwvaW1nPjwvYT4KPC9kaXY+PGltZyBzcmM9
+    Imh0dHA6Ly9mZWVkcy5mZWVkYnVybmVyLmNvbS9+ci9HYXpldHRlT25saW5l
+    QnJlYWtpbmdOZXdzL340L1V2S3ZMT1YyNXhjIiBoZWlnaHQ9IjEiIHdpZHRo
+    PSIxIi8+
+- !ruby/object:Feedzirra::Parser::RSSEntry
+  title: United Fire claims adjusters ready for Isaac’s impact
+  url: !binary |-
+    aHR0cDovL2ZlZWRwcm94eS5nb29nbGUuY29tL35yL0dhemV0dGVPbmxpbmVC
+    cmVha2luZ05ld3MvfjMvRkdMU0N1dTltUVUv
+  categories:
+  - !binary |-
+    QjM4MA==
+  - !binary |-
+    QnVzaW5lc3M=
+  - !binary |-
+    TG9jYWwgTmV3cw==
+  author: !binary |-
+    R2VvcmdlIEMuIEZvcmQ=
+  published: 2012-08-29 20:00:50.000000000 Z
+  entry_id: !binary |-
+    aHR0cDovL3RoZWdhemV0dGUuY29tLz9wPTQ1MzU1NA==
+  content: ! '&#160; CEDAR RAPIDS — Claims adjusters have been moved into position
+    by United Fire Group and Allied Insurance to respond to damage from Tropical Storm
+    Isaac in states along the Gulf of Mexico. David...<div class="feedflare">
+
+    <a href="http://feeds.feedburner.com/~ff/GazetteOnlineBreakingNews?a=FGLSCuu9mQU:8xSr_fq7oo4:yIl2AUoC8zA"><img
+    src="http://feeds.feedburner.com/~ff/GazetteOnlineBreakingNews?d=yIl2AUoC8zA"
+    border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/GazetteOnlineBreakingNews?a=FGLSCuu9mQU:8xSr_fq7oo4:V_sGLiPBpWU"><img
+    src="http://feeds.feedburner.com/~ff/GazetteOnlineBreakingNews?i=FGLSCuu9mQU:8xSr_fq7oo4:V_sGLiPBpWU"
+    border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/GazetteOnlineBreakingNews?a=FGLSCuu9mQU:8xSr_fq7oo4:qj6IDK7rITs"><img
+    src="http://feeds.feedburner.com/~ff/GazetteOnlineBreakingNews?d=qj6IDK7rITs"
+    border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/GazetteOnlineBreakingNews?a=FGLSCuu9mQU:8xSr_fq7oo4:KwTdNBX3Jqk"><img
+    src="http://feeds.feedburner.com/~ff/GazetteOnlineBreakingNews?i=FGLSCuu9mQU:8xSr_fq7oo4:KwTdNBX3Jqk"
+    border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/GazetteOnlineBreakingNews?a=FGLSCuu9mQU:8xSr_fq7oo4:gIN9vFwOqvQ"><img
+    src="http://feeds.feedburner.com/~ff/GazetteOnlineBreakingNews?i=FGLSCuu9mQU:8xSr_fq7oo4:gIN9vFwOqvQ"
+    border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/GazetteOnlineBreakingNews?a=FGLSCuu9mQU:8xSr_fq7oo4:l6gmwiTKsz0"><img
+    src="http://feeds.feedburner.com/~ff/GazetteOnlineBreakingNews?d=l6gmwiTKsz0"
+    border="0"></img></a>
+
+    </div><img src="http://feeds.feedburner.com/~r/GazetteOnlineBreakingNews/~4/FGLSCuu9mQU"
+    height="1" width="1"/>'
+- !ruby/object:Feedzirra::Parser::RSSEntry
+  title: !binary |-
+    TElWRSBVUERBVEVTOiBJb3dhIGRlbGVnYXRlIGF0IFJlcHVibGljYW4gTmF0
+    aW9uYWwgQ29udmVudGlvbg==
+  url: !binary |-
+    aHR0cDovL2ZlZWRwcm94eS5nb29nbGUuY29tL35yL0dhemV0dGVPbmxpbmVC
+    cmVha2luZ05ld3MvfjMvcnVvd0xjVEtDajQv
+  categories:
+  - !binary |-
+    RWxlY3Rpb25z
+  - !binary |-
+    U3RhdGV3aWRlIE5ld3M=
+  author: !binary |-
+    R2F6ZXR0ZSBTdGFmZg==
+  published: 2012-08-29 19:30:07.000000000 Z
+  entry_id: !binary |-
+    aHR0cDovL3RoZWdhemV0dGUuY29tLz9wPTQ1MzUyNQ==
+  content: !binary |-
+    VGhpcyBwYWdlIHdpbGwgZmVhdHVyZSBsaXZlIHVwZGF0ZXMgZnJvbSBEYXZp
+    ZCBGaXNjaGVyIG9mIFBvbGsgQ291bnR5LCBvbmUgb2YgSW93YSYjODIxNztz
+    IDI4IGRlbGVnYXRlcyB0byB0aGUgUmVwdWJsaWNhbiBOYXRpb25hbCBDb252
+    ZW50aW9uIGJlZ2lubmluZyBUdWVzZGF5IGluIFRhbXBhLiBGaXNjaGVyIHdh
+    cyBJb3dhIGNvLWNoYWlyIG9mLi4uPGRpdiBjbGFzcz0iZmVlZGZsYXJlIj4K
+    PGEgaHJlZj0iaHR0cDovL2ZlZWRzLmZlZWRidXJuZXIuY29tL35mZi9HYXpl
+    dHRlT25saW5lQnJlYWtpbmdOZXdzP2E9cnVvd0xjVEtDajQ6empMUW51UUJZ
+    QWc6eUlsMkFVb0M4ekEiPjxpbWcgc3JjPSJodHRwOi8vZmVlZHMuZmVlZGJ1
+    cm5lci5jb20vfmZmL0dhemV0dGVPbmxpbmVCcmVha2luZ05ld3M/ZD15SWwy
+    QVVvQzh6QSIgYm9yZGVyPSIwIj48L2ltZz48L2E+IDxhIGhyZWY9Imh0dHA6
+    Ly9mZWVkcy5mZWVkYnVybmVyLmNvbS9+ZmYvR2F6ZXR0ZU9ubGluZUJyZWFr
+    aW5nTmV3cz9hPXJ1b3dMY1RLQ2o0OnpqTFFudVFCWUFnOlZfc0dMaVBCcFdV
+    Ij48aW1nIHNyYz0iaHR0cDovL2ZlZWRzLmZlZWRidXJuZXIuY29tL35mZi9H
+    YXpldHRlT25saW5lQnJlYWtpbmdOZXdzP2k9cnVvd0xjVEtDajQ6empMUW51
+    UUJZQWc6Vl9zR0xpUEJwV1UiIGJvcmRlcj0iMCI+PC9pbWc+PC9hPiA8YSBo
+    cmVmPSJodHRwOi8vZmVlZHMuZmVlZGJ1cm5lci5jb20vfmZmL0dhemV0dGVP
+    bmxpbmVCcmVha2luZ05ld3M/YT1ydW93TGNUS0NqNDp6akxRbnVRQllBZzpx
+    ajZJREs3cklUcyI+PGltZyBzcmM9Imh0dHA6Ly9mZWVkcy5mZWVkYnVybmVy
+    LmNvbS9+ZmYvR2F6ZXR0ZU9ubGluZUJyZWFraW5nTmV3cz9kPXFqNklESzdy
+    SVRzIiBib3JkZXI9IjAiPjwvaW1nPjwvYT4gPGEgaHJlZj0iaHR0cDovL2Zl
+    ZWRzLmZlZWRidXJuZXIuY29tL35mZi9HYXpldHRlT25saW5lQnJlYWtpbmdO
+    ZXdzP2E9cnVvd0xjVEtDajQ6empMUW51UUJZQWc6S3dUZE5CWDNKcWsiPjxp
+    bWcgc3JjPSJodHRwOi8vZmVlZHMuZmVlZGJ1cm5lci5jb20vfmZmL0dhemV0
+    dGVPbmxpbmVCcmVha2luZ05ld3M/aT1ydW93TGNUS0NqNDp6akxRbnVRQllB
+    ZzpLd1RkTkJYM0pxayIgYm9yZGVyPSIwIj48L2ltZz48L2E+IDxhIGhyZWY9
+    Imh0dHA6Ly9mZWVkcy5mZWVkYnVybmVyLmNvbS9+ZmYvR2F6ZXR0ZU9ubGlu
+    ZUJyZWFraW5nTmV3cz9hPXJ1b3dMY1RLQ2o0OnpqTFFudVFCWUFnOmdJTjl2
+    RndPcXZRIj48aW1nIHNyYz0iaHR0cDovL2ZlZWRzLmZlZWRidXJuZXIuY29t
+    L35mZi9HYXpldHRlT25saW5lQnJlYWtpbmdOZXdzP2k9cnVvd0xjVEtDajQ6
+    empMUW51UUJZQWc6Z0lOOXZGd09xdlEiIGJvcmRlcj0iMCI+PC9pbWc+PC9h
+    PiA8YSBocmVmPSJodHRwOi8vZmVlZHMuZmVlZGJ1cm5lci5jb20vfmZmL0dh
+    emV0dGVPbmxpbmVCcmVha2luZ05ld3M/YT1ydW93TGNUS0NqNDp6akxRbnVR
+    QllBZzpsNmdtd2lUS3N6MCI+PGltZyBzcmM9Imh0dHA6Ly9mZWVkcy5mZWVk
+    YnVybmVyLmNvbS9+ZmYvR2F6ZXR0ZU9ubGluZUJyZWFraW5nTmV3cz9kPWw2
+    Z213aVRLc3owIiBib3JkZXI9IjAiPjwvaW1nPjwvYT4KPC9kaXY+PGltZyBz
+    cmM9Imh0dHA6Ly9mZWVkcy5mZWVkYnVybmVyLmNvbS9+ci9HYXpldHRlT25s
+    aW5lQnJlYWtpbmdOZXdzL340L3J1b3dMY1RLQ2o0IiBoZWlnaHQ9IjEiIHdp
+    ZHRoPSIxIi8+
+- !ruby/object:Feedzirra::Parser::RSSEntry
+  title: !binary |-
+    UmVnZW50cyBtdXN0IGRpc2Nsb3NlIGxhdyBmaXJtIG1lc3NhZ2VzIGluIHNl
+    eHVhbCBhc3NhdWx0IGNhc2UsIGp1ZGdlIHNheXM=
+  url: !binary |-
+    aHR0cDovL2ZlZWRwcm94eS5nb29nbGUuY29tL35yL0dhemV0dGVPbmxpbmVC
+    cmVha2luZ05ld3MvfjMvVUxSOXBKNE42VTgv
+  categories:
+  - !binary |-
+    RWR1Y2F0aW9u
+  - !binary |-
+    SGlnaGVyIEVkdWNhdGlvbg==
+  - !binary |-
+    UHVibGljIFNhZmV0eQ==
+  author: !binary |-
+    QXNzb2NpYXRlZCBQcmVzcw==
+  published: 2012-08-29 18:10:54.000000000 Z
+  entry_id: !binary |-
+    aHR0cDovL3RoZWdhemV0dGUuY29tLz9wPTQ1MzQwOQ==
+  content: !binary |-
+    QSBqdWRnZSBzYXlzIHRoZSBJb3dhIEJvYXJkIG9mIFJlZ2VudHMgbXVzdCBk
+    aXZ1bGdlIGl0cyBjb3JyZXNwb25kZW5jZSB3aXRoIGEgU3QuIExvdWlzIGxh
+    dyBmaXJtIHRoYXQgaW52ZXN0aWdhdGVkIHRoZSBVbml2ZXJzaXR5IG9mIElv
+    d2EmIzgyMTc7cyByZXNwb25zZSB0byBhIDIwMDcgc2V4dWFsIGFzc2F1bHQu
+    IFUuUy4gTWFnaXN0cmF0ZS4uLjxkaXYgY2xhc3M9ImZlZWRmbGFyZSI+Cjxh
+    IGhyZWY9Imh0dHA6Ly9mZWVkcy5mZWVkYnVybmVyLmNvbS9+ZmYvR2F6ZXR0
+    ZU9ubGluZUJyZWFraW5nTmV3cz9hPVVMUjlwSjRONlU4OkNZS3FPSzlfcE9N
+    OnlJbDJBVW9DOHpBIj48aW1nIHNyYz0iaHR0cDovL2ZlZWRzLmZlZWRidXJu
+    ZXIuY29tL35mZi9HYXpldHRlT25saW5lQnJlYWtpbmdOZXdzP2Q9eUlsMkFV
+    b0M4ekEiIGJvcmRlcj0iMCI+PC9pbWc+PC9hPiA8YSBocmVmPSJodHRwOi8v
+    ZmVlZHMuZmVlZGJ1cm5lci5jb20vfmZmL0dhemV0dGVPbmxpbmVCcmVha2lu
+    Z05ld3M/YT1VTFI5cEo0TjZVODpDWUtxT0s5X3BPTTpWX3NHTGlQQnBXVSI+
+    PGltZyBzcmM9Imh0dHA6Ly9mZWVkcy5mZWVkYnVybmVyLmNvbS9+ZmYvR2F6
+    ZXR0ZU9ubGluZUJyZWFraW5nTmV3cz9pPVVMUjlwSjRONlU4OkNZS3FPSzlf
+    cE9NOlZfc0dMaVBCcFdVIiBib3JkZXI9IjAiPjwvaW1nPjwvYT4gPGEgaHJl
+    Zj0iaHR0cDovL2ZlZWRzLmZlZWRidXJuZXIuY29tL35mZi9HYXpldHRlT25s
+    aW5lQnJlYWtpbmdOZXdzP2E9VUxSOXBKNE42VTg6Q1lLcU9LOV9wT006cWo2
+    SURLN3JJVHMiPjxpbWcgc3JjPSJodHRwOi8vZmVlZHMuZmVlZGJ1cm5lci5j
+    b20vfmZmL0dhemV0dGVPbmxpbmVCcmVha2luZ05ld3M/ZD1xajZJREs3cklU
+    cyIgYm9yZGVyPSIwIj48L2ltZz48L2E+IDxhIGhyZWY9Imh0dHA6Ly9mZWVk
+    cy5mZWVkYnVybmVyLmNvbS9+ZmYvR2F6ZXR0ZU9ubGluZUJyZWFraW5nTmV3
+    cz9hPVVMUjlwSjRONlU4OkNZS3FPSzlfcE9NOkt3VGROQlgzSnFrIj48aW1n
+    IHNyYz0iaHR0cDovL2ZlZWRzLmZlZWRidXJuZXIuY29tL35mZi9HYXpldHRl
+    T25saW5lQnJlYWtpbmdOZXdzP2k9VUxSOXBKNE42VTg6Q1lLcU9LOV9wT006
+    S3dUZE5CWDNKcWsiIGJvcmRlcj0iMCI+PC9pbWc+PC9hPiA8YSBocmVmPSJo
+    dHRwOi8vZmVlZHMuZmVlZGJ1cm5lci5jb20vfmZmL0dhemV0dGVPbmxpbmVC
+    cmVha2luZ05ld3M/YT1VTFI5cEo0TjZVODpDWUtxT0s5X3BPTTpnSU45dkZ3
+    T3F2USI+PGltZyBzcmM9Imh0dHA6Ly9mZWVkcy5mZWVkYnVybmVyLmNvbS9+
+    ZmYvR2F6ZXR0ZU9ubGluZUJyZWFraW5nTmV3cz9pPVVMUjlwSjRONlU4OkNZ
+    S3FPSzlfcE9NOmdJTjl2RndPcXZRIiBib3JkZXI9IjAiPjwvaW1nPjwvYT4g
+    PGEgaHJlZj0iaHR0cDovL2ZlZWRzLmZlZWRidXJuZXIuY29tL35mZi9HYXpl
+    dHRlT25saW5lQnJlYWtpbmdOZXdzP2E9VUxSOXBKNE42VTg6Q1lLcU9LOV9w
+    T006bDZnbXdpVEtzejAiPjxpbWcgc3JjPSJodHRwOi8vZmVlZHMuZmVlZGJ1
+    cm5lci5jb20vfmZmL0dhemV0dGVPbmxpbmVCcmVha2luZ05ld3M/ZD1sNmdt
+    d2lUS3N6MCIgYm9yZGVyPSIwIj48L2ltZz48L2E+CjwvZGl2PjxpbWcgc3Jj
+    PSJodHRwOi8vZmVlZHMuZmVlZGJ1cm5lci5jb20vfnIvR2F6ZXR0ZU9ubGlu
+    ZUJyZWFraW5nTmV3cy9+NC9VTFI5cEo0TjZVOCIgaGVpZ2h0PSIxIiB3aWR0
+    aD0iMSIvPg==
+- !ruby/object:Feedzirra::Parser::RSSEntry
+  title: !binary |-
+    UmVnZW50cyBzZWVrIHB1YmxpYyBub21pbmVlcyBmb3IgVU5JIHNlYXJjaA==
+  url: !binary |-
+    aHR0cDovL2ZlZWRwcm94eS5nb29nbGUuY29tL35yL0dhemV0dGVPbmxpbmVC
+    cmVha2luZ05ld3MvfjMvTFhJcklzc09aS2sv
+  categories:
+  - !binary |-
+    RWR1Y2F0aW9u
+  - !binary |-
+    SGlnaGVyIEVkdWNhdGlvbg==
+  author: !binary |-
+    RGlhbmUgSGVsZHQ=
+  published: 2012-08-29 18:00:44.000000000 Z
+  entry_id: !binary |-
+    aHR0cDovL3RoZWdhemV0dGUuY29tLz9wPTQ1MzY4Nw==
+  content: !binary |-
+    TWVtYmVycyBvZiB0aGUgcHVibGljIGFyZSBpbnZpdGVkIHRvIGFwcGx5IHRv
+    IHNlcnZlIG9uIHRoZSBVbml2ZXJzaXR5IG9mIE5vcnRoZXJuIElvd2EgcHJl
+    c2lkZW50aWFsIHNlYXJjaCBjb21taXR0ZWUuIFRoZSBjb21taXR0ZWUgd2ls
+    bCBsZWFkIHRoZSBzZWFyY2ggZm9yIGEgc3VjY2Vzc29yIHRvIFVOSSBQcmVz
+    aWRlbnQgQmVuIEFsbGVuLC4uLjxkaXYgY2xhc3M9ImZlZWRmbGFyZSI+Cjxh
+    IGhyZWY9Imh0dHA6Ly9mZWVkcy5mZWVkYnVybmVyLmNvbS9+ZmYvR2F6ZXR0
+    ZU9ubGluZUJyZWFraW5nTmV3cz9hPUxYSXJJc3NPWktrOkd0MjFYamlGYW9J
+    OnlJbDJBVW9DOHpBIj48aW1nIHNyYz0iaHR0cDovL2ZlZWRzLmZlZWRidXJu
+    ZXIuY29tL35mZi9HYXpldHRlT25saW5lQnJlYWtpbmdOZXdzP2Q9eUlsMkFV
+    b0M4ekEiIGJvcmRlcj0iMCI+PC9pbWc+PC9hPiA8YSBocmVmPSJodHRwOi8v
+    ZmVlZHMuZmVlZGJ1cm5lci5jb20vfmZmL0dhemV0dGVPbmxpbmVCcmVha2lu
+    Z05ld3M/YT1MWElySXNzT1pLazpHdDIxWGppRmFvSTpWX3NHTGlQQnBXVSI+
+    PGltZyBzcmM9Imh0dHA6Ly9mZWVkcy5mZWVkYnVybmVyLmNvbS9+ZmYvR2F6
+    ZXR0ZU9ubGluZUJyZWFraW5nTmV3cz9pPUxYSXJJc3NPWktrOkd0MjFYamlG
+    YW9JOlZfc0dMaVBCcFdVIiBib3JkZXI9IjAiPjwvaW1nPjwvYT4gPGEgaHJl
+    Zj0iaHR0cDovL2ZlZWRzLmZlZWRidXJuZXIuY29tL35mZi9HYXpldHRlT25s
+    aW5lQnJlYWtpbmdOZXdzP2E9TFhJcklzc09aS2s6R3QyMVhqaUZhb0k6cWo2
+    SURLN3JJVHMiPjxpbWcgc3JjPSJodHRwOi8vZmVlZHMuZmVlZGJ1cm5lci5j
+    b20vfmZmL0dhemV0dGVPbmxpbmVCcmVha2luZ05ld3M/ZD1xajZJREs3cklU
+    cyIgYm9yZGVyPSIwIj48L2ltZz48L2E+IDxhIGhyZWY9Imh0dHA6Ly9mZWVk
+    cy5mZWVkYnVybmVyLmNvbS9+ZmYvR2F6ZXR0ZU9ubGluZUJyZWFraW5nTmV3
+    cz9hPUxYSXJJc3NPWktrOkd0MjFYamlGYW9JOkt3VGROQlgzSnFrIj48aW1n
+    IHNyYz0iaHR0cDovL2ZlZWRzLmZlZWRidXJuZXIuY29tL35mZi9HYXpldHRl
+    T25saW5lQnJlYWtpbmdOZXdzP2k9TFhJcklzc09aS2s6R3QyMVhqaUZhb0k6
+    S3dUZE5CWDNKcWsiIGJvcmRlcj0iMCI+PC9pbWc+PC9hPiA8YSBocmVmPSJo
+    dHRwOi8vZmVlZHMuZmVlZGJ1cm5lci5jb20vfmZmL0dhemV0dGVPbmxpbmVC
+    cmVha2luZ05ld3M/YT1MWElySXNzT1pLazpHdDIxWGppRmFvSTpnSU45dkZ3
+    T3F2USI+PGltZyBzcmM9Imh0dHA6Ly9mZWVkcy5mZWVkYnVybmVyLmNvbS9+
+    ZmYvR2F6ZXR0ZU9ubGluZUJyZWFraW5nTmV3cz9pPUxYSXJJc3NPWktrOkd0
+    MjFYamlGYW9JOmdJTjl2RndPcXZRIiBib3JkZXI9IjAiPjwvaW1nPjwvYT4g
+    PGEgaHJlZj0iaHR0cDovL2ZlZWRzLmZlZWRidXJuZXIuY29tL35mZi9HYXpl
+    dHRlT25saW5lQnJlYWtpbmdOZXdzP2E9TFhJcklzc09aS2s6R3QyMVhqaUZh
+    b0k6bDZnbXdpVEtzejAiPjxpbWcgc3JjPSJodHRwOi8vZmVlZHMuZmVlZGJ1
+    cm5lci5jb20vfmZmL0dhemV0dGVPbmxpbmVCcmVha2luZ05ld3M/ZD1sNmdt
+    d2lUS3N6MCIgYm9yZGVyPSIwIj48L2ltZz48L2E+CjwvZGl2PjxpbWcgc3Jj
+    PSJodHRwOi8vZmVlZHMuZmVlZGJ1cm5lci5jb20vfnIvR2F6ZXR0ZU9ubGlu
+    ZUJyZWFraW5nTmV3cy9+NC9MWElySXNzT1pLayIgaGVpZ2h0PSIxIiB3aWR0
+    aD0iMSIvPg==
+- !ruby/object:Feedzirra::Parser::RSSEntry
+  title: !binary |-
+    RWlnaHQgdGhpbmdzIHRvIGRvIHRoaXMgd2VlayBmb3IgdW5kZXIgJDEw
+  url: !binary |-
+    aHR0cDovL2ZlZWRwcm94eS5nb29nbGUuY29tL35yL0dhemV0dGVPbmxpbmVC
+    cmVha2luZ05ld3MvfjMvSDE3QjNFcGRaSW8v
+  categories:
+  - !binary |-
+    TG9jYWwgTmV3cw==
+  author: !binary |-
+    R2F6ZXR0ZSBTdGFmZi9Tb3VyY2VNZWRpYQ==
+  published: 2012-08-29 17:00:41.000000000 Z
+  entry_id: !binary |-
+    aHR0cDovL3RoZWdhemV0dGUuY29tLz9wPTQ1MzM0Mw==
+  content: ! 'There are more than 300 fun things to do in the next week. Below we
+    highlight a few you can do without spending much money. What do you think? http://hooplanow.com/2012/08/29/eight-things-week-10/<div
+    class="feedflare">
+
+    <a href="http://feeds.feedburner.com/~ff/GazetteOnlineBreakingNews?a=H17B3EpdZIo:WFhNV7cU_uw:yIl2AUoC8zA"><img
+    src="http://feeds.feedburner.com/~ff/GazetteOnlineBreakingNews?d=yIl2AUoC8zA"
+    border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/GazetteOnlineBreakingNews?a=H17B3EpdZIo:WFhNV7cU_uw:V_sGLiPBpWU"><img
+    src="http://feeds.feedburner.com/~ff/GazetteOnlineBreakingNews?i=H17B3EpdZIo:WFhNV7cU_uw:V_sGLiPBpWU"
+    border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/GazetteOnlineBreakingNews?a=H17B3EpdZIo:WFhNV7cU_uw:qj6IDK7rITs"><img
+    src="http://feeds.feedburner.com/~ff/GazetteOnlineBreakingNews?d=qj6IDK7rITs"
+    border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/GazetteOnlineBreakingNews?a=H17B3EpdZIo:WFhNV7cU_uw:KwTdNBX3Jqk"><img
+    src="http://feeds.feedburner.com/~ff/GazetteOnlineBreakingNews?i=H17B3EpdZIo:WFhNV7cU_uw:KwTdNBX3Jqk"
+    border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/GazetteOnlineBreakingNews?a=H17B3EpdZIo:WFhNV7cU_uw:gIN9vFwOqvQ"><img
+    src="http://feeds.feedburner.com/~ff/GazetteOnlineBreakingNews?i=H17B3EpdZIo:WFhNV7cU_uw:gIN9vFwOqvQ"
+    border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/GazetteOnlineBreakingNews?a=H17B3EpdZIo:WFhNV7cU_uw:l6gmwiTKsz0"><img
+    src="http://feeds.feedburner.com/~ff/GazetteOnlineBreakingNews?d=l6gmwiTKsz0"
+    border="0"></img></a>
+
+    </div><img src="http://feeds.feedburner.com/~r/GazetteOnlineBreakingNews/~4/H17B3EpdZIo"
+    height="1" width="1"/>'
+- !ruby/object:Feedzirra::Parser::RSSEntry
+  title: Iowa City police begin ‘Ped Mall’ crackdown
+  url: !binary |-
+    aHR0cDovL2ZlZWRwcm94eS5nb29nbGUuY29tL35yL0dhemV0dGVPbmxpbmVC
+    cmVha2luZ05ld3MvfjMvVEY3MWhLTEpZYXMv
+  categories:
+  - !binary |-
+    Q3JpbWUsIExhdyBhbmQgSnVzdGljZQ==
+  - !binary |-
+    Sm9obnNvbiBDb3VudHk=
+  - !binary |-
+    UHVibGljIFNhZmV0eQ==
+  author: !binary |-
+    TWFyayBDYXJsc29u
+  published: 2012-08-29 16:55:39.000000000 Z
+  entry_id: !binary |-
+    aHR0cDovL3RoZWdhemV0dGUuY29tLz9wPTQ1MzI3MA==
+  content: ! 'Iowa City police are cracking down on illegal behavior in the pedestrian
+    plaza, more commonly known as the &#8220;ped mall.&#8221; The crackdown comes
+    after the city received multiple behavioral...<div class="feedflare">
+
+    <a href="http://feeds.feedburner.com/~ff/GazetteOnlineBreakingNews?a=TF71hKLJYas:DHr4vZfOTUI:yIl2AUoC8zA"><img
+    src="http://feeds.feedburner.com/~ff/GazetteOnlineBreakingNews?d=yIl2AUoC8zA"
+    border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/GazetteOnlineBreakingNews?a=TF71hKLJYas:DHr4vZfOTUI:V_sGLiPBpWU"><img
+    src="http://feeds.feedburner.com/~ff/GazetteOnlineBreakingNews?i=TF71hKLJYas:DHr4vZfOTUI:V_sGLiPBpWU"
+    border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/GazetteOnlineBreakingNews?a=TF71hKLJYas:DHr4vZfOTUI:qj6IDK7rITs"><img
+    src="http://feeds.feedburner.com/~ff/GazetteOnlineBreakingNews?d=qj6IDK7rITs"
+    border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/GazetteOnlineBreakingNews?a=TF71hKLJYas:DHr4vZfOTUI:KwTdNBX3Jqk"><img
+    src="http://feeds.feedburner.com/~ff/GazetteOnlineBreakingNews?i=TF71hKLJYas:DHr4vZfOTUI:KwTdNBX3Jqk"
+    border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/GazetteOnlineBreakingNews?a=TF71hKLJYas:DHr4vZfOTUI:gIN9vFwOqvQ"><img
+    src="http://feeds.feedburner.com/~ff/GazetteOnlineBreakingNews?i=TF71hKLJYas:DHr4vZfOTUI:gIN9vFwOqvQ"
+    border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/GazetteOnlineBreakingNews?a=TF71hKLJYas:DHr4vZfOTUI:l6gmwiTKsz0"><img
+    src="http://feeds.feedburner.com/~ff/GazetteOnlineBreakingNews?d=l6gmwiTKsz0"
+    border="0"></img></a>
+
+    </div><img src="http://feeds.feedburner.com/~r/GazetteOnlineBreakingNews/~4/TF71hKLJYas"
+    height="1" width="1"/>'
+- !ruby/object:Feedzirra::Parser::RSSEntry
+  title: !binary |-
+    SnVkZ2UgZ3JhbnRzIHRoaXJkIGRlbGF5IGZvciBtdXJkZXIgc3VzcGVjdCBp
+    biAyMDA5IElvd2EgQ2l0eSBob21pY2lkZQ==
+  url: !binary |-
+    aHR0cDovL2ZlZWRwcm94eS5nb29nbGUuY29tL35yL0dhemV0dGVPbmxpbmVC
+    cmVha2luZ05ld3MvfjMvdG9RRTdOVmtHNzAv
+  categories:
+  - !binary |-
+    Sm9obnNvbiBDb3VudHk=
+  - !binary |-
+    UHVibGljIFNhZmV0eQ==
+  - !binary |-
+    Q2hhcmxlcyBUaG9tcHNvbg==
+  - !binary |-
+    Q291cnRuZXkgV2hpdGU=
+  - !binary |-
+    Zmlyc3QtZGVncmVlIG11cmRlcg==
+  - !binary |-
+    SmFuZXQgTHluZXNz
+  - !binary |-
+    am9obiB2ZXJzeXB0
+  - !binary |-
+    anVzdGluIG1hcnNoYWxs
+  - !binary |-
+    TWVyZWRpdGggUmljaC1DaGFwcGVsbGw=
+  - !binary |-
+    U2VhbiBNY1BhcnRsYW5k
+  - !binary |-
+    VGhvbWFzIEdhdWw=
+  author: !binary |-
+    VmFuZXNzYSBNaWxsZXI=
+  published: 2012-08-29 16:36:14.000000000 Z
+  entry_id: !binary |-
+    aHR0cDovL3RoZWdhemV0dGUuY29tLz9wPTQ1MzI0Mw==
+  content: !binary |-
+    VGhlIGxvbmctYXdhaXRlZCB0cmlhbCBvZiBvbmUgb2YgdGhyZWUgc3VzcGVj
+    dHMgY2hhcmdlZCBpbiB0aGUgMjAwOSBraWxsaW5nIG9mIGFuIElvd2EgQ2l0
+    eSBsYW5kbG9yZCBoYXMgYmVlbiBwb3N0cG9uZWQgZm9yIGEgdGhpcmQgdGlt
+    ZSwgbWVhbmluZyBpdCB3aWxsIG5vdCBiZWdpbiBTZXB0LiAxNyBhcyBwcmV2
+    aW91c2x5IHNjaGVkdWxlZC4uLi48ZGl2IGNsYXNzPSJmZWVkZmxhcmUiPgo8
+    YSBocmVmPSJodHRwOi8vZmVlZHMuZmVlZGJ1cm5lci5jb20vfmZmL0dhemV0
+    dGVPbmxpbmVCcmVha2luZ05ld3M/YT10b1FFN05Wa0c3MDpkWjdlTy1kQnhw
+    ODp5SWwyQVVvQzh6QSI+PGltZyBzcmM9Imh0dHA6Ly9mZWVkcy5mZWVkYnVy
+    bmVyLmNvbS9+ZmYvR2F6ZXR0ZU9ubGluZUJyZWFraW5nTmV3cz9kPXlJbDJB
+    VW9DOHpBIiBib3JkZXI9IjAiPjwvaW1nPjwvYT4gPGEgaHJlZj0iaHR0cDov
+    L2ZlZWRzLmZlZWRidXJuZXIuY29tL35mZi9HYXpldHRlT25saW5lQnJlYWtp
+    bmdOZXdzP2E9dG9RRTdOVmtHNzA6ZFo3ZU8tZEJ4cDg6Vl9zR0xpUEJwV1Ui
+    PjxpbWcgc3JjPSJodHRwOi8vZmVlZHMuZmVlZGJ1cm5lci5jb20vfmZmL0dh
+    emV0dGVPbmxpbmVCcmVha2luZ05ld3M/aT10b1FFN05Wa0c3MDpkWjdlTy1k
+    QnhwODpWX3NHTGlQQnBXVSIgYm9yZGVyPSIwIj48L2ltZz48L2E+IDxhIGhy
+    ZWY9Imh0dHA6Ly9mZWVkcy5mZWVkYnVybmVyLmNvbS9+ZmYvR2F6ZXR0ZU9u
+    bGluZUJyZWFraW5nTmV3cz9hPXRvUUU3TlZrRzcwOmRaN2VPLWRCeHA4OnFq
+    NklESzdySVRzIj48aW1nIHNyYz0iaHR0cDovL2ZlZWRzLmZlZWRidXJuZXIu
+    Y29tL35mZi9HYXpldHRlT25saW5lQnJlYWtpbmdOZXdzP2Q9cWo2SURLN3JJ
+    VHMiIGJvcmRlcj0iMCI+PC9pbWc+PC9hPiA8YSBocmVmPSJodHRwOi8vZmVl
+    ZHMuZmVlZGJ1cm5lci5jb20vfmZmL0dhemV0dGVPbmxpbmVCcmVha2luZ05l
+    d3M/YT10b1FFN05Wa0c3MDpkWjdlTy1kQnhwODpLd1RkTkJYM0pxayI+PGlt
+    ZyBzcmM9Imh0dHA6Ly9mZWVkcy5mZWVkYnVybmVyLmNvbS9+ZmYvR2F6ZXR0
+    ZU9ubGluZUJyZWFraW5nTmV3cz9pPXRvUUU3TlZrRzcwOmRaN2VPLWRCeHA4
+    Okt3VGROQlgzSnFrIiBib3JkZXI9IjAiPjwvaW1nPjwvYT4gPGEgaHJlZj0i
+    aHR0cDovL2ZlZWRzLmZlZWRidXJuZXIuY29tL35mZi9HYXpldHRlT25saW5l
+    QnJlYWtpbmdOZXdzP2E9dG9RRTdOVmtHNzA6ZFo3ZU8tZEJ4cDg6Z0lOOXZG
+    d09xdlEiPjxpbWcgc3JjPSJodHRwOi8vZmVlZHMuZmVlZGJ1cm5lci5jb20v
+    fmZmL0dhemV0dGVPbmxpbmVCcmVha2luZ05ld3M/aT10b1FFN05Wa0c3MDpk
+    WjdlTy1kQnhwODpnSU45dkZ3T3F2USIgYm9yZGVyPSIwIj48L2ltZz48L2E+
+    IDxhIGhyZWY9Imh0dHA6Ly9mZWVkcy5mZWVkYnVybmVyLmNvbS9+ZmYvR2F6
+    ZXR0ZU9ubGluZUJyZWFraW5nTmV3cz9hPXRvUUU3TlZrRzcwOmRaN2VPLWRC
+    eHA4Omw2Z213aVRLc3owIj48aW1nIHNyYz0iaHR0cDovL2ZlZWRzLmZlZWRi
+    dXJuZXIuY29tL35mZi9HYXpldHRlT25saW5lQnJlYWtpbmdOZXdzP2Q9bDZn
+    bXdpVEtzejAiIGJvcmRlcj0iMCI+PC9pbWc+PC9hPgo8L2Rpdj48aW1nIHNy
+    Yz0iaHR0cDovL2ZlZWRzLmZlZWRidXJuZXIuY29tL35yL0dhemV0dGVPbmxp
+    bmVCcmVha2luZ05ld3MvfjQvdG9RRTdOVmtHNzAiIGhlaWdodD0iMSIgd2lk
+    dGg9IjEiLz4=
+- !ruby/object:Feedzirra::Parser::RSSEntry
+  title: !binary |-
+    VVNEQSBleHRlbmRzIGVtZXJnZW5jeSBncmF6aW5nIG9uIENSUCBhY3JlcyB0
+    byBOb3YuIDMw
+  url: !binary |-
+    aHR0cDovL2ZlZWRwcm94eS5nb29nbGUuY29tL35yL0dhemV0dGVPbmxpbmVC
+    cmVha2luZ05ld3MvfjMvWFNrMmtjcFdpR0kv
+  categories:
+  - !binary |-
+    QjM4MA==
+  - !binary |-
+    TG9jYWwgTmV3cw==
+  - !binary |-
+    U3RhdGV3aWRlIE5ld3M=
+  - !binary |-
+    Q29uc2VydmF0aW9uIFJlc2VydmUgUHJvZ3JhbQ==
+  - !binary |-
+    VS5TLiBBZ3JpY3VsdHVyZSBTZWNyZXRhcnkgVG9tIFZpbHNhY2s=
+  - !binary |-
+    VVNEQQ==
+  author: !binary |-
+    R2VvcmdlIEMuIEZvcmQ=
+  published: 2012-08-29 16:35:12.000000000 Z
+  entry_id: !binary |-
+    aHR0cDovL3RoZWdhemV0dGUuY29tLz9wPTQ1MzI0Ng==
+  content: !binary |-
+    SW93YSBmYXJtZXJzIHdpbGwgYmUgYWJsZSB0byBjb250aW51ZSBncmF6aW5n
+    IGNhdHRsZSBvbiBDb25zZXJ2YXRpb24gUmVzZXJ2ZSBQcm9ncmFtIGFjcmVz
+    IHVudGlsIE5vdi4gMzAgdW5kZXIgYSB0d28tbW9udGggZXh0ZW5zaW9uIGFu
+    bm91bmNlZCBXZWRuZXNkYXkgYnkgdGhlIFUuUy4gRGVwYXJ0bWVudCBvZiBB
+    Z3JpY3VsdHVyZS4gVS5TLi4uLjxkaXYgY2xhc3M9ImZlZWRmbGFyZSI+Cjxh
+    IGhyZWY9Imh0dHA6Ly9mZWVkcy5mZWVkYnVybmVyLmNvbS9+ZmYvR2F6ZXR0
+    ZU9ubGluZUJyZWFraW5nTmV3cz9hPVhTazJrY3BXaUdJOkt0UVhwSmJENmtZ
+    OnlJbDJBVW9DOHpBIj48aW1nIHNyYz0iaHR0cDovL2ZlZWRzLmZlZWRidXJu
+    ZXIuY29tL35mZi9HYXpldHRlT25saW5lQnJlYWtpbmdOZXdzP2Q9eUlsMkFV
+    b0M4ekEiIGJvcmRlcj0iMCI+PC9pbWc+PC9hPiA8YSBocmVmPSJodHRwOi8v
+    ZmVlZHMuZmVlZGJ1cm5lci5jb20vfmZmL0dhemV0dGVPbmxpbmVCcmVha2lu
+    Z05ld3M/YT1YU2sya2NwV2lHSTpLdFFYcEpiRDZrWTpWX3NHTGlQQnBXVSI+
+    PGltZyBzcmM9Imh0dHA6Ly9mZWVkcy5mZWVkYnVybmVyLmNvbS9+ZmYvR2F6
+    ZXR0ZU9ubGluZUJyZWFraW5nTmV3cz9pPVhTazJrY3BXaUdJOkt0UVhwSmJE
+    NmtZOlZfc0dMaVBCcFdVIiBib3JkZXI9IjAiPjwvaW1nPjwvYT4gPGEgaHJl
+    Zj0iaHR0cDovL2ZlZWRzLmZlZWRidXJuZXIuY29tL35mZi9HYXpldHRlT25s
+    aW5lQnJlYWtpbmdOZXdzP2E9WFNrMmtjcFdpR0k6S3RRWHBKYkQ2a1k6cWo2
+    SURLN3JJVHMiPjxpbWcgc3JjPSJodHRwOi8vZmVlZHMuZmVlZGJ1cm5lci5j
+    b20vfmZmL0dhemV0dGVPbmxpbmVCcmVha2luZ05ld3M/ZD1xajZJREs3cklU
+    cyIgYm9yZGVyPSIwIj48L2ltZz48L2E+IDxhIGhyZWY9Imh0dHA6Ly9mZWVk
+    cy5mZWVkYnVybmVyLmNvbS9+ZmYvR2F6ZXR0ZU9ubGluZUJyZWFraW5nTmV3
+    cz9hPVhTazJrY3BXaUdJOkt0UVhwSmJENmtZOkt3VGROQlgzSnFrIj48aW1n
+    IHNyYz0iaHR0cDovL2ZlZWRzLmZlZWRidXJuZXIuY29tL35mZi9HYXpldHRl
+    T25saW5lQnJlYWtpbmdOZXdzP2k9WFNrMmtjcFdpR0k6S3RRWHBKYkQ2a1k6
+    S3dUZE5CWDNKcWsiIGJvcmRlcj0iMCI+PC9pbWc+PC9hPiA8YSBocmVmPSJo
+    dHRwOi8vZmVlZHMuZmVlZGJ1cm5lci5jb20vfmZmL0dhemV0dGVPbmxpbmVC
+    cmVha2luZ05ld3M/YT1YU2sya2NwV2lHSTpLdFFYcEpiRDZrWTpnSU45dkZ3
+    T3F2USI+PGltZyBzcmM9Imh0dHA6Ly9mZWVkcy5mZWVkYnVybmVyLmNvbS9+
+    ZmYvR2F6ZXR0ZU9ubGluZUJyZWFraW5nTmV3cz9pPVhTazJrY3BXaUdJOkt0
+    UVhwSmJENmtZOmdJTjl2RndPcXZRIiBib3JkZXI9IjAiPjwvaW1nPjwvYT4g
+    PGEgaHJlZj0iaHR0cDovL2ZlZWRzLmZlZWRidXJuZXIuY29tL35mZi9HYXpl
+    dHRlT25saW5lQnJlYWtpbmdOZXdzP2E9WFNrMmtjcFdpR0k6S3RRWHBKYkQ2
+    a1k6bDZnbXdpVEtzejAiPjxpbWcgc3JjPSJodHRwOi8vZmVlZHMuZmVlZGJ1
+    cm5lci5jb20vfmZmL0dhemV0dGVPbmxpbmVCcmVha2luZ05ld3M/ZD1sNmdt
+    d2lUS3N6MCIgYm9yZGVyPSIwIj48L2ltZz48L2E+CjwvZGl2PjxpbWcgc3Jj
+    PSJodHRwOi8vZmVlZHMuZmVlZGJ1cm5lci5jb20vfnIvR2F6ZXR0ZU9ubGlu
+    ZUJyZWFraW5nTmV3cy9+NC9YU2sya2NwV2lHSSIgaGVpZ2h0PSIxIiB3aWR0
+    aD0iMSIvPg==
+- !ruby/object:Feedzirra::Parser::RSSEntry
+  title: !binary |-
+    U3RldmUgRm9yYmVzIHRvIHZpc2l0IFVuaXZlcnNpdHkgb2YgSW93YSBmb3Ig
+    cGFuZWwgZGlzY3Vzc2lvbg==
+  url: !binary |-
+    aHR0cDovL2ZlZWRwcm94eS5nb29nbGUuY29tL35yL0dhemV0dGVPbmxpbmVC
+    cmVha2luZ05ld3MvfjMvMFJKM1hjTEN6Wmcv
+  categories:
+  - !binary |-
+    RWR1Y2F0aW9u
+  - !binary |-
+    SGlnaGVyIEVkdWNhdGlvbg==
+  - !binary |-
+    Sm9obiBQYXBwYWpvaG4gRW50cmVwcmVuZXVyaWFsIENlbnRlcg==
+  - !binary |-
+    U3RldmUgRm9yYmVz
+  - !binary |-
+    VW5pdmVyc2l0eSBvZiBJb3dh
+  author: !binary |-
+    RGlhbmUgSGVsZHQ=
+  published: 2012-08-29 16:21:30.000000000 Z
+  entry_id: !binary |-
+    aHR0cDovL3RoZWdhemV0dGUuY29tLz9wPTQ1MzIyMQ==
+  content: !binary |-
+    Rm9ybWVyIFJlcHVibGljYW4gcHJlc2lkZW50aWFsIGhvcGVmdWwgYW5kIGJ1
+    c2luZXNzbWFuIFN0ZXZlIEZvcmJlcyB3aWxsIHNwZWFrIGF0IHRoZSBVbml2
+    ZXJzaXR5IG9mIElvd2EgU2VwdC4gMTIuIFRoZSBVSSYjODIxNztzIEpvaG4g
+    UGFwcGFqb2huIEVudHJlcHJlbmV1cmlhbCBDZW50ZXIgd2lsbCBob3N0IEZv
+    cmJlcywgY2hhaXJtYW4gYW5kLi4uPGRpdiBjbGFzcz0iZmVlZGZsYXJlIj4K
+    PGEgaHJlZj0iaHR0cDovL2ZlZWRzLmZlZWRidXJuZXIuY29tL35mZi9HYXpl
+    dHRlT25saW5lQnJlYWtpbmdOZXdzP2E9MFJKM1hjTEN6Wmc6Q3ZOTWF3aTdp
+    aHc6eUlsMkFVb0M4ekEiPjxpbWcgc3JjPSJodHRwOi8vZmVlZHMuZmVlZGJ1
+    cm5lci5jb20vfmZmL0dhemV0dGVPbmxpbmVCcmVha2luZ05ld3M/ZD15SWwy
+    QVVvQzh6QSIgYm9yZGVyPSIwIj48L2ltZz48L2E+IDxhIGhyZWY9Imh0dHA6
+    Ly9mZWVkcy5mZWVkYnVybmVyLmNvbS9+ZmYvR2F6ZXR0ZU9ubGluZUJyZWFr
+    aW5nTmV3cz9hPTBSSjNYY0xDelpnOkN2Tk1hd2k3aWh3OlZfc0dMaVBCcFdV
+    Ij48aW1nIHNyYz0iaHR0cDovL2ZlZWRzLmZlZWRidXJuZXIuY29tL35mZi9H
+    YXpldHRlT25saW5lQnJlYWtpbmdOZXdzP2k9MFJKM1hjTEN6Wmc6Q3ZOTWF3
+    aTdpaHc6Vl9zR0xpUEJwV1UiIGJvcmRlcj0iMCI+PC9pbWc+PC9hPiA8YSBo
+    cmVmPSJodHRwOi8vZmVlZHMuZmVlZGJ1cm5lci5jb20vfmZmL0dhemV0dGVP
+    bmxpbmVCcmVha2luZ05ld3M/YT0wUkozWGNMQ3paZzpDdk5NYXdpN2lodzpx
+    ajZJREs3cklUcyI+PGltZyBzcmM9Imh0dHA6Ly9mZWVkcy5mZWVkYnVybmVy
+    LmNvbS9+ZmYvR2F6ZXR0ZU9ubGluZUJyZWFraW5nTmV3cz9kPXFqNklESzdy
+    SVRzIiBib3JkZXI9IjAiPjwvaW1nPjwvYT4gPGEgaHJlZj0iaHR0cDovL2Zl
+    ZWRzLmZlZWRidXJuZXIuY29tL35mZi9HYXpldHRlT25saW5lQnJlYWtpbmdO
+    ZXdzP2E9MFJKM1hjTEN6Wmc6Q3ZOTWF3aTdpaHc6S3dUZE5CWDNKcWsiPjxp
+    bWcgc3JjPSJodHRwOi8vZmVlZHMuZmVlZGJ1cm5lci5jb20vfmZmL0dhemV0
+    dGVPbmxpbmVCcmVha2luZ05ld3M/aT0wUkozWGNMQ3paZzpDdk5NYXdpN2lo
+    dzpLd1RkTkJYM0pxayIgYm9yZGVyPSIwIj48L2ltZz48L2E+IDxhIGhyZWY9
+    Imh0dHA6Ly9mZWVkcy5mZWVkYnVybmVyLmNvbS9+ZmYvR2F6ZXR0ZU9ubGlu
+    ZUJyZWFraW5nTmV3cz9hPTBSSjNYY0xDelpnOkN2Tk1hd2k3aWh3OmdJTjl2
+    RndPcXZRIj48aW1nIHNyYz0iaHR0cDovL2ZlZWRzLmZlZWRidXJuZXIuY29t
+    L35mZi9HYXpldHRlT25saW5lQnJlYWtpbmdOZXdzP2k9MFJKM1hjTEN6Wmc6
+    Q3ZOTWF3aTdpaHc6Z0lOOXZGd09xdlEiIGJvcmRlcj0iMCI+PC9pbWc+PC9h
+    PiA8YSBocmVmPSJodHRwOi8vZmVlZHMuZmVlZGJ1cm5lci5jb20vfmZmL0dh
+    emV0dGVPbmxpbmVCcmVha2luZ05ld3M/YT0wUkozWGNMQ3paZzpDdk5NYXdp
+    N2lodzpsNmdtd2lUS3N6MCI+PGltZyBzcmM9Imh0dHA6Ly9mZWVkcy5mZWVk
+    YnVybmVyLmNvbS9+ZmYvR2F6ZXR0ZU9ubGluZUJyZWFraW5nTmV3cz9kPWw2
+    Z213aVRLc3owIiBib3JkZXI9IjAiPjwvaW1nPjwvYT4KPC9kaXY+PGltZyBz
+    cmM9Imh0dHA6Ly9mZWVkcy5mZWVkYnVybmVyLmNvbS9+ci9HYXpldHRlT25s
+    aW5lQnJlYWtpbmdOZXdzL340LzBSSjNYY0xDelpnIiBoZWlnaHQ9IjEiIHdp
+    ZHRoPSIxIi8+
+- !ruby/object:Feedzirra::Parser::RSSEntry
+  title: Investors object to planned raise for failed Iowa brokerage’s lawyer
+  url: !binary |-
+    aHR0cDovL2ZlZWRwcm94eS5nb29nbGUuY29tL35yL0dhemV0dGVPbmxpbmVC
+    cmVha2luZ05ld3MvfjMvSm9JOFZIdk5CMlUv
+  categories:
+  - !binary |-
+    QjM4MA==
+  - !binary |-
+    QnVzaW5lc3M=
+  - !binary |-
+    U3RhdGV3aWRlIE5ld3M=
+  author: !binary |-
+    UmV1dGVycyBBbWVyaWNhIFdpcmU=
+  published: 2012-08-29 15:36:06.000000000 Z
+  entry_id: !binary |-
+    aHR0cDovL3RoZWdhemV0dGUuY29tLz9wPTQ1MzE3OQ==
+  content: !binary |-
+    Rm9ybWVyIGN1c3RvbWVycyBvZiBjb2xsYXBzZWQgUGVyZWdyaW5lIEZpbmFu
+    Y2lhbCBHcm91cCBvYmplY3RlZCBvbiBUdWVzZGF5IHRvIGEgcHJvcG9zZWQg
+    cmFpc2UgZm9yIFBlcmVncmluZSYjODIxNztzIGdlbmVyYWwgY291bnNlbCwg
+    c2F5aW5nIHRoZSBmaXJtJiM4MjE3O3MgYmFua3J1cHRjeSB0cnVzdGVlIHNo
+    b3VsZCBmb2N1cyBvbi4uLjxkaXYgY2xhc3M9ImZlZWRmbGFyZSI+CjxhIGhy
+    ZWY9Imh0dHA6Ly9mZWVkcy5mZWVkYnVybmVyLmNvbS9+ZmYvR2F6ZXR0ZU9u
+    bGluZUJyZWFraW5nTmV3cz9hPUpvSThWSHZOQjJVOjBzbFBhc3hmdkZ3OnlJ
+    bDJBVW9DOHpBIj48aW1nIHNyYz0iaHR0cDovL2ZlZWRzLmZlZWRidXJuZXIu
+    Y29tL35mZi9HYXpldHRlT25saW5lQnJlYWtpbmdOZXdzP2Q9eUlsMkFVb0M4
+    ekEiIGJvcmRlcj0iMCI+PC9pbWc+PC9hPiA8YSBocmVmPSJodHRwOi8vZmVl
+    ZHMuZmVlZGJ1cm5lci5jb20vfmZmL0dhemV0dGVPbmxpbmVCcmVha2luZ05l
+    d3M/YT1Kb0k4Vkh2TkIyVTowc2xQYXN4ZnZGdzpWX3NHTGlQQnBXVSI+PGlt
+    ZyBzcmM9Imh0dHA6Ly9mZWVkcy5mZWVkYnVybmVyLmNvbS9+ZmYvR2F6ZXR0
+    ZU9ubGluZUJyZWFraW5nTmV3cz9pPUpvSThWSHZOQjJVOjBzbFBhc3hmdkZ3
+    OlZfc0dMaVBCcFdVIiBib3JkZXI9IjAiPjwvaW1nPjwvYT4gPGEgaHJlZj0i
+    aHR0cDovL2ZlZWRzLmZlZWRidXJuZXIuY29tL35mZi9HYXpldHRlT25saW5l
+    QnJlYWtpbmdOZXdzP2E9Sm9JOFZIdk5CMlU6MHNsUGFzeGZ2Rnc6cWo2SURL
+    N3JJVHMiPjxpbWcgc3JjPSJodHRwOi8vZmVlZHMuZmVlZGJ1cm5lci5jb20v
+    fmZmL0dhemV0dGVPbmxpbmVCcmVha2luZ05ld3M/ZD1xajZJREs3cklUcyIg
+    Ym9yZGVyPSIwIj48L2ltZz48L2E+IDxhIGhyZWY9Imh0dHA6Ly9mZWVkcy5m
+    ZWVkYnVybmVyLmNvbS9+ZmYvR2F6ZXR0ZU9ubGluZUJyZWFraW5nTmV3cz9h
+    PUpvSThWSHZOQjJVOjBzbFBhc3hmdkZ3Okt3VGROQlgzSnFrIj48aW1nIHNy
+    Yz0iaHR0cDovL2ZlZWRzLmZlZWRidXJuZXIuY29tL35mZi9HYXpldHRlT25s
+    aW5lQnJlYWtpbmdOZXdzP2k9Sm9JOFZIdk5CMlU6MHNsUGFzeGZ2Rnc6S3dU
+    ZE5CWDNKcWsiIGJvcmRlcj0iMCI+PC9pbWc+PC9hPiA8YSBocmVmPSJodHRw
+    Oi8vZmVlZHMuZmVlZGJ1cm5lci5jb20vfmZmL0dhemV0dGVPbmxpbmVCcmVh
+    a2luZ05ld3M/YT1Kb0k4Vkh2TkIyVTowc2xQYXN4ZnZGdzpnSU45dkZ3T3F2
+    USI+PGltZyBzcmM9Imh0dHA6Ly9mZWVkcy5mZWVkYnVybmVyLmNvbS9+ZmYv
+    R2F6ZXR0ZU9ubGluZUJyZWFraW5nTmV3cz9pPUpvSThWSHZOQjJVOjBzbFBh
+    c3hmdkZ3OmdJTjl2RndPcXZRIiBib3JkZXI9IjAiPjwvaW1nPjwvYT4gPGEg
+    aHJlZj0iaHR0cDovL2ZlZWRzLmZlZWRidXJuZXIuY29tL35mZi9HYXpldHRl
+    T25saW5lQnJlYWtpbmdOZXdzP2E9Sm9JOFZIdk5CMlU6MHNsUGFzeGZ2Rnc6
+    bDZnbXdpVEtzejAiPjxpbWcgc3JjPSJodHRwOi8vZmVlZHMuZmVlZGJ1cm5l
+    ci5jb20vfmZmL0dhemV0dGVPbmxpbmVCcmVha2luZ05ld3M/ZD1sNmdtd2lU
+    S3N6MCIgYm9yZGVyPSIwIj48L2ltZz48L2E+CjwvZGl2PjxpbWcgc3JjPSJo
+    dHRwOi8vZmVlZHMuZmVlZGJ1cm5lci5jb20vfnIvR2F6ZXR0ZU9ubGluZUJy
+    ZWFraW5nTmV3cy9+NC9Kb0k4Vkh2TkIyVSIgaGVpZ2h0PSIxIiB3aWR0aD0i
+    MSIvPg==
+- !ruby/object:Feedzirra::Parser::RSSEntry
+  title: !binary |-
+    UGFsbSBwcmludCBsZWFkcyB0byBhcnJlc3QgaW4gQ2VkYXIgUmFwaWRzIGxp
+    cXVvciBzdG9yZSByb2JiZXJ5
+  url: !binary |-
+    aHR0cDovL2ZlZWRwcm94eS5nb29nbGUuY29tL35yL0dhemV0dGVPbmxpbmVC
+    cmVha2luZ05ld3MvfjMvOVVoQUY0SmJCWm8v
+  categories:
+  - !binary |-
+    Q3JpbWUsIExhdyBhbmQgSnVzdGljZQ==
+  - !binary |-
+    TGlubiBDb3VudHk=
+  - !binary |-
+    UHVibGljIFNhZmV0eQ==
+  - !binary |-
+    MjkzMyBGaXJzdCBBdmUuIFNF
+  - !binary |-
+    QWxleGFuZGVyIFdoaXRl
+  - !binary |-
+    Q2VkYXIgUmFwaWRz
+  - !binary |-
+    RGlzY291bnQgTGlxdW9y
+  - !binary |-
+    cGFsbSBwcmludA==
+  - !binary |-
+    U2hhbm5vbiBHYXNraW5z
+  author: !binary |-
+    SmVmZiBSYWFzY2g=
+  published: 2012-08-29 15:19:36.000000000 Z
+  entry_id: !binary |-
+    aHR0cDovL3RoZWdhemV0dGUuY29tLz9wPTQ1MzE2Ng==
+  content: ! 'A palm print and a stolen vehicle helped lead police to an arrest in
+    an armed robbery at a Cedar Rapids liquor store. Alexander B. White, 23, of 1432
+    Seventh Ave. SE, is charged with second-degree...<div class="feedflare">
+
+    <a href="http://feeds.feedburner.com/~ff/GazetteOnlineBreakingNews?a=9UhAF4JbBZo:AG-j_NmgSXA:yIl2AUoC8zA"><img
+    src="http://feeds.feedburner.com/~ff/GazetteOnlineBreakingNews?d=yIl2AUoC8zA"
+    border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/GazetteOnlineBreakingNews?a=9UhAF4JbBZo:AG-j_NmgSXA:V_sGLiPBpWU"><img
+    src="http://feeds.feedburner.com/~ff/GazetteOnlineBreakingNews?i=9UhAF4JbBZo:AG-j_NmgSXA:V_sGLiPBpWU"
+    border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/GazetteOnlineBreakingNews?a=9UhAF4JbBZo:AG-j_NmgSXA:qj6IDK7rITs"><img
+    src="http://feeds.feedburner.com/~ff/GazetteOnlineBreakingNews?d=qj6IDK7rITs"
+    border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/GazetteOnlineBreakingNews?a=9UhAF4JbBZo:AG-j_NmgSXA:KwTdNBX3Jqk"><img
+    src="http://feeds.feedburner.com/~ff/GazetteOnlineBreakingNews?i=9UhAF4JbBZo:AG-j_NmgSXA:KwTdNBX3Jqk"
+    border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/GazetteOnlineBreakingNews?a=9UhAF4JbBZo:AG-j_NmgSXA:gIN9vFwOqvQ"><img
+    src="http://feeds.feedburner.com/~ff/GazetteOnlineBreakingNews?i=9UhAF4JbBZo:AG-j_NmgSXA:gIN9vFwOqvQ"
+    border="0"></img></a> <a href="http://feeds.feedburner.com/~ff/GazetteOnlineBreakingNews?a=9UhAF4JbBZo:AG-j_NmgSXA:l6gmwiTKsz0"><img
+    src="http://feeds.feedburner.com/~ff/GazetteOnlineBreakingNews?d=l6gmwiTKsz0"
+    border="0"></img></a>
+
+    </div><img src="http://feeds.feedburner.com/~r/GazetteOnlineBreakingNews/~4/9UhAF4JbBZo"
+    height="1" width="1"/>'
+feed_url: !binary |-
+  aHR0cDovL2ZlZWRzLmZlZWRidXJuZXIuY29tL0dhemV0dGVPbmxpbmVCcmVh
+  a2luZ05ld3M/Zm9ybWF0PXhtbA==
+etag: !binary |-
+  U3AwdWdQbnl0L1UyRmhEU0ZjTGpiM3VPekVj
+last_modified: 2012-08-31 16:47:36.000000000 -07:00

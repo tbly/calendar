@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+  <title><%= content_for?(:page_title) ? yield(:page_title) : "Icnow2" %></title>
+  <%= stylesheet_link_tag "application" %>
+  <%= stylesheet_link_tag controller.controller_name %>
+  <%= yield(:stylesheets) %>
+  <%= javascript_include_tag "application" %>
+  <%= yield(:scripts) %>
+  <%= csrf_meta_tags %>
+  <%= yield(:head) %>
+  
+  <!--[if lt IE 9]>
+    <script>
+      document.createElement('header');
+      document.createElement('nav');
+      document.createElement('section');
+      document.createElement('article');
+      document.createElement('aside');
+      document.createElement('footer');
+      document.createElement('hgroup');
+    </script>
+  <![endif]-->
+  
+  <!-- Pulled from http://code.google.com/p/html5shiv/ -->
+  <!--[if lt IE 9]>
+    <script src="//html5shim.googlecode.com/svn/trunk/html5.js"></script>
+    <style type="text/css">
+      #navbackgroundcolorchange {padding-top:14px !important;}
+    </style>
+  <![endif]-->
+  
+  <!--[if IE]>    
+    <%= stylesheet_link_tag "ie" %>
+  <![endif]-->
+</head>
+<body>
+<div class="container">
+  <%= render :partial => '/layouts/header' %>
+  <%= render :partial => '/layouts/nav' %>
+  
+  <%= yield %>
+  <div style="clear:both"></div>
+  
+  <%= render :partial => '/layouts/footer' %>
+</body>
+</html>

@@ -1,0 +1,125 @@
+// Place all the styles related to the movies controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+
+.content {
+  background-image: none;
+}
+
+.arrestcolumn {
+  margin-right: 18px;
+  margin-left: 18px;
+}
+
+.arrestboxtitle {
+  border-radius: 15px 15px 0px 0px;
+  -moz-border-radius: 15px 15px 0px 0px; /* Firefox */
+  -webkit-border-radius: 15px 15px 0px 0px; /* Safari, Chrome */
+  background-color: #3d82c5;
+  border-bottom: 5px #1e619e solid;
+}
+
+.arrestboxtitle h1 {
+  font-size: 15px;
+  padding-top: 7px;
+  padding-bottom: 6px;
+                
+  font-family: "Arial Black", Gadget, sans-serif;
+  color: #FFF;
+  text-transform: uppercase;
+  padding-left: 10px;
+  margin-left: 4px;
+}
+
+.arrestboxmiddle {
+  border-left: 1px #CCC solid;
+  border-right: 1px #CCC solid;
+  background-color: #FFF;
+  border-bottom: 1px #CCC solid;
+  border-radius: 0px 0px 15px 15px;
+  -moz-border-radius: 0px 0px 15px 15px; /* Firefox */
+  -webkit-border-radius: 0px 0px 15px 15px; /* Safari, Chrome */
+}
+
+#arrestspagearrests {
+  margin-top: 5px;
+  margin-left: -3px;
+}
+
+.arrests {
+  border-bottom: 1px #e0e0e0 solid;
+  padding-left: 8px;
+  padding-right: 8px;
+  padding-top: 8px;
+  padding-bottom: 5px;
+  min-height: 80px;
+}
+
+.bluearrestsbox {
+  background-color: #d8e9f6;
+  padding-bottom: 12px;
+}
+
+.bluearrestsbox h3 {
+  font-size: 14px;
+  color: #555555;
+  text-transform: uppercase;
+  margin-left: 12px;
+  padding-top: 4px;
+  padding-bottom: 3px;
+}
+
+.whitearrestsbox {
+  background-color: #FFF;
+  overflow: auto;
+  margin-left: 12px;
+  margin-right: 12px;
+}
+
+.arrest {
+  border-bottom: 1px #e0e0e0 solid;
+  padding-left: 8px;
+  padding-right: 8px;
+  padding-top: 8px;
+  padding-bottom: 5px;
+}
+
+.arrest .title {
+  margin-left: inherit;
+}
+
+.arrest .title a {
+  font-weight: bold;
+  color: #3d82c5;
+  font-size: 14px;
+  text-transform: uppercase;
+}
+
+.arrest .title a hover {
+  color: #4da7ff;
+}
+
+.pagination {
+  font-size: 14px;
+  color: #555555;
+  text-transform: uppercase;
+  margin-left: 12px;
+  padding: 12px;
+  font-weight: bold;
+}
+
+.pagination a {
+  color: #21639f !important;
+}
+
+.arrestdetails {
+  padding: 12px;
+}
+
+.arrestnav {
+  padding: 12px;
+}
+
+.arrestnav a {
+  color: #21639f !important;
+}

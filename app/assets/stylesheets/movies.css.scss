@@ -1,0 +1,317 @@
+// Place all the styles related to the movies controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+
+.content {
+  background-image:none;
+}
+
+.theatrecolumn {
+  width:287px;
+  margin-left:18px;
+}
+
+.theatres h2 {
+  font-size: 18px;
+  font-weight: normal;
+  color:#375D87;
+}
+
+.theatres p {
+  color:#375D87;
+  font-size:12px;
+  font-weight:normal;
+  margin-bottom:0px;
+}
+
+.theatres input {
+  margin-top:18px;
+}
+
+.theatre {
+  font-size: 14px;
+  font-weight: bold;
+  color:#375D87;
+}
+
+.theatre a:hover {
+  color:#5690d0 !important;
+  text-decoration:underline !important;
+}
+
+.theatreinfo {
+  font-size: 11px;
+  color: #555;
+  font-weight: normal;
+  margin-left:25px;
+}
+
+.moviecolumn {
+  width:740px;
+  float:right;
+  margin-right:18px;
+  margin-left:18px;
+}
+
+.movieboxtitle {
+  width:738px;
+  border-radius:15px 15px 0px 0px;
+  -moz-border-radius: 15px 15px 0px 0px; /* Firefox */
+  -webkit-border-radius: 15px 15px 0px 0px; /* Safari, Chrome */
+  background-color:#3d82c5;
+  border-bottom: 5px #1e619e solid;
+}
+
+.movieboxbottom {
+  width:736px;
+  border-radius:0px 0px 15px 15px;
+  -moz-border-radius: 0px 0px 15px 15px; /* Firefox */
+  -webkit-border-radius: 0px 0px 15px 15px; /* Safari, Chrome */
+  border-left: 1px #CCC solid;
+  border-right: 1px #CCC solid;
+  border-bottom: 1px #CCC solid;
+  height:15px;
+}
+
+.movieboxtitle h1 {
+  font-size: 15px;
+  padding-top: 7px;
+  padding-bottom: 6px;
+                
+  font-family:"Arial Black", Gadget, sans-serif;
+  color:#FFF;
+  text-transform:uppercase;
+  padding-left:10px;
+  margin-left:4px;
+}
+
+
+
+#movietoprow {
+  background-color:#eeeeee;
+}
+
+
+#movieshowtimes {
+  border-left: 1px #CCC solid;
+  border-right: 1px #CCC solid;
+  width:738px;
+
+
+}
+
+
+
+#movieshowtimes td {
+  padding:10px 12px;
+  vertical-align:top;
+  line-height:1;
+  text-align:left;
+}
+
+#movieshowtimes a {
+  color:#3D82C5;
+}
+
+#movieshowtimes a:hover {
+  color:#4da7ff;
+  text-decoration:underline;
+}
+
+#movieshowtimes p {
+  font-size:13px;
+  color:#666;
+}
+
+.detailheader {
+  color:#000;
+  font-size:13px;
+  line-height:1.5;
+}
+
+.detailmovietitle {
+  font-size:18px;
+  font-weight:bold;
+  color:#555555;
+  margin-bottom:6px;
+}
+
+#clickshowtimes {
+  color:#666;
+  font-size:12px;
+  padding-right: 6px !important;
+  text-align:right;
+  vertical-align:middle !important;
+  text-align:right !important;
+}
+
+#showtimes {
+  margin-top:10px;
+}
+
+#showtimes h1 {
+  font-size:15px;
+  padding-top:7px;
+  padding-bottom:6px;
+}
+
+#moviedetails h1 {
+  font-size:15px;
+}
+
+#clickshowtimes a {
+                
+}
+
+.odd {
+background-color: #ebf4fa;
+overflow:hidden;
+}
+
+#clickshowtimes img {
+  margin-bottom:-4px;
+  margin-top:-1px;
+}
+
+.movietitle {
+  font-size:14px;
+  font-weight:bold;
+}
+
+
+
+.movieinfo {
+  font-size:12px;
+}
+
+.moviegenres {
+  font-size:10.5px;
+  text-transform:uppercase;
+  color:#9fb2b9;
+}
+
+.lightbar {
+  color:#C2C2C2;
+}
+
+.theatrerightcolumn {
+  margin-bottom:12px;
+}
+
+.theatreandtimes {
+  margin-bottom:10px;
+  color: #555;
+}
+
+.movietheatre {
+  font-size:12px;
+  margin-top:4px;
+  color:black;
+}
+
+.movietimes  {
+  font-size:12px;
+  margin-left:-10px;
+  margin-top:5px;
+}
+
+.movietimes a  {
+            
+}
+
+.moviepast {
+  color: #666;
+  padding-left:10px;
+  padding-right:10px;
+  border-right:2px solid #DFDFDF;
+}
+
+.odd {
+  background-color:#ebf4fa;
+}
+
+#discountshowtimes {
+  color: #666;
+  text-align:right;
+  font-size:12px;
+  margin-right:10px;
+  margin-top:5px;
+}
+
+.movieimgdetail {
+  border:1px #ccc solid;
+  padding:4px;
+  text-align:right;
+}
+
+.movieimgdetailthumb {
+  border:1px #ccc solid;
+  padding:4px;
+  text-align:right;
+  margin-right:3px;
+  margin-top:3px;
+}
+
+#lastmoviethumb {
+  margin-right:0px;
+}
+
+
+#movietoprow td {
+  padding-top: 3px !important;
+  padding-bottom:3px !important;
+}
+
+
+.nolink {
+  color:#666 !important;
+}
+
+.nolink:hover {
+  text-decoration:none !important;
+}
+
+
+.movietimes ul {
+  list-style:none;
+  margin-left:0px;
+  margin-top:-5px;
+}
+
+.movietimes li {
+  float: left;
+  border-right: 2px solid #DFDFDF;
+  margin-top: 3px;
+  padding: 0 10px;
+  text-align: center;
+  display: inline;
+  width: 40px;
+}
+
+.firstmovietime {
+  text-align:left !important;
+}
+
+.moviesrightcolum {
+  padding-bottom:12px;
+  clear:both;
+}
+
+#paranthlink {
+  color:#3D82C5;
+}
+
+.lastmovietime {
+  border-right:none !important;
+}
+
+.noshowtimes {
+  margin-left:10px;
+}
+
+#moviered {
+  font-weight:normal;
+  color:#F00;
+  text-transform:uppercase;
+  font-size:12px;
+}

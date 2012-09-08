@@ -1,0 +1,465 @@
+#calendar {
+	margin-left:6px;
+	margin-top:6px;
+}
+
+.content {
+	background-image:none;
+}
+
+#eventcategories {
+	color:#375d87;
+	font-size:13px;
+	margin-left:5px;
+	
+
+}
+
+
+#eventcategories a {
+	color:#3d82c5;
+	font-size:12px;
+	
+
+}
+
+#eventcategories h1 {
+	color:#375d87;
+	font-size:16px;
+	font-weight:bold;
+	text-transform:uppercase;
+	
+	
+
+}
+
+
+
+
+
+.eventarrows {
+	font-weight:bold;
+	font-size:14px;
+	color:#3d82c5;
+	text-transform:uppercase;
+	margin-top:25px;
+	
+}
+
+
+
+#whiteeventsboxexpand {
+	height:auto
+}
+
+
+
+
+
+.rightcolumn {
+	width:234px;
+}
+
+#eventsearch {
+	color:#375d87;
+	font-size:13px;
+	margin-left:5px;
+	margin-top:5px;
+	line-height:1;
+	
+
+}
+
+
+#eventsearch a {
+	color:#3d82c5;
+	font-size:12px;
+	
+
+}
+
+#eventsearch img {
+	margin-bottom:-6px;
+	
+
+}
+
+#eventsearch h1 {
+	color:#375d87;
+	font-size:16px;
+	font-weight:bold;
+	text-transform:uppercase;
+	margin-left:5px;
+	
+
+}
+
+
+.eventarrows a {
+	color:#3D82C5;
+}
+
+
+.eventsearchsmalltxt {
+	font-size:12px;
+	font-weight:normal;
+}
+
+
+#eventspageevents {
+	margin-top:5px;
+	margin-left:-3px;
+}
+
+#eventsleftcolumn a:hover {
+	color:#4da7ff;
+}
+
+.eventdetailsimg {
+	border:5px #8c9fb9 solid;
+	margin-left:10px;
+}
+
+#eventdetail {
+	width:375px;
+	padding-left:0px;
+	padding-right:0px;
+	margin-left:10px;
+	margin-top:5px;
+	border-bottom:none;
+	
+	
+}
+
+
+#eventdetailstitle {
+	margin-left:0px;
+	margin-bottom:10px;
+	font-size:18px;
+	font-weight: bold;
+color: #3D82C5;
+text-transform: uppercase;
+}
+
+.moredates a {
+	font-size:12px;
+	text-transform:capitalize;
+	
+	font-weight:normal;
+}
+
+#eventdetail h4 {
+	font-size:14px;
+	
+}
+
+#eventdetail p {
+	margin-top:15px;
+	font-size:14px;
+}
+
+#eventdetail .bold {
+	font-weight:bold
+}
+
+#eventdetail a {
+	color:#3d82c5;
+}
+
+#eventdetail a:hover {
+	color:#4da7ff;
+}
+
+.eventdetailsmap {
+	margin-top:15px;
+}
+
+
+
+#intheweekahead h2 {
+  color: #207224;
+  font-family: "Arial Black",Gadget,sans-serif;
+  font-size: 16px;
+  font-weight: bold;
+  margin-bottom: 10px;
+  text-transform: uppercase;
+  margin-left:-5px;
+}
+
+
+.greenrow {
+	background-color:#e8e8e8;
+	padding-top:6px;
+	padding-bottom:0px;
+	padding-left:5px;
+	padding-right:5px;
+	margin-left:-5px;
+	  color: #555555;
+  font-size: 12px;
+  text-transform: uppercase;
+  font-weight:bold;
+  width:216px;
+  min-height:17px;
+  
+}
+
+
+#microdeal {
+	padding-left:0px;
+	font-size:12px;
+	font-weight:bold;	
+	width:216px;
+	padding-top:8px;
+	padding-bottom:8px;
+	min-height:0px;
+	margin-left:-5px;
+}
+
+#microdeal a {
+	font-size:12px;
+	color:#3D82C5;
+}
+
+#microdeal a:hover {
+color:#4da7ff;
+}
+
+.hiddendeal {
+	color:#919191;
+	padding-top:8px;
+	padding-bottom:8px;
+	font-size:13px;
+	font-weight:bold;
+}
+
+#intheweekahead {
+	margin-top:20px;
+	border:none;
+	width:216px;
+	padding:0px;
+	box-shadow:none;
+	margin-left:10px;
+}
+
+#todayscoupons h1 {
+color: #207224;
+font-family: "Arial Black",Gadget,sans-serif;
+font-size: 20px;
+font-weight: bold;
+margin-bottom: 10px;
+margin-top: -5px;
+text-transform: uppercase;
+text-align:center;
+}
+
+#littledealtitle {
+	line-height:1;
+	margin-bottom:-1px;
+	margin-left:0px;
+	line-height:1;
+}
+
+#relatedevents {
+color: #375D87;
+font-size: 16px;
+font-weight: bold;
+text-transform: uppercase;
+margin-left: -5px;
+margin-top:50px;
+margin-bottom:-12px;
+}
+
+#intheweekahead h3 {
+	text-align:right;
+	color: #375D87;
+	font-size:12px;
+	
+	text-transform:uppercase;
+	margin-top:25px;
+	
+	
+}
+
+#intheweekahead h4 {
+	
+	color: #375D87;
+	
+	text-transform:uppercase;
+	
+	
+}
+
+.eventdetailslocation {
+	color:#375d87;
+	text-transform:uppercase;
+	font-size:15px;
+	font-weight:bold;
+}
+
+#eventdetail h5 {
+	font-size:14px;
+	font-weight:bold;
+	color:#8c9fb9;
+	font-weight:bold;
+	text-transform:uppercase;
+	margin-top:-3px;
+	
+}
+
+#microdeal h4 {
+	font-size:11px;
+	font-weight:bold;
+	color:#375D87;
+	text-transform:uppercase;
+	margin-top:2px;
+}
+
+#arroweventdetails {
+	margin-top:1px;
+}
+
+#eventsearcheckbox {
+	margin-right:55px;
+	margin-top:-5px;
+}
+
+#microdealimgmargin {
+	margin-top:1px;
+}
+
+.submitsmaller {
+font-size:12px;
+color:black;
+font-family:Arial, Helvetica, sans-serif;
+font-weight:normal;
+text-transform:none;
+}
+
+.submitform {
+	background-color:#ededed;
+	padding:16px 20px;
+	margin-bottom:20px;
+}
+
+.submittitle {
+margin-left: 0px;
+margin-bottom: 10px;
+font-size: 18px;
+font-weight:bold;
+color: #3D82C5;
+}
+
+.eventsubmit {
+	width:338px;
+	margin-bottom:10px;
+	font-size:14px;
+	padding:5px;
+}
+
+.submitlocation {
+	margin-left:10px;
+	font-size:12px;
+}
+
+.eventlocationsubmit {
+	width:300px;
+	margin-bottom:5px;
+	font-size:12px;
+	padding:3px;
+}
+
+.stateselect {
+	width:20px;
+}
+
+.eventtimesubmit {
+	width:107px;
+	margin-right:8px;
+	margin-bottom:10px;
+	
+}
+
+.submituploadbtn {
+	font-size:15px;
+}
+
+.eventguidelines h1 {
+	font-size: 20px;
+color: #375D87;
+text-transform: uppercase;
+margin-top: -8px;
+margin-bottom: 10px;
+font-family: "Arial Black",Gadget,sans-serif;
+
+}
+
+.eventguidelines  {
+	font-size: 13px;
+	width:240px;
+	margin-top:10px;
+	color:#333333;
+
+}
+
+.eventguidelines a {
+	color:#3D82C5;
+}
+
+.eventguidelines p {
+	margin-bottom:10px;
+
+}
+
+.eventguidelinesbold  {
+	font-weight:bold;
+
+}
+
+#submitformwrapper {
+color:#333333;
+font-size:15px;
+
+}
+
+#submitformwrapper a {
+	color:#3D82C5;
+}
+
+#submitformwrapper a:hover {
+	color:#4da7ff;
+}
+
+
+#myevents a {
+	color:#3D82C5;
+}
+
+
+
+#myevents a:hover {
+	color:#4DA7FF;
+}
+
+.basiceventstatus {
+	color:#8C9FB9;
+}
+
+.copy {
+	margin-top:0px;
+	font-size:12px;
+}
+
+
+#myevents {
+	min-height:0px;
+}
+
+.featuredeventpayment {
+	font-size:11px;
+	font-weight:normal;
+	text-transform:none;
+}
+
+.pipe {
+	color: #555555;
+}

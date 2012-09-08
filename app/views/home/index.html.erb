@@ -1,0 +1,380 @@
+<div class="content">
+  <!--begin right column -->
+  <div class="rightcolumn">
+    <div class="boxtitle">
+      <h1>new in theatres</h1>
+    </div>
+    
+    <div class="boxmiddle" id="newintheatres">
+      <% @movies.reverse.each do |movie, release_date| %>
+      <div class="movie">
+        <%= image_tag( "photos/" + movie.photos.first, :size => "40x40" , :class => "movieimg" ) %>
+        <h2><%= link_to( movie.title, movie ) %></h2>
+        <% if show_release_type?( movie, release_date ) %>
+        <h4 id="moviered">sneak preview</h4>
+        <% end %>
+        <h4><%= format_rating( movie ) %> <span>|</span> <%= format_running_time( movie ) %></h4>
+        <h3>
+          <%= movie.theaters.map{|t| format_theater_name(t)}.join('<br />').html_safe %>
+        </h3>
+      </div>
+      <div style="clear:both"></div> 
+      <% end %>
+    </div>
+    
+    <div class="boxbottom">
+      <div class="more">
+        <%= link_to :movies do %>
+        <div class="bluerightarrow" id="arrowrightcolumn">
+          <div class="arrowtxt" id="arrowtxtrightcolumn">view all movies</div>
+        </div>
+        <% end %>
+      </div>
+    </div>
+    <div style="clear:both"></div>
+    <div class="boxtitle" style="margin-top:20px">
+      <h1>dining</h1>
+    </div>
+    <div class="boxmiddle" id="dining">
+      <div class="dine">
+        <h2><a href="#">Orchard Green</a></h2>
+        <h3>
+          1234 E. Main St.<br />
+          Iowa City, IA 52245
+        </h3>
+        <h4>
+          888-385-1244<br />
+          <div>
+            <a class="menu" href="#">
+              <div class="bluerighttriangle" id="arrowrightcolumn">
+                <div id="arrowtxtrightcolumn">view menu </div>
+              </div>
+            </a>
+          </div>
+        </h4>
+      </div>
+      <div class="dine">
+        <h2><a href="#">Orchard Green</a></h2>
+        <h3>
+          1234 E. Main St.<br />
+          Iowa City, IA 52245
+        </h3>
+        <h4>
+          888-385-1244<br />
+          <div>
+            <a class="menu" href="#">
+              <div class="bluerighttriangle" id="arrowrightcolumn">
+                <div id="arrowtxtrightcolumn">view menu </div>
+              </div>
+            </a>
+          </div>
+        </h4>
+      </div>  
+      <div class="dine" id="lastdine">
+        <h2><a href="#">Orchard Green</a></h2>
+        <h3>
+          1234 E. Main St.<br />
+          Iowa City, IA 52245
+        </h3>
+        <h4>
+          888-385-1244<br />
+          <div>
+            <a class="menu" href="#">
+              <div class="bluerighttriangle" id="arrowrightcolumn">
+                <div id="arrowtxtrightcolumn">view menu </div>
+              </div>
+            </a>
+          </div>
+        </h4>
+      </div>
+    </div>
+    <div class="boxbottom">
+      <div class="more">
+        <a href="#">
+          <div class="bluerightarrow" id="arrowrightcolumn">
+            <div class="arrowtxt" id="arrowtxtrightcolumn">view all restaurants</div>
+          </div>
+        </a>
+      </div>
+    </div>
+    <div style="clear:both"></div>
+    <div class="boxtitle" style="margin-top:20px">
+      <h1>local resources</h1>
+    </div>
+    <div class="boxmiddle" id="localresources">
+      <div class="resource">
+        <h2><a href="#">Iowa City Transit</a><span class="resourcedetail"> - Bus schedules</span></h2>
+      </div>
+      <div class="resource">
+        <h2><a href="#">Iowa City Leaf Pickup Schedule</a><span class="resourcedetail"> - Get your leaves raked in time for pickup!</span></h2>
+      </div>
+      <div class="resource" id="lastresource">
+        <h2><a href="#">Iowa City Leaf Pickup Schedule</a><span class="resourcedetail"> - Get your leaves raked in time for pickup!</span></h2>
+      </div>
+    </div>
+    <div class="boxbottom">
+      <div class="more">
+        <a href="#">
+          <div class="bluerightarrow" id="arrowrightcolumn">
+            <div class="arrowtxt" id="arrowtxtrightcolumn">more resources</div>
+          </div>
+        </a>
+      </div>
+    </div>
+  </div>
+  
+  <!--begin middle column -->
+  <div class="middlecolumn">
+    <div class="events" id="whatshappening">
+      <h1>what's happening:</h1>
+      <div class="blueeventsbox">
+        <h3>today - monday, sept 26, 2011</h3>
+        <div class="whiteeventsbox" id="whitewhatshappeningbox">
+          <div class="event"> 
+            <a href="#">
+              <%= image_tag "80x75.gif", :class=>"floatleftimg" %>
+            </a>
+            <div class="righttxt">
+              <div class="title">
+                <a href="#">lorem ipsum dolor sit and a little longer</a>
+                <a href="#">                  
+                  <%= image_tag "plus.png", :title => "add to calendar", :class => "addtocalendar", :stylesheet => "width:21px;height:20px" %>
+                </a>
+              </div>
+              <h4>8:00am - <span class="whatshappeninglocation">city of iowa city</span></h4>
+              <h5>arts &amp; entertainment | nightlife</h5>
+              <p>A play about giraffes, big business, and overdue come-uppances?  A joy not to be missed!</p>
+            </div>
+          </div>
+          <div class="event" id="short"> 
+            <div class="flexibleimgholder">
+              <div class="title" id="shorttitle">
+                <a href="#">lorem ipsum dolor sit</a>
+                <a href="#">                  
+                  <%= image_tag "plus.png", :title => "add to calendar", :class => "addtocalendar", :stylesheet => "width:21px;height:20px" %>
+                </a>
+              </div>
+              <h4>8:00am - <span class="whatshappeninglocation">city of iowa city</span></h4>
+              <h5>arts &amp; entertainment | nightlife</h5>
+            </div>
+          </div>
+          <div class="event" id="last"> 
+            <a href="#">              
+              <%= image_tag "80x75.gif", :class=>"floatleftimg" %>
+            </a>
+            <div class="righttxt">
+              <div class="title">
+                <a href="#">lorem ipsum dolor sit</a>
+                <a href="#">                  
+                  <%= image_tag "plus.png", :title => "add to calendar", :class => "addtocalendar", :stylesheet => "width:21px;height:20px" %>
+                </a>
+              </div>
+              <h4>8:00am - <span class="whatshappeninglocation">city of iowa city</span></h4>
+              <h5>arts &amp; entertainment | nightlife</h5>
+              <p>A play about giraffes, big business, and overdue come-uppances?  A joy not to be missed!</p>
+            </div>
+          </div>
+        </div>
+        <div id="andmore">
+          <a href="#">
+            <div class="bluerightarrow">
+              <div class="arrowtxt">...and more</div>
+            </div>
+          </a>
+        </div>
+      </div>
+    </div>
+    <div class="events" id="dealsondeck">
+      <h1>deals on deck:</h1>
+      <div class="greenbox" id="greendealsondeckbox">
+        <h3>today - monday, sept 26, 2011</h3>
+        <div class="whiteeventsbox">
+          <div id="dealsondeckscroller">
+            <div class="deal">
+              <a href="#">                    
+                <%= image_tag "80x75.gif", :class=>"floatleftimg" %>
+              </a>
+              <div class="righttxt">
+                <div class="title">
+                  <a href="#">lorem ipsum dolor sit</a>
+                  <a href="#">                        
+                    <%= image_tag "plus.png", :title => "add to calendar", :class => "addtocalendar", :stylesheet => "width:21px;height:20px" %>
+                  </a>
+                </div>
+                <h4><span class="now">NOW</span> - <span class="dealsondecklocation">ron's repair</span></h4>
+                <h5>automotive</h5>
+                <p>You can go to the dealership and get taken for a ride, or you can drive here and get serviced right.</p>
+              </div>
+            </div>
+            <div class="deal"> 
+              <a href="#">
+                <%= image_tag "80x75.gif", :class=>"floatleftimg" %>
+              </a>
+              <div class="righttxt">
+                <div class="title">
+                  <a href="#">lorem ipsum dolor sit</a>
+                  <a href="#">                          
+                    <%= image_tag "plus.png", :title => "add to calendar", :class => "addtocalendar", :stylesheet => "width:21px;height:20px" %>
+                  </a>
+                </div>
+                <h4>8:00am - <span class="dealsondecklocation">ron's repair</span></h4>
+                <h5>automotive</h5>
+                <p>You can go to the dealership and get taken for a ride, or you can drive here and get serviced right.</p>
+              </div>
+            </div>                
+          </div>
+          <div style="min-height:45px" id="last" class="deal"> 
+            <a href="#">                  
+              <%= image_tag "dealsbiggreenarrow.jpg", :class => "floatleftimg", :stylesheet => "width:80px;height:40px" %>
+            </a>
+            <div class="title"><a href="#">14 more sales and</a></div>
+            <div class="title" id="couponsavailable"><a href="#">10 <span id="coupons">COUPONS</span> available till midnight</a></div>
+          </div>
+        </div>
+        <div id="gotodeals">
+          <a href="#">
+            <div class="greenrightarrow">
+              <div class="arrowtxt" id="arrowtxtgreen">go to deals</div>
+            </div>
+          </a>
+        </div>
+      </div>
+    </div>
+    <div id="policeblotter">
+      <h2>iowa city police blotter</h2> 
+
+      <% @recent_arrests.each do |arrest| %>
+      <div class="blot">
+        <h3><%= arrest.name %></h3>
+        <p><%= format_info( arrest ) %></p>
+        <h4><%= format_charges( arrest.charges ) %></h4>
+      </div>
+      <% end %>
+
+      <div class="more">
+        <a href="#">
+          <div class="bluerightarrow" id="arrowrightcolumn">
+            <div class="arrowtxt" id="arrowtxtrightcolumn">more incidents</div>
+          </div>
+        </a>
+      </div>
+    </div>
+  </div>
+  <!--end middle column -->
+  
+  <!--begin left column -->    
+  <div class="leftcolumn">     
+    <%= image_tag "268x164.gif", :id=>"homephoto" %>
+    <div id="homephototxt">
+      Photo by Alan Light | <a href="#">Submit a photo</a>
+    </div>
+    <div id="newsroundup" class="boxtitle">
+      <h1>local news roundup</h1>
+	  </div>
+      <div id="article" class="boxmiddle">
+        <%= image_tag "80x75.gif", :class=>"newsimg" %>
+        <h3>
+          <a href="#">
+            Monson mulls Mystery
+            <%= image_tag "offsitelinkicon.png", :class => "offsitelinkicon", :stylesheet => "width:10px;height:10px" %>            
+          </a>
+        </h3>
+        <h4>Iowa City Press-Citizen</h4>
+        <h5>Mon, Oct 10 at 7:43am</h5>
+        <p>The fate of a historic building damaged by fire rests on whether the structure can be saved.</p>
+      </div>
+     <div id="article" class="boxmiddle">        
+        <%= image_tag "80x75.gif", :class=>"newsimg" %>
+        <h3>
+          <a href="#">
+            Monson mulls fate of Van Patten House
+            <%= image_tag "offsitelinkicon.png", :class => "offsitelinkicon", :stylesheet => "width:10px;height:10px" %>                  
+          </a>
+        </h3>
+        <h4>Iowa City Press-Citizen</h4>
+        <h5>Mon, Oct 10 at 7:43am</h5>
+        <p>The fate of a historic building damaged by fire rests on whether the structure can be saved.</p>
+      </div>
+      <div id="article" class="boxmiddle">
+        <h3>
+          <a href="#">
+            Monson mulls fate of Van Patten <br />House
+            <%= image_tag "offsitelinkicon.png", :class => "offsitelinkicon", :stylesheet => "width:10px;height:10px" %>     
+          </a>
+        </h3>
+        <h4>Iowa City Press-Citizen</h4>
+        <h5>Mon, Oct 10 at 7:43am</h5>
+      </div>
+      <div id="article" class="boxmiddle">       
+        <%= image_tag "80x75.gif", :class=>"newsimg" %>
+        <h3>
+          <a href="#">
+            Monson mulls fate of Van Patten House
+            <%= image_tag "offsitelinkicon.png", :class => "offsitelinkicon", :stylesheet => "width:10px;height:10px" %>                  
+          </a>
+        </h3>
+        <h4>Iowa City Press-Citizen</h4>
+        <h5>Mon, Oct 10 at 7:43am</h5>
+        <p>The fate of a historic building damaged by fire rests on whether the structure can be saved.</p>
+      </div>      
+     <div id="article" class="boxmiddle">        
+        <%= image_tag "80x75.gif", :class=>"newsimg" %>
+        <h3>
+          <a href="#">
+            Monson mulls fate of Van Patten House
+            <%= image_tag "offsitelinkicon.png", :class => "offsitelinkicon", :stylesheet => "width:10px;height:10px" %>                  
+          </a>
+        </h3>
+        <h4>Iowa City Press-Citizen</h4>
+        <h5>Mon, Oct 10 at 7:43am</h5>
+        <p>The fate of a historic building damaged by fire rests on whether the structure can be saved.</p>
+      </div>      
+      <div id="article" class="boxmiddle">     
+        <%= image_tag "80x75.gif", :class=>"newsimg" %>
+        <h3>
+          <a href="#">
+            Monson mulls fate of Van Patten House
+            <%= image_tag "offsitelinkicon.png", :class => "offsitelinkicon", :stylesheet => "width:10px;height:10px" %>                  
+          </a>
+        </h3>
+        <h4>Iowa City Press-Citizen</h4>
+        <h5>Mon, Oct 10 at 7:43am</h5>
+        <p>The fate of a historic building damaged by fire rests on whether the structure can be saved.</p>
+      </div>
+      <div id="article" class="boxmiddle">       
+        <%= image_tag "80x75.gif", :class=>"newsimg" %>
+        <h3>
+          <a href="#">
+            Monson mulls fate of Van Patten House
+            <%= image_tag "offsitelinkicon.png", :class => "offsitelinkicon", :stylesheet => "width:10px;height:10px" %>                  
+          </a>
+        </h3>
+        <h4>Iowa City Press-Citizen</h4>
+        <h5>Mon, Oct 10 at 7:43am</h5>
+        <p>The fate of a historic building damaged by fire rests on whether the structure can be saved.</p>
+      </div>
+     <div id="article" class="boxmiddle">      
+        <%= image_tag "80x75.gif", :class=>"newsimg" %>
+        <h3>
+          <a href="#">
+            Monson mulls fate of Van Patten House
+            <%= image_tag "offsitelinkicon.png", :class => "offsitelinkicon", :stylesheet => "width:10px;height:10px" %>                  
+          </a>
+        </h3>
+        <h4>Iowa City Press-Citizen</h4>
+        <h5>Mon, Oct 10 at 7:43am</h5>
+        <p>The fate of a historic building damaged by fire rests on whether the structure can be saved.</p>
+      </div>
+	  <div id="newsroundupbottom" class="boxbottom">
+      <div class="more">
+        <a href="#">
+          <div class="bluerightarrow" id="arrowrightcolumn">
+            <div class="arrowtxt" id="arrowtxtrightcolumn">more headlines</div>
+          </div>
+        </a>
+		</div>
+      </div>
+    </div>
+    <!--end left column -->
+  </div>
+</div>

@@ -1,0 +1,754 @@
+---
+http_interactions:
+- request:
+    method: get
+    uri: http://www.iowa-city.org/icgov/apps/police/blotter.asp?date=08312013
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      Accept:
+      - ! '*/*'
+      User-Agent:
+      - Ruby
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Date:
+      - Fri, 31 Aug 2012 20:04:06 GMT
+      Server:
+      - Microsoft-IIS/6.0
+      X-Powered-By:
+      - ASP.NET
+      Content-Length:
+      - '52814'
+      Content-Type:
+      - text/html
+      Set-Cookie:
+      - ASPSESSIONIDAACTDTQR=NHPJLKODGLDCGEGEFPGCHBKH; path=/
+      Cache-Control:
+      - private
+    body:
+      encoding: US-ASCII
+      string: ! "\r\n\r\n<!DOCTYPE html>\r\n\r\n<html xmlns=\"http://www.w3.org/1999/xhtml\">\r\n<head
+        id=\"Head1\">\r\n    <title>City of Iowa City | Arrest Blotter</title>\r\n
+        \   <meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\"
+        />\r\n    <link href=\"/_includes/common.css\" rel=\"stylesheet\" rev=\"stylesheet\"
+        type=\"text/css\" />\r\n    <link href=\"/_includes/Styles.css\" rel=\"Stylesheet\"
+        rev=\"Stylesheet\" type=\"text/css\" />\r\n    <link href=\"/_includes/Legacy.css\"
+        rel=\"Stylesheet\" rev=\"Stylesheet\" type=\"text/css\" />\r\n    <script
+        type=\"text/javascript\" src=\"/_includes/html5_ie.js\"></script>\r\n    <script
+        type=\"text/javascript\" src=\"/_includes/common.js\"></script>\r\n    <script
+        type=\"text/javascript\" src=\"/icgov/includes/framework.js\"></script>\r\n\t<script
+        type=\"text/javascript\" src=\"http://www.icgov.org/default/commonFunctions.js\"></script>\r\n<script
+        type=\"text/javascript\">\r\nfunction jumpShip(id) {\r\n\twindow.location.href
+        = document.getElementById(id).value;\r\n\t}\r\n</script>\r\n</head>\r\n<body>\r\n
+        \   <div id=\"page\">\r\n\t    <header>\r\n            <nav>\r\n        \t
+        \   <script src=\"http://www.icgov.org/default/dropCode.js\" type=\"text/javascript\"></script>\r\n
+        \               <script src=\"http://www.icgov.org/site/dropVarsAlt.js\" type=\"text/javascript\"></script>\r\n
+        \               <a href=\"http://www.icgov.org\"><img src=\"/_includes/images/badge.png\"
+        alt=\"City of Iowa City, Iowa\" width=\"443\" height=\"101\" id=\"badge\"
+        /></a>\r\n                <div id=\"Header1_DropDownMenu1_Menu1_div\" style=\"width:519px;
+        float:left;\"></div><input id=\"Header1_DropDownMenu1_Menu1_ContextData\"
+        name=\"Header1_DropDownMenu1_Menu1_ContextData\" type=\"hidden\" /><script
+        type=\"text/javascript\">\r\n                //<![CDATA[\r\n                    if
+        (!(window.cart_menu_documentmousedownhandled)) {\r\n                        AddEventHandler(document,
+        'mousedown', new Function('event', 'ComponentArt_Menu_DocumentMouseDown(event)'));\r\n
+        \                       window.cart_menu_documentmousedownhandled = true;\r\n
+        \                   }\r\n                //]]>\r\n                </script>\r\n
+        \               <script src=\"http://www.icgov.org/default/endCode.js\" type=\"text/javascript\"></script>\r\n
+        \               <noscript>\r\n                <div><a href=\"http://www.icgov.org/default/portals/azIndex.asp\"><img
+        src=\"http://www.icgov.org/_includes/images/a-z.png\" style=\"float:left;\"
+        alt=\"A-Z Index\" /></a><a href=\"http://www.icgov.org/default/portals/residents.asp\"><img
+        src=\"http://www.icgov.org/_includes/images/res.png\" style=\"float:left;\"
+        alt=\"Residents Portal\" /></a><a href=\"http://www.icgov.org/default/portals/business.asp\"><img
+        src=\"http://www.icgov.org/_includes/images/biz.png\" style=\"float:left;\"
+        alt=\"Business Portal\" /></a><a href=\"http://www.icgov.org/default/portals/government.asp\"><img
+        src=\"http://www.icgov.org/_includes/images/gov.png\" style=\"float:left;\"
+        alt=\"Government Portal\" /></a><a href=\"http://www.icgov.org/default/portals/visitors.asp\"><img
+        src=\"http://www.icgov.org/_includes/images/vis.png\" style=\"float:left;\"
+        alt=\"Visitors Portal\" /></a></div>\r\n                </noscript>\r\n            </nav>\r\n
+        \       </header>\r\n\r\n        <article class=\"clearfix\">\r\n            <div
+        id=\"content\">\r\n            <div class=\"pad\">\r\n<h1 style=\"width: 100%;\">Arrest
+        Blotter</h1>\r\n\r\n<img src=\"http://www.iowa-city.org/_db/apppost.asp?a=5&amp;i1=2013-08-31&amp;i2=-365&amp;i3=67.189.88.64\"
+        width=\"1\" height=\"1\" alt=\"\" />\r\n\r\n<div class=\"alignCenter\">\r\n\t<div
+        style=\"width: 530px; margin: 5px auto; background-color: #eee; border: 1px
+        solid #603;\">\r\n\t\t<div class=\"padding\">\r\n\t\t<p class=\"small\">You
+        may search <strong>one</strong> of the following criteria: name, date, or
+        charge.</p>\r\n\t\t<form action=\"blotter.asp\" method=\"post\">\r\n        <p
+        class=\"small\">Search by Date \r\n\t\t<select id=\"datepick\" class=\"small\"
+        onchange=\"jumpShip('datepick')\">\r\n\t\t\r\n\t\t\t<option value=\"?date=08312012\">8/31/2012</option>\r\n\t\t\r\n\t\t\t<option
+        value=\"?date=08302012\">8/30/2012</option>\r\n\t\t\r\n\t\t\t<option value=\"?date=08292012\">8/29/2012</option>\r\n\t\t\r\n\t\t\t<option
+        value=\"?date=08282012\">8/28/2012</option>\r\n\t\t\r\n\t\t\t<option value=\"?date=08272012\">8/27/2012</option>\r\n\t\t\r\n\t\t\t<option
+        value=\"?date=08262012\">8/26/2012</option>\r\n\t\t\r\n\t\t\t<option value=\"?date=08252012\">8/25/2012</option>\r\n\t\t\r\n\t\t\t<option
+        value=\"?date=08242012\">8/24/2012</option>\r\n\t\t\r\n\t\t\t<option value=\"?date=08232012\">8/23/2012</option>\r\n\t\t\r\n\t\t\t<option
+        value=\"?date=08222012\">8/22/2012</option>\r\n\t\t\r\n\t\t\t<option value=\"?date=08212012\">8/21/2012</option>\r\n\t\t\r\n\t\t\t<option
+        value=\"?date=08202012\">8/20/2012</option>\r\n\t\t\r\n\t\t\t<option value=\"?date=08192012\">8/19/2012</option>\r\n\t\t\r\n\t\t\t<option
+        value=\"?date=08182012\">8/18/2012</option>\r\n\t\t\r\n\t\t\t<option value=\"?date=08172012\">8/17/2012</option>\r\n\t\t\r\n\t\t\t<option
+        value=\"?date=08162012\">8/16/2012</option>\r\n\t\t\r\n\t\t\t<option value=\"?date=08152012\">8/15/2012</option>\r\n\t\t\r\n\t\t\t<option
+        value=\"?date=08142012\">8/14/2012</option>\r\n\t\t\r\n\t\t\t<option value=\"?date=08132012\">8/13/2012</option>\r\n\t\t\r\n\t\t\t<option
+        value=\"?date=08122012\">8/12/2012</option>\r\n\t\t\r\n\t\t\t<option value=\"?date=08112012\">8/11/2012</option>\r\n\t\t\r\n\t\t\t<option
+        value=\"?date=08102012\">8/10/2012</option>\r\n\t\t\r\n\t\t\t<option value=\"?date=08092012\">8/9/2012</option>\r\n\t\t\r\n\t\t\t<option
+        value=\"?date=08082012\">8/8/2012</option>\r\n\t\t\r\n\t\t\t<option value=\"?date=08072012\">8/7/2012</option>\r\n\t\t\r\n\t\t\t<option
+        value=\"?date=08062012\">8/6/2012</option>\r\n\t\t\r\n\t\t\t<option value=\"?date=08052012\">8/5/2012</option>\r\n\t\t\r\n\t\t\t<option
+        value=\"?date=08042012\">8/4/2012</option>\r\n\t\t\r\n\t\t\t<option value=\"?date=08032012\">8/3/2012</option>\r\n\t\t\r\n\t\t\t<option
+        value=\"?date=08022012\">8/2/2012</option>\r\n\t\t\r\n\t\t\t<option value=\"?date=08012012\">8/1/2012</option>\r\n\t\t\r\n\t\t</select>
+        &nbsp; \r\n        Search by Last Name <input type=\"text\" name=\"lname\"
+        class=\"small\" size=\"20\" /> <input type=\"submit\" value=\"search\" /></p>\r\n
+        \       </form>\r\n\t\t<p class=\"small\">Search by charge \r\n\t\t<select
+        id=\"chargepick\" class=\"small\" onchange=\"jumpShip('chargepick')\">\r\n\t\t\r\n
+        \  \t\t\t<option value=\"?charge=\">\r\n   \t\t\t</option>\r\n\t\t\t\r\n  \t\t\t
+        <option value=\"?charge=91108\">\r\n  \t\t\t .DUS (23)</option>\r\n\t\t\r\n
+        \ \t\t\t <option value=\"?charge=94000\">\r\n  \t\t\t .OWI (31)</option>\r\n\t\t\r\n
+        \ \t\t\t <option value=\"?charge=97600\">\r\n  \t\t\t .PAULA (51)</option>\r\n\t\t\r\n
+        \ \t\t\t <option value=\"?charge=95000\">\r\n  \t\t\t .Public Intox (83)</option>\r\n\t\t\r\n
+        \ \t\t\t <option value=\"?charge=91175\">\r\n  \t\t\t 911- Improper use 911,
+        Joint criminal conduct</option>\r\n\t\t\r\n  \t\t\t <option value=\"?charge=91178\">\r\n
+        \ \t\t\t Abandonment of dogs, cats</option>\r\n\t\t\r\n  \t\t\t <option value=\"?charge=13227\">\r\n
+        \ \t\t\t Abuse - Dependent Adult</option>\r\n\t\t\r\n  \t\t\t <option value=\"?charge=93050\">\r\n
+        \ \t\t\t Accessory After The Fact</option>\r\n\t\t\r\n  \t\t\t <option value=\"?charge=92000\">\r\n
+        \ \t\t\t Accosting - Accosting and Begging</option>\r\n\t\t\r\n  \t\t\t <option
+        value=\"?charge=91181\">\r\n  \t\t\t Accumulation of animal  waste</option>\r\n\t\t\r\n
+        \ \t\t\t <option value=\"?charge=93521\">\r\n  \t\t\t Activate fire alarm
+        in school when no fire</option>\r\n\t\t\r\n  \t\t\t <option value=\"?charge=91163\">\r\n
+        \ \t\t\t Allow dog to attack and bite</option>\r\n\t\t\r\n  \t\t\t <option
+        value=\"?charge=91106\">\r\n  \t\t\t Allow person to drive while revoked (1)</option>\r\n\t\t\r\n
+        \ \t\t\t <option value=\"?charge=97850\">\r\n  \t\t\t Allow underage patrons
+        to be served alcohol</option>\r\n\t\t\r\n  \t\t\t <option value=\"?charge=91159\">\r\n
+        \ \t\t\t Animal Abuse</option>\r\n\t\t\r\n  \t\t\t <option value=\"?charge=91172\">\r\n
+        \ \t\t\t Animal in plaza</option>\r\n\t\t\r\n  \t\t\t <option value=\"?charge=20325\">\r\n
+        \ \t\t\t Arson - Threaten/Attempt</option>\r\n\t\t\r\n  \t\t\t <option value=\"?charge=20100\">\r\n
+        \ \t\t\t Arson 1st Degree</option>\r\n\t\t\r\n  \t\t\t <option value=\"?charge=20200\">\r\n
+        \ \t\t\t Arson 2nd Degree</option>\r\n\t\t\r\n  \t\t\t <option value=\"?charge=20300\">\r\n
+        \ \t\t\t Arson 3rd Degree</option>\r\n\t\t\r\n  \t\t\t <option value=\"?charge=13211\">\r\n
+        \ \t\t\t Assault- attempt to disarm officer</option>\r\n\t\t\r\n  \t\t\t <option
+        value=\"?charge=13375\">\r\n  \t\t\t Assault Causing Injury (9)</option>\r\n\t\t\r\n
+        \ \t\t\t <option value=\"?charge=13380\">\r\n  \t\t\t Assault Causing Injury/aiding
+        &amp; Abetting</option>\r\n\t\t\r\n  \t\t\t <option value=\"?charge=13381\">\r\n
+        \ \t\t\t Assault Causing Injury/joint Crim Conduc</option>\r\n\t\t\r\n  \t\t\t
+        <option value=\"?charge=13376\">\r\n  \t\t\t Assault Causing Serious Injury</option>\r\n\t\t\r\n
+        \ \t\t\t <option value=\"?charge=13405\">\r\n  \t\t\t Assault- Domestic Abuse
+        (3)</option>\r\n\t\t\r\n  \t\t\t <option value=\"?charge=13405b\">\r\n  \t\t\t
+        Assault- Domestic Assault- 2nd Offense (1)</option>\r\n\t\t\r\n  \t\t\t <option
+        value=\"?charge=13405c\">\r\n  \t\t\t Assault- Domestic Assault- 3rd and Subsequent</option>\r\n\t\t\r\n
+        \ \t\t\t <option value=\"?charge=13405a\">\r\n  \t\t\t Assault- Domestic Assault
+        w/injury-serious or aggravated (4)</option>\r\n\t\t\r\n  \t\t\t <option value=\"?charge=13425\">\r\n
+        \ \t\t\t Assault- Domestic/Aiding &amp; Abetting</option>\r\n\t\t\r\n  \t\t\t
+        <option value=\"?charge=13210\">\r\n  \t\t\t Assault On Police/fire/emt Personnel
+        (3)</option>\r\n\t\t\r\n  \t\t\t <option value=\"?charge=13212\">\r\n  \t\t\t
+        Assault Peace Officer W/intent To Injure</option>\r\n\t\t\r\n  \t\t\t <option
+        value=\"?charge=13500\">\r\n  \t\t\t Assault -simple (6)</option>\r\n\t\t\r\n
+        \ \t\t\t <option value=\"?charge=13505\">\r\n  \t\t\t Assault -Simple/Joint
+        Criminal Conduct</option>\r\n\t\t\r\n  \t\t\t <option value=\"?charge=13150\">\r\n
+        \ \t\t\t Assault W/dangerous Weapon,joint Crimina</option>\r\n\t\t\r\n  \t\t\t
+        <option value=\"?charge=13125\">\r\n  \t\t\t Assault W/dangerous Weapon/aiding
+        &amp; Abet</option>\r\n\t\t\r\n  \t\t\t <option value=\"?charge=13215\">\r\n
+        \ \t\t\t Assault While Participating In A Felony</option>\r\n\t\t\r\n  \t\t\t
+        <option value=\"?charge=13100\">\r\n  \t\t\t Assault With A Dangerous Weapon
+        (1)</option>\r\n\t\t\r\n  \t\t\t <option value=\"?charge=11400\">\r\n  \t\t\t
+        Assault With Intent To Commit Sexual Abu (1)</option>\r\n\t\t\r\n  \t\t\t
+        <option value=\"?charge=11410\">\r\n  \t\t\t Assault With Intent To Commit
+        Sexual Abu</option>\r\n\t\t\r\n  \t\t\t <option value=\"?charge=13200\">\r\n
+        \ \t\t\t Assault With Intent To Inflict Serious I</option>\r\n\t\t\r\n  \t\t\t
+        <option value=\"?charge=13400\">\r\n  \t\t\t Assault Without Intent To Inflict
+        Ser In</option>\r\n\t\t\r\n  \t\t\t <option value=\"?charge=13450\">\r\n  \t\t\t
+        Assault- without intent/Aiding &amp;Abetting</option>\r\n\t\t\r\n  \t\t\t
+        <option value=\"?charge=13540\">\r\n  \t\t\t Assault-Violation of Civil Rights</option>\r\n\t\t\r\n
+        \ \t\t\t <option value=\"?charge=93006\">\r\n  \t\t\t Assembly - Failure to
+        disperse</option>\r\n\t\t\r\n  \t\t\t <option value=\"?charge=93005\">\r\n
+        \ \t\t\t Assembly - Unlawful assembly</option>\r\n\t\t\r\n  \t\t\t <option
+        value=\"?charge=91180\">\r\n  \t\t\t Bigamy</option>\r\n\t\t\r\n  \t\t\t <option
+        value=\"?charge=93530\">\r\n  \t\t\t Block visibility fire code violation</option>\r\n\t\t\r\n
+        \ \t\t\t <option value=\"?charge=93525\">\r\n  \t\t\t Block/latch firecode
+        violation</option>\r\n\t\t\r\n  \t\t\t <option value=\"?charge=93610\">\r\n
+        \ \t\t\t Bows - Carry, discharge compund bow within city limits</option>\r\n\t\t\r\n
+        \ \t\t\t <option value=\"?charge=29800\">\r\n  \t\t\t Break/Tamper with Ramp
+        Gate</option>\r\n\t\t\r\n  \t\t\t <option value=\"?charge=51000\">\r\n  \t\t\t
+        Bribery</option>\r\n\t\t\r\n  \t\t\t <option value=\"?charge=91145\">\r\n
+        \ \t\t\t Burglary - Possession of Burglars tools (1)</option>\r\n\t\t\r\n
+        \ \t\t\t <option value=\"?charge=22100\">\r\n  \t\t\t Burglary 1st Degree
+        (1)</option>\r\n\t\t\r\n  \t\t\t <option value=\"?charge=22125\">\r\n  \t\t\t
+        Burglary 1st Degree-Accessory after the fact</option>\r\n\t\t\r\n  \t\t\t
+        <option value=\"?charge=22150\">\r\n  \t\t\t Burglary 1st Degree-Aiding &amp;
+        Abetting</option>\r\n\t\t\r\n  \t\t\t <option value=\"?charge=22200\">\r\n
+        \ \t\t\t Burglary 2nd Degree (3)</option>\r\n\t\t\r\n  \t\t\t <option value=\"?charge=22225\">\r\n
+        \ \t\t\t Burglary 2nd Degree- Aiding &amp; Abetting</option>\r\n\t\t\r\n  \t\t\t
+        <option value=\"?charge=22221\">\r\n  \t\t\t Burglary 2nd Degree-Attempted,
+        Joint Criminal Conduct</option>\r\n\t\t\r\n  \t\t\t <option value=\"?charge=22250\">\r\n
+        \ \t\t\t Burglary 3rd Degree (3)</option>\r\n\t\t\r\n  \t\t\t <option value=\"?charge=22252\">\r\n
+        \ \t\t\t Burglary 3rd Degree- Aiding &amp; Abetting</option>\r\n\t\t\r\n  \t\t\t
+        <option value=\"?charge=22251\">\r\n  \t\t\t Burglary 3rd Degree/joint Criminal
+        Condu</option>\r\n\t\t\r\n  \t\t\t <option value=\"?charge=22300\">\r\n  \t\t\t
+        Burglary- Attempted (1)</option>\r\n\t\t\r\n  \t\t\t <option value=\"?charge=51128\">\r\n
+        \ \t\t\t Carry loaded weapon- Aiding and Abetting</option>\r\n\t\t\r\n  \t\t\t
+        <option value=\"?charge=52100\">\r\n  \t\t\t Carrying a concealed dangerous
+        weapon</option>\r\n\t\t\r\n  \t\t\t <option value=\"?charge=52170\">\r\n  \t\t\t
+        Carrying weapons on school grounds</option>\r\n\t\t\r\n  \t\t\t <option value=\"?charge=52125\">\r\n
+        \ \t\t\t Carrying weapons/joint criminal conduct</option>\r\n\t\t\r\n  \t\t\t
+        <option value=\"?charge=90200\">\r\n  \t\t\t Cemetary Rules</option>\r\n\t\t\r\n
+        \ \t\t\t <option value=\"?charge=13225\">\r\n  \t\t\t Child Endangerment With
+        Serious Injury</option>\r\n\t\t\r\n  \t\t\t <option value=\"?charge=13224\">\r\n
+        \ \t\t\t Child endangerment/abuse- no injury (1)</option>\r\n\t\t\r\n  \t\t\t
+        <option value=\"?charge=13224a\">\r\n  \t\t\t Child Endangerment/abuse-non
+        Serious Inj</option>\r\n\t\t\r\n  \t\t\t <option value=\"?charge=00119\">\r\n
+        \ \t\t\t City Plaza-Motorized vehicle in</option>\r\n\t\t\r\n  \t\t\t <option
+        value=\"?charge=91151\">\r\n  \t\t\t Communication - Communication with prisoners</option>\r\n\t\t\r\n
+        \ \t\t\t <option value=\"?charge=91150\">\r\n  \t\t\t Communication - Obstruct
+        Emergency Communication (2)</option>\r\n\t\t\r\n  \t\t\t <option value=\"?charge=91158\">\r\n
+        \ \t\t\t Communications- False Use of Emergency Communications</option>\r\n\t\t\r\n
+        \ \t\t\t <option value=\"?charge=24000\">\r\n  \t\t\t Conspiracy To Commit
+        A Felony</option>\r\n\t\t\r\n  \t\t\t <option value=\"?charge=35380\">\r\n
+        \ \t\t\t Conspiracy to deliver schedule I Controlled substance</option>\r\n\t\t\r\n
+        \ \t\t\t <option value=\"?charge=35379\">\r\n  \t\t\t Conspiracy to Deliver
+        Schedule II controlled substance</option>\r\n\t\t\r\n  \t\t\t <option value=\"?charge=35371\">\r\n
+        \ \t\t\t Conspiracy to deliver Simulated Schedule II</option>\r\n\t\t\r\n
+        \ \t\t\t <option value=\"?charge=35372\">\r\n  \t\t\t Conspiracy to Manufacture
+        Schedule II Controlled Substance</option>\r\n\t\t\r\n  \t\t\t <option value=\"?charge=97200\">\r\n
+        \ \t\t\t Consumption - Consume alcohol in public</option>\r\n\t\t\r\n  \t\t\t
+        <option value=\"?charge=96050\">\r\n  \t\t\t Contribute to the delinquency
+        of minor</option>\r\n\t\t\r\n  \t\t\t <option value=\"?charge=35939\">\r\n
+        \ \t\t\t Controlled Substance - Solicit persons to purchase</option>\r\n\t\t\r\n
+        \ \t\t\t <option value=\"?charge=29105\">\r\n  \t\t\t Crim Mischief 1st Deg/joint
+        Crim Conduct</option>\r\n\t\t\r\n  \t\t\t <option value=\"?charge=29550\">\r\n
+        \ \t\t\t Criminal Mis In Violation Of Human Right</option>\r\n\t\t\r\n  \t\t\t
+        <option value=\"?charge=29100\">\r\n  \t\t\t Criminal Mischief 1st Degree</option>\r\n\t\t\r\n
+        \ \t\t\t <option value=\"?charge=29250\">\r\n  \t\t\t Criminal Mischief 2nd
+        Deg Joint Criminal Conduct</option>\r\n\t\t\r\n  \t\t\t <option value=\"?charge=29200\">\r\n
+        \ \t\t\t Criminal Mischief 2nd Degree (4)</option>\r\n\t\t\r\n  \t\t\t <option
+        value=\"?charge=29300\">\r\n  \t\t\t Criminal Mischief 3rd Degree (1)</option>\r\n\t\t\r\n
+        \ \t\t\t <option value=\"?charge=29350\">\r\n  \t\t\t Criminal Mischief 3rd/aiding
+        &amp; Abetting</option>\r\n\t\t\r\n  \t\t\t <option value=\"?charge=29455\">\r\n
+        \ \t\t\t Criminal Mischief 4th Deg/joint Crim Con (1)</option>\r\n\t\t\r\n
+        \ \t\t\t <option value=\"?charge=29400\">\r\n  \t\t\t Criminal Mischief 4th
+        Degree (5)</option>\r\n\t\t\r\n  \t\t\t <option value=\"?charge=29450\">\r\n
+        \ \t\t\t Criminal Mischief 4th/aiding &amp; Abetting</option>\r\n\t\t\r\n
+        \ \t\t\t <option value=\"?charge=29500\">\r\n  \t\t\t Criminal Mischief 5th
+        Degree (1)</option>\r\n\t\t\r\n  \t\t\t <option value=\"?charge=29505\">\r\n
+        \ \t\t\t Criminal Mischief 5th Degree/joint Crim</option>\r\n\t\t\r\n  \t\t\t
+        <option value=\"?charge=29510\">\r\n  \t\t\t Criminal Mischief 5th Degree-Aiding
+        and Abetting</option>\r\n\t\t\r\n  \t\t\t <option value=\"?charge=11700\">\r\n
+        \ \t\t\t Criminal Transmission Of Hiv</option>\r\n\t\t\r\n  \t\t\t <option
+        value=\"?charge=00520\">\r\n  \t\t\t Curfew Violation (4)</option>\r\n\t\t\r\n
+        \ \t\t\t <option value=\"?charge=91169\">\r\n  \t\t\t Custody - Aiding and
+        Abetting Absence from custody</option>\r\n\t\t\r\n  \t\t\t <option value=\"?charge=29700\">\r\n
+        \ \t\t\t Damage Or Deface Property</option>\r\n\t\t\r\n  \t\t\t <option value=\"?charge=35625\">\r\n
+        \ \t\t\t Delivery Controlled Substance -  crack cocaine</option>\r\n\t\t\r\n
+        \ \t\t\t <option value=\"?charge=35702\">\r\n  \t\t\t Delivery Controlled
+        Substance -  schedule I/Aiding and Abetting</option>\r\n\t\t\r\n  \t\t\t <option
+        value=\"?charge=35705\">\r\n  \t\t\t Delivery Controlled Substance -  Schedule
+        I/w/in 1000' of elementary school</option>\r\n\t\t\r\n  \t\t\t <option value=\"?charge=35725\">\r\n
+        \ \t\t\t Delivery Controlled Substance -  Schedule II</option>\r\n\t\t\r\n
+        \ \t\t\t <option value=\"?charge=35800\">\r\n  \t\t\t Delivery Controlled
+        Substance - hashish</option>\r\n\t\t\r\n  \t\t\t <option value=\"?charge=35700\">\r\n
+        \ \t\t\t Delivery Controlled Substance - Marijuana</option>\r\n\t\t\r\n  \t\t\t
+        <option value=\"?charge=35750\">\r\n  \t\t\t Delivery Controlled Substance
+        - Marijuana/to minor</option>\r\n\t\t\r\n  \t\t\t <option value=\"?charge=35710\">\r\n
+        \ \t\t\t Delivery Controlled Substance - schedule I</option>\r\n\t\t\r\n  \t\t\t
+        <option value=\"?charge=35711\">\r\n  \t\t\t Delivery Controlled Substance
+        - Schedule I/Joint Criminal Condcut</option>\r\n\t\t\r\n  \t\t\t <option value=\"?charge=35377\">\r\n
+        \ \t\t\t Delivery Controlled Substance - Schedule II/Aiding and Abetting</option>\r\n\t\t\r\n
+        \ \t\t\t <option value=\"?charge=35650\">\r\n  \t\t\t Delivery Controlled
+        Substance - Schedule II/methamphetamine</option>\r\n\t\t\r\n  \t\t\t <option
+        value=\"?charge=35727\">\r\n  \t\t\t Delivery Controlled Substance - Schedule
+        II/w/in 1000' of elementray school</option>\r\n\t\t\r\n  \t\t\t <option value=\"?charge=35600\">\r\n
+        \ \t\t\t Delivery Controlled Substance - Schedule II-cocaine</option>\r\n\t\t\r\n
+        \ \t\t\t <option value=\"?charge=35378\">\r\n  \t\t\t Delivery Controlled
+        Substance - Schedule II-Joint Criminal Conduct</option>\r\n\t\t\r\n  \t\t\t
+        <option value=\"?charge=35905\">\r\n  \t\t\t Delivery Controlled Substance
+        - Schedule IV</option>\r\n\t\t\r\n  \t\t\t <option value=\"?charge=96500\">\r\n
+        \ \t\t\t Dependant Adult - Neglect endanger dependant adult</option>\r\n\t\t\r\n
+        \ \t\t\t <option value=\"?charge=93505\">\r\n  \t\t\t Discharge of fireworks/joint
+        criminal conduct</option>\r\n\t\t\r\n  \t\t\t <option value=\"?charge=00142\">\r\n
+        \ \t\t\t Disobey Officer In Traffic Control</option>\r\n\t\t\r\n  \t\t\t <option
+        value=\"?charge=93000\">\r\n  \t\t\t Disorderly Conduct (15)</option>\r\n\t\t\r\n
+        \ \t\t\t <option value=\"?charge=93002\">\r\n  \t\t\t Disorderly Conduct-
+        joint criminal conduct</option>\r\n\t\t\r\n  \t\t\t <option value=\"?charge=93200\">\r\n
+        \ \t\t\t Disorderly House (46)</option>\r\n\t\t\r\n  \t\t\t <option value=\"?charge=97990\">\r\n
+        \ \t\t\t Dispense alcohol after hours</option>\r\n\t\t\r\n  \t\t\t <option
+        value=\"?charge=35961\">\r\n  \t\t\t Distribute precursors to manufacture
+        methamphetamine</option>\r\n\t\t\r\n  \t\t\t <option value=\"?charge=35935\">\r\n
+        \ \t\t\t Distribute to persons under age</option>\r\n\t\t\r\n  \t\t\t <option
+        value=\"?charge=91177\">\r\n  \t\t\t Dog off leash in City Park</option>\r\n\t\t\r\n
+        \ \t\t\t <option value=\"?charge=91103\">\r\n  \t\t\t Drive while barred (5)</option>\r\n\t\t\r\n
+        \ \t\t\t <option value=\"?charge=91109\">\r\n  \t\t\t Drive while barred/Aiding
+        and abetting</option>\r\n\t\t\r\n  \t\t\t <option value=\"?charge=91113\">\r\n
+        \ \t\t\t Drive while cancelled</option>\r\n\t\t\r\n  \t\t\t <option value=\"?charge=91108\">\r\n
+        \ \t\t\t Drive while license under suspension/cancelled (23)</option>\r\n\t\t\r\n
+        \ \t\t\t <option value=\"?charge=91101\">\r\n  \t\t\t Driving while license
+        revoked (6)</option>\r\n\t\t\r\n  \t\t\t <option value=\"?charge=35950\">\r\n
+        \ \t\t\t Drug Tax stamp violation-Iowa</option>\r\n\t\t\r\n  \t\t\t <option
+        value=\"?charge=35938\">\r\n  \t\t\t Drug trade- Use persons under age 18</option>\r\n\t\t\r\n
+        \ \t\t\t <option value=\"?charge=91126\">\r\n  \t\t\t Eluding - Eluding pursuing
+        law enforcement</option>\r\n\t\t\r\n  \t\t\t <option value=\"?charge=91127\">\r\n
+        \ \t\t\t Eluding - Eluding while committing felony</option>\r\n\t\t\r\n  \t\t\t
+        <option value=\"?charge=10060\">\r\n  \t\t\t Enticing Away A Child</option>\r\n\t\t\r\n
+        \ \t\t\t <option value=\"?charge=91155\">\r\n  \t\t\t Escape - Escape from
+        Custody (2)</option>\r\n\t\t\r\n  \t\t\t <option value=\"?charge=91135\">\r\n
+        \ \t\t\t Escape from Custody-Aid and abet</option>\r\n\t\t\r\n  \t\t\t <option
+        value=\"?charge=91174\">\r\n  \t\t\t Evidence - Destroy evidence - Joint criminal
+        conduct</option>\r\n\t\t\r\n  \t\t\t <option value=\"?charge=91168\">\r\n
+        \ \t\t\t Evidence - prevent apprehension, destroy evidence, obstruct prosecution</option>\r\n\t\t\r\n
+        \ \t\t\t <option value=\"?charge=37000\">\r\n  \t\t\t Exhibition of obscene
+        material</option>\r\n\t\t\r\n  \t\t\t <option value=\"?charge=91136\">\r\n
+        \ \t\t\t Exposure - Indecent</option>\r\n\t\t\r\n  \t\t\t <option value=\"?charge=21000\">\r\n
+        \ \t\t\t Extortion</option>\r\n\t\t\r\n  \t\t\t <option value=\"?charge=97552\">\r\n
+        \ \t\t\t Fail to display liquor license</option>\r\n\t\t\r\n  \t\t\t <option
+        value=\"?charge=91170\">\r\n  \t\t\t Fail to license dogs, animals</option>\r\n\t\t\r\n
+        \ \t\t\t <option value=\"?charge=91176\">\r\n  \t\t\t Fail to remove pet waste</option>\r\n\t\t\r\n
+        \ \t\t\t <option value=\"?charge=91105\">\r\n  \t\t\t Failure to Pay Driving
+        under Suspension civil penalty</option>\r\n\t\t\r\n  \t\t\t <option value=\"?charge=91104\">\r\n
+        \ \t\t\t Failure to post financial security</option>\r\n\t\t\r\n  \t\t\t <option
+        value=\"?charge=10000\">\r\n  \t\t\t False Imprisonment</option>\r\n\t\t\r\n
+        \ \t\t\t <option value=\"?charge=10015\">\r\n  \t\t\t False Imprisonment/aiding
+        &amp; Abetting</option>\r\n\t\t\r\n  \t\t\t <option value=\"?charge=13600\">\r\n
+        \ \t\t\t False reports-Bomb Threat</option>\r\n\t\t\r\n  \t\t\t <option value=\"?charge=91153\">\r\n
+        \ \t\t\t Falsify Public Documents</option>\r\n\t\t\r\n  \t\t\t <option value=\"?charge=91118\">\r\n
+        \ \t\t\t Falsify VEHICLE licenses and forms</option>\r\n\t\t\r\n  \t\t\t <option
+        value=\"?charge=91119\">\r\n  \t\t\t Falsify VEHICLE licenses and forms-Joint
+        criminal conduct</option>\r\n\t\t\r\n  \t\t\t <option value=\"?charge=91118\">\r\n
+        \ \t\t\t Falsify VEHICLE licenses and formsx</option>\r\n\t\t\r\n  \t\t\t
+        <option value=\"?charge=10550\">\r\n  \t\t\t Feticide</option>\r\n\t\t\r\n
+        \ \t\t\t <option value=\"?charge=91148\">\r\n  \t\t\t Fire Equipment - Tampering
+        with required fire equipment</option>\r\n\t\t\r\n  \t\t\t <option value=\"?charge=52165\">\r\n
+        \ \t\t\t Firearms - Access to loaded firearms by children</option>\r\n\t\t\r\n
+        \ \t\t\t <option value=\"?charge=52400\">\r\n  \t\t\t Firearms - Discharge
+        firearms within city limits</option>\r\n\t\t\r\n  \t\t\t <option value=\"?charge=52300\">\r\n
+        \ \t\t\t Firearms - Manner of conveyance</option>\r\n\t\t\r\n  \t\t\t <option
+        value=\"?charge=52190\">\r\n  \t\t\t Firearms - No permit to acquire pistol
+        or revolver</option>\r\n\t\t\r\n  \t\t\t <option value=\"?charge=25100\">\r\n
+        \ \t\t\t Forgery - Aid &amp; Abet</option>\r\n\t\t\r\n  \t\t\t <option value=\"?charge=25000\">\r\n
+        \ \t\t\t Forgery - By Check/document (1)</option>\r\n\t\t\r\n  \t\t\t <option
+        value=\"?charge=25150\">\r\n  \t\t\t Forgery - by Credit Card</option>\r\n\t\t\r\n
+        \ \t\t\t <option value=\"?charge=25153\">\r\n  \t\t\t Forgery - by Credit
+        Card/Aid &amp; Abet</option>\r\n\t\t\r\n  \t\t\t <option value=\"?charge=25125\">\r\n
+        \ \t\t\t Forgery - Joint Criminal Condcut</option>\r\n\t\t\r\n  \t\t\t <option
+        value=\"?charge=25050\">\r\n  \t\t\t Forgery - Possesion of Forged Document</option>\r\n\t\t\r\n
+        \ \t\t\t <option value=\"?charge=23940\">\r\n  \t\t\t Fraud-Insurance</option>\r\n\t\t\r\n
+        \ \t\t\t <option value=\"?charge=23945\">\r\n  \t\t\t Fraud-Insurance/Aid
+        &amp; Abet</option>\r\n\t\t\r\n  \t\t\t <option value=\"?charge=26625\">\r\n
+        \ \t\t\t Fraudulent Acts-Credit Card/Joint Criminal Conduct</option>\r\n\t\t\r\n
+        \ \t\t\t <option value=\"?charge=26500\">\r\n  \t\t\t Fraudulent Criminal
+        Acts - Atm</option>\r\n\t\t\r\n  \t\t\t <option value=\"?charge=26600\">\r\n
+        \ \t\t\t Fraudulent Criminal Acts - Credit Card (2)</option>\r\n\t\t\r\n  \t\t\t
+        <option value=\"?charge=26620\">\r\n  \t\t\t Fraudulent Criminal Acts-ATM/Aid
+        &amp; Abet</option>\r\n\t\t\r\n  \t\t\t <option value=\"?charge=26650\">\r\n
+        \ \t\t\t Fraudulent Criminal Acts-Credit Card/Aid &amp; Abet</option>\r\n\t\t\r\n
+        \ \t\t\t <option value=\"?charge=23925\">\r\n  \t\t\t Fraudulent Practices</option>\r\n\t\t\r\n
+        \ \t\t\t <option value=\"?charge=23930\">\r\n  \t\t\t Fraudulent Practices-
+        Aiding</option>\r\n\t\t\r\n  \t\t\t <option value=\"?charge=27000\">\r\n  \t\t\t
+        Fraudulent Practices Relating To Food St</option>\r\n\t\t\r\n  \t\t\t <option
+        value=\"?charge=39000\">\r\n  \t\t\t Gambling- Illegal gambling</option>\r\n\t\t\r\n
+        \ \t\t\t <option value=\"?charge=39500\">\r\n  \t\t\t Gambling -Illegal gaming
+        and betting</option>\r\n\t\t\r\n  \t\t\t <option value=\"?charge=53000\">\r\n
+        \ \t\t\t Gang- Criminal Gang participation</option>\r\n\t\t\r\n  \t\t\t <option
+        value=\"?charge=52150\">\r\n  \t\t\t Going Armed with a loaded weapon</option>\r\n\t\t\r\n
+        \ \t\t\t <option value=\"?charge=13250\">\r\n  \t\t\t Going Armed With Intent
+        (2)</option>\r\n\t\t\r\n  \t\t\t <option value=\"?charge=13275\">\r\n  \t\t\t
+        Going armed with intent/Joint criminal conduct</option>\r\n\t\t\r\n  \t\t\t
+        <option value=\"?charge=93600\">\r\n  \t\t\t Gun - Discharge carry toy gun
+        within city limits (1)</option>\r\n\t\t\r\n  \t\t\t <option value=\"?charge=93605\">\r\n
+        \ \t\t\t Gun - Purchase/ give toy gun to  person under 18 years</option>\r\n\t\t\r\n
+        \ \t\t\t <option value=\"?charge=93410\">\r\n  \t\t\t Harassment - Harassment
+        of public official</option>\r\n\t\t\r\n  \t\t\t <option value=\"?charge=91140\">\r\n
+        \ \t\t\t Harassment 1st Degree (1)</option>\r\n\t\t\r\n  \t\t\t <option value=\"?charge=91141\">\r\n
+        \ \t\t\t Harassment 2nd Degree</option>\r\n\t\t\r\n  \t\t\t <option value=\"?charge=91142\">\r\n
+        \ \t\t\t Harassment 3rd Degree (6)</option>\r\n\t\t\r\n  \t\t\t <option value=\"?charge=96055\">\r\n
+        \ \t\t\t Harbor runaway child</option>\r\n\t\t\r\n  \t\t\t <option value=\"?charge=13075\">\r\n
+        \ \t\t\t Harmful substance- Administer harmful substance</option>\r\n\t\t\r\n
+        \ \t\t\t <option value=\"?charge=91152\">\r\n  \t\t\t Harrassment - Aiding
+        and Abetting</option>\r\n\t\t\r\n  \t\t\t <option value=\"?charge=91131\">\r\n
+        \ \t\t\t Hazardous Waste - Unlawful dumping/disposal</option>\r\n\t\t\r\n
+        \ \t\t\t <option value=\"?charge=13510\">\r\n  \t\t\t Hazing</option>\r\n\t\t\r\n
+        \ \t\t\t <option value=\"?charge=10540\">\r\n  \t\t\t Homicide/Serious Injury
+        by Vehicle</option>\r\n\t\t\r\n  \t\t\t <option value=\"?charge=25035\">\r\n
+        \ \t\t\t Identity Theft (1)</option>\r\n\t\t\r\n  \t\t\t <option value=\"?charge=25036\">\r\n
+        \ \t\t\t Identity Theft - Aiding &amp; Abetting</option>\r\n\t\t\r\n  \t\t\t
+        <option value=\"?charge=94600\">\r\n  \t\t\t Ignition - No ignition interlock
+        device when required</option>\r\n\t\t\r\n  \t\t\t <option value=\"?charge=00130\">\r\n
+        \ \t\t\t Immigration Violation</option>\r\n\t\t\r\n  \t\t\t <option value=\"?charge=26000\">\r\n
+        \ \t\t\t Impersonating A Public Official</option>\r\n\t\t\r\n  \t\t\t <option
+        value=\"?charge=91134\">\r\n  \t\t\t Indecent Conduct</option>\r\n\t\t\r\n
+        \ \t\t\t <option value=\"?charge=11500\">\r\n  \t\t\t Indecent Contact With
+        A Child</option>\r\n\t\t\r\n  \t\t\t <option value=\"?charge=96400\">\r\n
+        \ \t\t\t Injury - Serious injury by vehicle</option>\r\n\t\t\r\n  \t\t\t <option
+        value=\"?charge=91160\">\r\n  \t\t\t Injury to Cruelty to Animals</option>\r\n\t\t\r\n
+        \ \t\t\t <option value=\"?charge=93405\">\r\n  \t\t\t Interference - Interference
+        w/official acts causing/ intending injury (1)</option>\r\n\t\t\r\n  \t\t\t
+        <option value=\"?charge=93400\">\r\n  \t\t\t Interference - Interference with
+        official acts (20)</option>\r\n\t\t\r\n  \t\t\t <option value=\"?charge=13575\">\r\n
+        \ \t\t\t Intimidation with a dangerous weapon</option>\r\n\t\t\r\n  \t\t\t
+        <option value=\"?charge=10530\">\r\n  \t\t\t Involuntary Manslaughter</option>\r\n\t\t\r\n
+        \ \t\t\t <option value=\"?charge=93010\">\r\n  \t\t\t Joint Criminal Conduct</option>\r\n\t\t\r\n
+        \ \t\t\t <option value=\"?charge=00515\">\r\n  \t\t\t Juveniles/miscellaneous</option>\r\n\t\t\r\n
+        \ \t\t\t <option value=\"?charge=10055\">\r\n  \t\t\t Kidnapping</option>\r\n\t\t\r\n
+        \ \t\t\t <option value=\"?charge=10045\">\r\n  \t\t\t Kidnapping 1st Degree</option>\r\n\t\t\r\n
+        \ \t\t\t <option value=\"?charge=10050\">\r\n  \t\t\t Kidnapping 3rd Degree</option>\r\n\t\t\r\n
+        \ \t\t\t <option value=\"?charge=11600\">\r\n  \t\t\t Lascivious Acts With
+        A Child</option>\r\n\t\t\r\n  \t\t\t <option value=\"?charge=11555\">\r\n
+        \ \t\t\t Lascivious Conduct With A Minor</option>\r\n\t\t\r\n  \t\t\t <option
+        value=\"?charge=91124\">\r\n  \t\t\t Leave scene of personal injury accident
+        (1)</option>\r\n\t\t\r\n  \t\t\t <option value=\"?charge=91123\">\r\n  \t\t\t
+        License-possess ficticious DL/ID (6)</option>\r\n\t\t\r\n  \t\t\t <option
+        value=\"?charge=0S549\">\r\n  \t\t\t Lighting Device Color And Mounting</option>\r\n\t\t\r\n
+        \ \t\t\t <option value=\"?charge=97500\">\r\n  \t\t\t Liquor, beer license
+        required</option>\r\n\t\t\r\n  \t\t\t <option value=\"?charge=91130B\">\r\n
+        \ \t\t\t Litter from vehicle</option>\r\n\t\t\r\n  \t\t\t <option value=\"?charge=91130\">\r\n
+        \ \t\t\t Littering - Littering/Illegal Dumping (5)</option>\r\n\t\t\r\n  \t\t\t
+        <option value=\"?charge=97800\">\r\n  \t\t\t Make alcohol available to minors
+        (3)</option>\r\n\t\t\r\n  \t\t\t <option value=\"?charge=35966\">\r\n  \t\t\t
+        Manufacture Controlled Substance -  Schedule II/in immediate possession of
+        firearm</option>\r\n\t\t\r\n  \t\t\t <option value=\"?charge=35923\">\r\n
+        \ \t\t\t Manufacture methamphetamine</option>\r\n\t\t\r\n  \t\t\t <option
+        value=\"?charge=35922\">\r\n  \t\t\t Manufacture methamphetamine in presence
+        of minor</option>\r\n\t\t\r\n  \t\t\t <option value=\"?charge=35924\">\r\n
+        \ \t\t\t Manufacture methamphetamine-Aiding and Abetting</option>\r\n\t\t\r\n
+        \ \t\t\t <option value=\"?charge=35960\">\r\n  \t\t\t Maufacture controlled
+        substance</option>\r\n\t\t\r\n  \t\t\t <option value=\"?charge=23950\">\r\n
+        \ \t\t\t Misappropriation Of Property</option>\r\n\t\t\r\n  \t\t\t <option
+        value=\"?charge=97650\">\r\n  \t\t\t Misrepresent age to purchase alcohol</option>\r\n\t\t\r\n
+        \ \t\t\t <option value=\"?charge=96025\">\r\n  \t\t\t Mistreatment of minor</option>\r\n\t\t\r\n
+        \ \t\t\t <option value=\"?charge=10500\">\r\n  \t\t\t Murder 1st Degree (1)</option>\r\n\t\t\r\n
+        \ \t\t\t <option value=\"?charge=10510\">\r\n  \t\t\t Murder 2nd Degree</option>\r\n\t\t\r\n
+        \ \t\t\t <option value=\"?charge=13000\">\r\n  \t\t\t Murder- Attempted Murder</option>\r\n\t\t\r\n
+        \ \t\t\t <option value=\"?charge=13226\">\r\n  \t\t\t Neglect- Dependent Person</option>\r\n\t\t\r\n
+        \ \t\t\t <option value=\"?charge=96000\">\r\n  \t\t\t Neglect/endangerment
+        of minor</option>\r\n\t\t\r\n  \t\t\t <option value=\"?charge=35911\">\r\n
+        \ \t\t\t Nitrous oxide-Possess nitrous oxide</option>\r\n\t\t\r\n  \t\t\t
+        <option value=\"?charge=91171\">\r\n  \t\t\t No verification rabies vaccination</option>\r\n\t\t\r\n
+        \ \t\t\t <option value=\"?charge=93300\">\r\n  \t\t\t Noise - Noise ordinance
+        violation</option>\r\n\t\t\r\n  \t\t\t <option value=\"?charge=91157\">\r\n
+        \ \t\t\t Obedience - Fail to obey police officer</option>\r\n\t\t\r\n  \t\t\t
+        <option value=\"?charge=91156A\">\r\n  \t\t\t Obstruction- Obstruct officer
+        (4)</option>\r\n\t\t\r\n  \t\t\t <option value=\"?charge=91156\">\r\n  \t\t\t
+        Obstruction- Obstruct officer (2)</option>\r\n\t\t\r\n  \t\t\t <option value=\"?charge=24500\">\r\n
+        \ \t\t\t Ongoing Criminal Conduct</option>\r\n\t\t\r\n  \t\t\t <option value=\"?charge=97525\">\r\n
+        \ \t\t\t On-premise alcohol sale limitations</option>\r\n\t\t\r\n  \t\t\t
+        <option value=\"?charge=93520\">\r\n  \t\t\t Open Burning</option>\r\n\t\t\r\n
+        \ \t\t\t <option value=\"?charge=97300\">\r\n  \t\t\t Open container of alcohol
+        in vehicle</option>\r\n\t\t\r\n  \t\t\t <option value=\"?charge=91100\">\r\n
+        \ \t\t\t Operate while license disqualified</option>\r\n\t\t\r\n  \t\t\t <option
+        value=\"?charge=94500\">\r\n  \t\t\t Operating while controlled substance
+        present</option>\r\n\t\t\r\n  \t\t\t <option value=\"?charge=94000\">\r\n
+        \ \t\t\t OWI (31)</option>\r\n\t\t\r\n  \t\t\t <option value=\"?charge=94200\">\r\n
+        \ \t\t\t OWI - Aiding and abetting</option>\r\n\t\t\r\n  \t\t\t <option value=\"?charge=94100\">\r\n
+        \ \t\t\t OWI - with accident</option>\r\n\t\t\r\n  \t\t\t <option value=\"?charge=94000b\">\r\n
+        \ \t\t\t OWI- 2nd Offense (11)</option>\r\n\t\t\r\n  \t\t\t <option value=\"?charge=94000c\">\r\n
+        \ \t\t\t OWI- 3rd and Subsequent (3)</option>\r\n\t\t\r\n  \t\t\t <option
+        value=\"?charge=91075\">\r\n  \t\t\t Owner- Offenses by owners</option>\r\n\t\t\r\n
+        \ \t\t\t <option value=\"?charge=90100\">\r\n  \t\t\t Park Rules</option>\r\n\t\t\r\n
+        \ \t\t\t <option value=\"?charge=29750\">\r\n  \t\t\t Parks-Damage Property-Parks,
+        Playgrounds/Trees, plants</option>\r\n\t\t\r\n  \t\t\t <option value=\"?charge=91133A\">\r\n
+        \ \t\t\t Pedestrian - Pedestrian duties (1)</option>\r\n\t\t\r\n  \t\t\t <option
+        value=\"?charge=91146\">\r\n  \t\t\t Perjury</option>\r\n\t\t\r\n  \t\t\t
+        <option value=\"?charge=91162\">\r\n  \t\t\t Permit Dog to bark</option>\r\n\t\t\r\n
+        \ \t\t\t <option value=\"?charge=91161\">\r\n  \t\t\t Permit Dog, Cat to run</option>\r\n\t\t\r\n
+        \ \t\t\t <option value=\"?charge=35965\">\r\n  \t\t\t Permit gatherings to
+        use controlled substances (1)</option>\r\n\t\t\r\n  \t\t\t <option value=\"?charge=91173\">\r\n
+        \ \t\t\t Permits - Permit required (miscellaneous)</option>\r\n\t\t\r\n  \t\t\t
+        <option value=\"?charge=91055\">\r\n  \t\t\t Personal Injury - Serious injury
+        by vehicle</option>\r\n\t\t\r\n  \t\t\t <option value=\"?charge=91125\">\r\n
+        \ \t\t\t Personal Injury- Failure to give info and aid/PI and F</option>\r\n\t\t\r\n
+        \ \t\t\t <option value=\"?charge=97600\">\r\n  \t\t\t Possess alcohol under
+        legal age (PAULA) (51)</option>\r\n\t\t\r\n  \t\t\t <option value=\"?charge=91120\">\r\n
+        \ \t\t\t Possess cancelled, suspended, altered DL/ID</option>\r\n\t\t\r\n
+        \ \t\t\t <option value=\"?charge=35100\">\r\n  \t\t\t Possess Controlled Substance
+        -  Marijuana (16)</option>\r\n\t\t\r\n  \t\t\t <option value=\"?charge=35375\">\r\n
+        \ \t\t\t Possess Controlled Substance -  Schedule II w/ intent to deliver</option>\r\n\t\t\r\n
+        \ \t\t\t <option value=\"?charge=35376\">\r\n  \t\t\t Possess Controlled Substance
+        -  Schedule II/Joint Criminal Conduct</option>\r\n\t\t\r\n  \t\t\t <option
+        value=\"?charge=35300\">\r\n  \t\t\t Possess Controlled Substance -  Schedule
+        III controlled substance</option>\r\n\t\t\r\n  \t\t\t <option value=\"?charge=35310\">\r\n
+        \ \t\t\t Possess Controlled Substance -  Schedule III w/intent to deliver</option>\r\n\t\t\r\n
+        \ \t\t\t <option value=\"?charge=35350\">\r\n  \t\t\t Possess Controlled Substance
+        -  Schedule IV controlled substance</option>\r\n\t\t\r\n  \t\t\t <option value=\"?charge=35400\">\r\n
+        \ \t\t\t Possess Controlled Substance - Cocaine (1)</option>\r\n\t\t\r\n  \t\t\t
+        <option value=\"?charge=35500\">\r\n  \t\t\t Possess Controlled Substance
+        - Cocaine w/intent to dleiver (2)</option>\r\n\t\t\r\n  \t\t\t <option value=\"?charge=35550\">\r\n
+        \ \t\t\t Possess Controlled Substance - Crack Cocaine w/intent to deliver</option>\r\n\t\t\r\n
+        \ \t\t\t <option value=\"?charge=35250\">\r\n  \t\t\t Possess Controlled Substance
+        - LSD w/intent to deliver</option>\r\n\t\t\r\n  \t\t\t <option value=\"?charge=35101\">\r\n
+        \ \t\t\t Possess Controlled Substance - Marijuana (on school grounds)</option>\r\n\t\t\r\n
+        \ \t\t\t <option value=\"?charge=35200\">\r\n  \t\t\t Possess Controlled Substance
+        - Marijuana/with intent to deliver (1)</option>\r\n\t\t\r\n  \t\t\t <option
+        value=\"?charge=35211\">\r\n  \t\t\t Possess Controlled Substance - Sched.
+        I w/Intent to deliver-Joint Criminal</option>\r\n\t\t\r\n  \t\t\t <option
+        value=\"?charge=35425\">\r\n  \t\t\t Possess Controlled Substance - Schedule
+        I</option>\r\n\t\t\r\n  \t\t\t <option value=\"?charge=35435\">\r\n  \t\t\t
+        Possess Controlled Substance - Schedule I w/intent to deliver (1)</option>\r\n\t\t\r\n
+        \ \t\t\t <option value=\"?charge=35436\">\r\n  \t\t\t Possess Controlled Substance
+        - Schedule I w/intent to deliver w/in 1000' of school</option>\r\n\t\t\r\n
+        \ \t\t\t <option value=\"?charge=35426\">\r\n  \t\t\t Possess Controlled Substance
+        - Schedule I w/intent to deliver&amp; possess firearm</option>\r\n\t\t\r\n
+        \ \t\t\t <option value=\"?charge=35210\">\r\n  \t\t\t Possess Controlled Substance
+        - Schedule I w/intent to deliver/Aid and Abet</option>\r\n\t\t\r\n  \t\t\t
+        <option value=\"?charge=35450\">\r\n  \t\t\t Possess Controlled Substance
+        - Schedule II</option>\r\n\t\t\r\n  \t\t\t <option value=\"?charge=35910\">\r\n
+        \ \t\t\t Possess Controlled Substance - schedule IV</option>\r\n\t\t\r\n  \t\t\t
+        <option value=\"?charge=93500\">\r\n  \t\t\t Possess discharge fireworks</option>\r\n\t\t\r\n
+        \ \t\t\t <option value=\"?charge=35475\">\r\n  \t\t\t Possess Drug paraphenalia
+        (11)</option>\r\n\t\t\r\n  \t\t\t <option value=\"?charge=52220\">\r\n  \t\t\t
+        Possess firearm as convicted domestic violence perpetrator</option>\r\n\t\t\r\n
+        \ \t\t\t <option value=\"?charge=52200\">\r\n  \t\t\t Possess firearms as
+        a felon</option>\r\n\t\t\r\n  \t\t\t <option value=\"?charge=93515\">\r\n
+        \ \t\t\t Possess incendiary, explosive device</option>\r\n\t\t\r\n  \t\t\t
+        <option value=\"?charge=97100\">\r\n  \t\t\t Possess open container alcohol
+        in public (32)</option>\r\n\t\t\r\n  \t\t\t <option value=\"?charge=35963\">\r\n
+        \ \t\t\t Possess precursor with intent to manufacture</option>\r\n\t\t\r\n
+        \ \t\t\t <option value=\"?charge=35964\">\r\n  \t\t\t Possess precursors-Aiding
+        and Abetting</option>\r\n\t\t\r\n  \t\t\t <option value=\"?charge=35962\">\r\n
+        \ \t\t\t Possess prescursors to methamphetamine-Joint criminal conduct</option>\r\n\t\t\r\n
+        \ \t\t\t <option value=\"?charge=52155\">\r\n  \t\t\t Possess unauthorized
+        offensive weapon</option>\r\n\t\t\r\n  \t\t\t <option value=\"?charge=93506\">\r\n
+        \ \t\t\t Possess, use fireworks device</option>\r\n\t\t\r\n  \t\t\t <option
+        value=\"?charge=28000\">\r\n  \t\t\t Possession of Stolen Property (1)</option>\r\n\t\t\r\n
+        \ \t\t\t <option value=\"?charge=28500\">\r\n  \t\t\t Possession of Stolen
+        Property/Aiding &amp; Abetting</option>\r\n\t\t\r\n  \t\t\t <option value=\"?charge=28250\">\r\n
+        \ \t\t\t Possession of Stolen Property/Joint Criminal Conduct</option>\r\n\t\t\r\n
+        \ \t\t\t <option value=\"?charge=91555\">\r\n  \t\t\t Practices - Fraudulent</option>\r\n\t\t\r\n
+        \ \t\t\t <option value=\"?charge=91560\">\r\n  \t\t\t Practices - Prohibitive</option>\r\n\t\t\r\n
+        \ \t\t\t <option value=\"?charge=35900\">\r\n  \t\t\t Prescription Drugs -
+        Possess Prescription Drugs (4)</option>\r\n\t\t\r\n  \t\t\t <option value=\"?charge=35925\">\r\n
+        \ \t\t\t Prescription drugs-Distribute to others</option>\r\n\t\t\r\n  \t\t\t
+        <option value=\"?charge=97900\">\r\n  \t\t\t Presence on premise (licensed
+        liquor establishment)after hours (12)</option>\r\n\t\t\r\n  \t\t\t <option
+        value=\"?charge=92500\">\r\n  \t\t\t Privacy - Invasion of privacy</option>\r\n\t\t\r\n
+        \ \t\t\t <option value=\"?charge=23951\">\r\n  \t\t\t Prohib. Sale Of Lottery
+        Ticket/penalties</option>\r\n\t\t\r\n  \t\t\t <option value=\"?charge=35920\">\r\n
+        \ \t\t\t Prohibited Acts</option>\r\n\t\t\r\n  \t\t\t <option value=\"?charge=90300\">\r\n
+        \ \t\t\t Prohibited operation of boat during emergency conditions</option>\r\n\t\t\r\n
+        \ \t\t\t <option value=\"?charge=91144\">\r\n  \t\t\t Prosecution - Malicious</option>\r\n\t\t\r\n
+        \ \t\t\t <option value=\"?charge=40000\">\r\n  \t\t\t Prostitution</option>\r\n\t\t\r\n
+        \ \t\t\t <option value=\"?charge=40500\">\r\n  \t\t\t Prostitution - Soliciting
+        prostitution</option>\r\n\t\t\r\n  \t\t\t <option value=\"?charge=98000\">\r\n
+        \ \t\t\t Prowler - Peeping Tom/Prowler</option>\r\n\t\t\r\n  \t\t\t <option
+        value=\"?charge=91153\">\r\n  \t\t\t Public Documents - Falsify public documents</option>\r\n\t\t\r\n
+        \ \t\t\t <option value=\"?charge=95000\">\r\n  \t\t\t Public Intoxication
+        (83)</option>\r\n\t\t\r\n  \t\t\t <option value=\"?charge=95000b\">\r\n  \t\t\t
+        Public Intoxication- 2nd Offense (5)</option>\r\n\t\t\r\n  \t\t\t <option
+        value=\"?charge=95000c\">\r\n  \t\t\t Public Intoxication- 3rd and Subsequent
+        (6)</option>\r\n\t\t\r\n  \t\t\t <option value=\"?charge=29800\">\r\n  \t\t\t
+        Ramp Gate-Tamper with ramp gate-or Break</option>\r\n\t\t\r\n  \t\t\t <option
+        value=\"?charge=23900\">\r\n  \t\t\t Ramp- leave ramp w/out paying</option>\r\n\t\t\r\n
+        \ \t\t\t <option value=\"?charge=91200\">\r\n  \t\t\t Receipt - Fail to provide
+        receipt or contract</option>\r\n\t\t\r\n  \t\t\t <option value=\"?charge=91050\">\r\n
+        \ \t\t\t Reckless Driving (indictable Offense)</option>\r\n\t\t\r\n  \t\t\t
+        <option value=\"?charge=93510\">\r\n  \t\t\t Reckless use of fire, explosive</option>\r\n\t\t\r\n
+        \ \t\t\t <option value=\"?charge=52350\">\r\n  \t\t\t Reckless use of firearms</option>\r\n\t\t\r\n
+        \ \t\t\t <option value=\"?charge=91165\">\r\n  \t\t\t Records - False representation
+        of records</option>\r\n\t\t\r\n  \t\t\t <option value=\"?charge=91107\">\r\n
+        \ \t\t\t Registration - Fraud, False evidence of registration</option>\r\n\t\t\r\n
+        \ \t\t\t <option value=\"?charge=91098\">\r\n  \t\t\t Registration - Fraudulent
+        use of registration</option>\r\n\t\t\r\n  \t\t\t <option value=\"?charge=91112\">\r\n
+        \ \t\t\t Registration- Operate with suspended registration</option>\r\n\t\t\r\n
+        \ \t\t\t <option value=\"?charge=91114\">\r\n  \t\t\t Registration- Register
+        motor vehicle while privilegesuspended</option>\r\n\t\t\r\n  \t\t\t <option
+        value=\"?charge=91154\">\r\n  \t\t\t Reports - False reports to law enforcement
+        (1)</option>\r\n\t\t\r\n  \t\t\t <option value=\"?charge=00604\">\r\n  \t\t\t
+        Restraining Order From Other Jurisdictio</option>\r\n\t\t\r\n  \t\t\t <option
+        value=\"?charge=93250\">\r\n  \t\t\t Riot</option>\r\n\t\t\r\n  \t\t\t <option
+        value=\"?charge=12100\">\r\n  \t\t\t Robbery - 1st Degree (1)</option>\r\n\t\t\r\n
+        \ \t\t\t <option value=\"?charge=12150\">\r\n  \t\t\t Robbery - 1st Degree/Aiding
+        &amp; Abetting</option>\r\n\t\t\r\n  \t\t\t <option value=\"?charge=12155\">\r\n
+        \ \t\t\t Robbery - 1st Degree/Joint Criminal Conduct</option>\r\n\t\t\r\n
+        \ \t\t\t <option value=\"?charge=12255\">\r\n  \t\t\t Robbery 2nd Deg/joint
+        Criminal Conduct</option>\r\n\t\t\r\n  \t\t\t <option value=\"?charge=12200\">\r\n
+        \ \t\t\t Robbery 2nd Degree</option>\r\n\t\t\r\n  \t\t\t <option value=\"?charge=12250\">\r\n
+        \ \t\t\t Robbery 2nd Degree/aiding &amp; Abetting</option>\r\n\t\t\r\n  \t\t\t
+        <option value=\"?charge=97829\">\r\n  \t\t\t Sale of alcohol to minor/Aid
+        and abet</option>\r\n\t\t\r\n  \t\t\t <option value=\"?charge=97825\">\r\n
+        \ \t\t\t Sale of alcoholic beverage to minor</option>\r\n\t\t\r\n  \t\t\t
+        <option value=\"?charge=93502\">\r\n  \t\t\t Sale of fireworks</option>\r\n\t\t\r\n
+        \ \t\t\t <option value=\"?charge=52160\">\r\n  \t\t\t Sale/possession of firearm
+        by person under legal age</option>\r\n\t\t\r\n  \t\t\t <option value=\"?charge=97920\">\r\n
+        \ \t\t\t Sell, consume alcohol after hours on premise (licensed liquor establishment)</option>\r\n\t\t\r\n
+        \ \t\t\t <option value=\"?charge=97450\">\r\n  \t\t\t Serve alcohol to intoxicated
+        person</option>\r\n\t\t\r\n  \t\t\t <option value=\"?charge=97400\">\r\n  \t\t\t
+        Serve alcohol while intoxicated</option>\r\n\t\t\r\n  \t\t\t <option value=\"?charge=91195\">\r\n
+        \ \t\t\t Sex offender - Sex offenser registry violation</option>\r\n\t\t\r\n
+        \ \t\t\t <option value=\"?charge=11100\">\r\n  \t\t\t Sexual Abuse 1st Degree</option>\r\n\t\t\r\n
+        \ \t\t\t <option value=\"?charge=11200\">\r\n  \t\t\t Sexual Abuse 2nd Degree</option>\r\n\t\t\r\n
+        \ \t\t\t <option value=\"?charge=11300\">\r\n  \t\t\t Sexual Abuse 3rd Degree</option>\r\n\t\t\r\n
+        \ \t\t\t <option value=\"?charge=11305\">\r\n  \t\t\t Sexual Abuse 3rd degree/accessory
+        after the fact</option>\r\n\t\t\r\n  \t\t\t <option value=\"?charge=37050\">\r\n
+        \ \t\t\t Sexual exploitation of minor</option>\r\n\t\t\r\n  \t\t\t <option
+        value=\"?charge=91166\">\r\n  \t\t\t Signs - Place signs on poles</option>\r\n\t\t\r\n
+        \ \t\t\t <option value=\"?charge=91164\">\r\n  \t\t\t Signs - Posting on property
+        without consent</option>\r\n\t\t\r\n  \t\t\t <option value=\"?charge=13800\">\r\n
+        \ \t\t\t Stalking</option>\r\n\t\t\r\n  \t\t\t <option value=\"?charge=13900\">\r\n
+        \ \t\t\t Stalking While In Poss. Dangerous Weapon</option>\r\n\t\t\r\n  \t\t\t
+        <option value=\"?charge=91137\">\r\n  \t\t\t Streets - Unlawful Use of</option>\r\n\t\t\r\n
+        \ \t\t\t <option value=\"?charge=91115\">\r\n  \t\t\t Stret signs- Possession
+        of street signs</option>\r\n\t\t\r\n  \t\t\t <option value=\"?charge=90350\">\r\n
+        \ \t\t\t Swim In Prohibited Area Of Iowa River</option>\r\n\t\t\r\n  \t\t\t
+        <option value=\"?charge=29600\">\r\n  \t\t\t Tamper withMotor Vehicle-or injure</option>\r\n\t\t\r\n
+        \ \t\t\t <option value=\"?charge=26400\">\r\n  \t\t\t Tampering With Records</option>\r\n\t\t\r\n
+        \ \t\t\t <option value=\"?charge=26425\">\r\n  \t\t\t Tampering with Records-Aid
+        &amp; Abet</option>\r\n\t\t\r\n  \t\t\t <option value=\"?charge=13700\">\r\n
+        \ \t\t\t Tampering with witness or juror (2)</option>\r\n\t\t\r\n  \t\t\t
+        <option value=\"?charge=91139\">\r\n  \t\t\t Tattooing - Providing to minors</option>\r\n\t\t\r\n
+        \ \t\t\t <option value=\"?charge=91138\">\r\n  \t\t\t Tattooing - Without
+        a permit</option>\r\n\t\t\r\n  \t\t\t <option value=\"?charge=91099\">\r\n
+        \ \t\t\t Taxi Cab violations</option>\r\n\t\t\r\n  \t\t\t <option value=\"?charge=91080\">\r\n
+        \ \t\t\t Taxi Cab Violations</option>\r\n\t\t\r\n  \t\t\t <option value=\"?charge=13550\">\r\n
+        \ \t\t\t Terrorism</option>\r\n\t\t\r\n  \t\t\t <option value=\"?charge=23551\">\r\n
+        \ \t\t\t Theft - Remove theft detection device</option>\r\n\t\t\r\n  \t\t\t
+        <option value=\"?charge=91540\">\r\n  \t\t\t Theft - Theft by check 4th degree</option>\r\n\t\t\r\n
+        \ \t\t\t <option value=\"?charge=23100\">\r\n  \t\t\t Theft 1st Degree (2)</option>\r\n\t\t\r\n
+        \ \t\t\t <option value=\"?charge=23105\">\r\n  \t\t\t Theft 1st Degree-Aiding
+        &amp; Abetting</option>\r\n\t\t\r\n  \t\t\t <option value=\"?charge=23110\">\r\n
+        \ \t\t\t Theft 1st degree-by computer</option>\r\n\t\t\r\n  \t\t\t <option
+        value=\"?charge=23200\">\r\n  \t\t\t Theft 2nd Degree (1)</option>\r\n\t\t\r\n
+        \ \t\t\t <option value=\"?charge=23228\">\r\n  \t\t\t Theft 2nd Degree Accessory</option>\r\n\t\t\r\n
+        \ \t\t\t <option value=\"?charge=23250\">\r\n  \t\t\t Theft 2nd Degree- Aiding
+        &amp; Abetting</option>\r\n\t\t\r\n  \t\t\t <option value=\"?charge=23225\">\r\n
+        \ \t\t\t Theft 2nd Degree/joint Criminal Conduct</option>\r\n\t\t\r\n  \t\t\t
+        <option value=\"?charge=23300\">\r\n  \t\t\t Theft 3rd Degree (3)</option>\r\n\t\t\r\n
+        \ \t\t\t <option value=\"?charge=23350\">\r\n  \t\t\t Theft 3rd Degree/joint
+        Criminal Conduct</option>\r\n\t\t\r\n  \t\t\t <option value=\"?charge=23325\">\r\n
+        \ \t\t\t Theft 3rd Degree-Aiding &amp; Abetting</option>\r\n\t\t\r\n  \t\t\t
+        <option value=\"?charge=23400\">\r\n  \t\t\t Theft 4th Degree (3)</option>\r\n\t\t\r\n
+        \ \t\t\t <option value=\"?charge=23455\">\r\n  \t\t\t Theft 4th Degree/joint
+        Criminal Conduct</option>\r\n\t\t\r\n  \t\t\t <option value=\"?charge=23450\">\r\n
+        \ \t\t\t Theft 4th degree-aiding &amp; Abetting</option>\r\n\t\t\r\n  \t\t\t
+        <option value=\"?charge=23440\">\r\n  \t\t\t Theft 4th/accessory After The
+        Fact</option>\r\n\t\t\r\n  \t\t\t <option value=\"?charge=23500\">\r\n  \t\t\t
+        Theft 5th Degree (30)</option>\r\n\t\t\r\n  \t\t\t <option value=\"?charge=23550\">\r\n
+        \ \t\t\t Theft 5th Degree- Aiding and Abetting</option>\r\n\t\t\r\n  \t\t\t
+        <option value=\"?charge=23525\">\r\n  \t\t\t Theft 5th Degree/joint Criminal
+        Conduct</option>\r\n\t\t\r\n  \t\t\t <option value=\"?charge=23553\">\r\n
+        \ \t\t\t Theft 5th Degree-Accessory after the Fact</option>\r\n\t\t\r\n  \t\t\t
+        <option value=\"?charge=23575\">\r\n  \t\t\t Theft 5th Degree-Video Rental
+        Property</option>\r\n\t\t\r\n  \t\t\t <option value=\"?charge=91510\">\r\n
+        \ \t\t\t Theft by check 1st degree</option>\r\n\t\t\r\n  \t\t\t <option value=\"?charge=91520\">\r\n
+        \ \t\t\t Theft by check 2nd degree</option>\r\n\t\t\r\n  \t\t\t <option value=\"?charge=91530\">\r\n
+        \ \t\t\t Theft by check 3rd degree</option>\r\n\t\t\r\n  \t\t\t <option value=\"?charge=91550\">\r\n
+        \ \t\t\t Theft by check 5th degree</option>\r\n\t\t\r\n  \t\t\t <option value=\"?charge=23600\">\r\n
+        \ \t\t\t Theft- Operate without owners consent</option>\r\n\t\t\r\n  \t\t\t
+        <option value=\"?charge=23505\">\r\n  \t\t\t Theft Or Mutilation Of Library
+        Property</option>\r\n\t\t\r\n  \t\t\t <option value=\"?charge=23112\">\r\n
+        \ \t\t\t Theft-by computer/after the fact</option>\r\n\t\t\r\n  \t\t\t <option
+        value=\"?charge=23952\">\r\n  \t\t\t Theft-by deception</option>\r\n\t\t\r\n
+        \ \t\t\t <option value=\"?charge=22500\">\r\n  \t\t\t Theft-Possession of
+        stolen Property/Aiding &amp; Abetting</option>\r\n\t\t\r\n  \t\t\t <option
+        value=\"?charge=91167\">\r\n  \t\t\t Tie animal to object</option>\r\n\t\t\r\n
+        \ \t\t\t <option value=\"?charge=91129\">\r\n  \t\t\t Tobacco - Providing
+        sale of tobacco products to a minor</option>\r\n\t\t\r\n  \t\t\t <option value=\"?charge=91133\">\r\n
+        \ \t\t\t Tobacco - Smoking in prohibited areas (4)</option>\r\n\t\t\r\n  \t\t\t
+        <option value=\"?charge=91128\">\r\n  \t\t\t Tobacco - Underage use of tobacco
+        products</option>\r\n\t\t\r\n  \t\t\t <option value=\"?charge=93100\">\r\n
+        \ \t\t\t Traffic Control Device - Interference with/ possession of traffic
+        control device</option>\r\n\t\t\r\n  \t\t\t <option value=\"?charge=52180\">\r\n
+        \ \t\t\t Trafficking in stolen weapons</option>\r\n\t\t\r\n  \t\t\t <option
+        value=\"?charge=90000\">\r\n  \t\t\t Trespass - Criminal trespass (10)</option>\r\n\t\t\r\n
+        \ \t\t\t <option value=\"?charge=90050\">\r\n  \t\t\t Trespass - Criminal
+        trespass causing injury</option>\r\n\t\t\r\n  \t\t\t <option value=\"?charge=90025\">\r\n
+        \ \t\t\t Trespass - Criminal trespass/Aiding and Abetting</option>\r\n\t\t\r\n
+        \ \t\t\t <option value=\"?charge=25175\">\r\n  \t\t\t Unlawful Acts</option>\r\n\t\t\r\n
+        \ \t\t\t <option value=\"?charge=91190\">\r\n  \t\t\t Unlawful use DL/ID of
+        another/ Aiding and abetting</option>\r\n\t\t\r\n  \t\t\t <option value=\"?charge=91116\">\r\n
+        \ \t\t\t Unlawful use of authentic DL/ID of another (1)</option>\r\n\t\t\r\n
+        \ \t\t\t <option value=\"?charge=91117\">\r\n  \t\t\t Use any DL/ID to obtain
+        alcohol</option>\r\n\t\t\r\n  \t\t\t <option value=\"?charge=93511\">\r\n
+        \ \t\t\t Use open flame in drinking establishment</option>\r\n\t\t\r\n  \t\t\t
+        <option value=\"?charge=23955\">\r\n  \t\t\t Vehicle Use Tax Evasion</option>\r\n\t\t\r\n
+        \ \t\t\t <option value=\"?charge=96150\">\r\n  \t\t\t Violate custodial order</option>\r\n\t\t\r\n
+        \ \t\t\t <option value=\"?charge=96120\">\r\n  \t\t\t Violate harassment/stalking
+        protective order (4)</option>\r\n\t\t\r\n  \t\t\t <option value=\"?charge=96100\">\r\n
+        \ \t\t\t Violate no-contact, domestic abuse protective order (1)</option>\r\n\t\t\r\n
+        \ \t\t\t <option value=\"?charge=91149\">\r\n  \t\t\t violation of Uniform
+        Fire Code</option>\r\n\t\t\r\n  \t\t\t <option value=\"?charge=10520\">\r\n
+        \ \t\t\t Voluntary manslaughter</option>\r\n\t\t\r\n  \t\t\t <option value=\"?charge=13320\">\r\n
+        \ \t\t\t Willful Injury - Joint Criminal Conduct</option>\r\n\t\t\r\n  \t\t\t
+        <option value=\"?charge=13305\">\r\n  \t\t\t Willful Injury Causing Bodily
+        Injury</option>\r\n\t\t\r\n  \t\t\t <option value=\"?charge=13300\">\r\n  \t\t\t
+        Willful Injury Causing Serious Injury (1)</option>\r\n\t\t\r\n  \t\t\t <option
+        value=\"?charge=13350\">\r\n  \t\t\t Willful Injury/aiding &amp; Abetting</option>\r\n\t\t\r\n\t\t</select></p>\r\n\t\t</div>\r\n\t</div>\r\n</div>\r\n<p>Note
+        : In the C/A field, 'C' stands for charged and released. 'A' stands for custodial
+        arrest (i.e. taken to jail).</p>\r\n<table cellpadding=\"3\" cellspacing=\"1\"
+        style=\"background-color: #333;\" class=\"full\">\r\n<tbody valign=\"top\">\r\n\t<tr
+        style=\"color: #eee;\">\r\n\t\t<th><strong>Name</strong><br />\r\n\t\t<span
+        class=\"small\">Address</span></th>\r\n\t\t<th><strong>Offense Date</strong><br
+        /><span class=\"small\">Date of Birth</span></th>\r\n\t\t<th><!--<strong>Arresting
+        Officer(s)</strong><br />--><span class=\"small\">Arrest Location</span></th>\r\n\t\t<th><strong>Incident
+        #</strong></th>\r\n\t\t<th><strong>C/A</strong></th>\r\n\t\t<th><strong>Charge(s)</strong></th>\r\n\t</tr>\r\n\r\n\t<tr
+        style=\"background-color: #fff;\">\r\n\t\t<td colspan=\"6\"><strong>No arrests
+        found.</strong></td>\r\n\t</tr>\r\n\r\n</tbody>\r\n</table>\r\n\r\n<p class=\"alignCenter\">The
+        arrest blotter is normally updated twice a day.</p>\r\n\r\n<h2>* Here is a
+        list of some of the abbreviations found on the arrest blotter : </h2>\r\n<ul>\r\n\t<li><strong>DUS</strong>
+        - Driving Under Suspension</li>\r\n    <li><strong>IWOA</strong> - Interference
+        With Official Acts</li>\r\n    <li><strong>OWI</strong> - Operating a motor
+        vehicle While\r\n    Intoxicated</li>\r\n    <li><strong>PAULA</strong> -
+        Possession of Alcohol Under\r\n      the Legal Age</li>\r\n</ul>\r\n\r\n </div>\r\n
+        \           </div>\r\n\r\n            <div id=\"leftCol\">\r\n                \r\n
+        \                   <p><img src=\"/site/CMSv2/Image/police/ICPD-patch.jpg\"
+        alt=\"Iowa City Police Deptartment\" /></p>\r\n                \r\n                \r\n
+        \               <div id=\"nav\">\r\n\t\t\t\t\t<ul><li><a href=\"http://www.icgov.org/\">ICgov.org
+        Home</a></li><li><a href=\"http://www.icgov.org/?id=1318\" class=\"b\">Police
+        Department</a><ul><li><a href=\"http://www.icgov.org/default/apps/police/pastArticles.asp\">Past
+        Articles</a></li><li><a href=\"http://www.icgov.org/?id=1319\">Chief&#039;s
+        Welcome</a></li><li><a href=\"http://www.icgov.org/site/CMSv2/File/cityCouncil/under21FAQ.pdf\">Under
+        21 FAQ - PDF</a></li><li><a href=\"http://www.icgov.org/?id=2089\">Police
+        Substation</a></li><li><a href=\"http://www.icgov.org/?id=1320\">Community
+        Policing</a></li><li><a href=\"http://www.icgov.org/?id=1991\">Crime Prevention</a></li><li><a
+        href=\"http://www.icgov.org/?id=1321\">Contact Us</a></li><li><a href=\"http://www.icgov.org/?id=1322\">The
+        Organization</a></li><li><a href=\"http://www.icgov.org/?id=1323\">Employment</a></li><li><a
+        href=\"http://www.icgov.org/?id=1324\">FAQ</a></li><li><a href=\"http://www.icgov.org/?id=1325\">Other
+        Links</a></li><li><a href=\"http://www.icgov.org/?id=1326\">Child Restraint
+        Law</a></li><li><a href=\"http://www.icgov.org/default/apps/police/bac.asp\">BAC
+        Calculator</a></li><li><a href=\"http://www.icgov.org/default/apps/police/speedSurvey.asp\">Speed
+        Survey Reports</a></li><li><a href=\"http://www.icgov.org/default/apps/police/mostWanted.asp\">Most
+        Wanted</a></li><li><a href=\"http://www.icgov.org/default/apps/police/missingPersons.asp\">Missing
+        Persons</a></li><li><a href=\"http://www.icgov.org/default/apps/police/investigations.asp\">Ongoing
+        Investigations</a></li><li><a href=\"http://www.icgov.org/?id=1965\">Annual
+        Report</a></li><li><a href=\"http://www.icgov.org/?id=1328\">General Orders</a></li><li><a
+        href=\"http://www.icgov.org/?id=1337\">Bar Check Reports</a></li><li><a href=\"http://www.icgov.org/?id=1339\">Radar
+        Sites</a></li><li><a href=\"http://www.icgov.org/?id=2091\">Top Crash Locations</a></li><li><a
+        href=\"http://www.iowa-city.org/icgov/apps/police/blotter.asp\" class=\"b\">Arrest
+        Blotter</a></li><li><a href=\"http://www.icgov.org/?id=2088\">Arrest Statistics</a></li><li><a
+        href=\"http://www.iowa-city.org/icgov/apps/police/activityLog.asp\">Daily
+        Activity Log</a></li><li><a href=\"https://sslws043.alentus.com/icgov/pol/\">Online
+        Reporting</a></li></ul></li></ul>\r\n                </div>\r\n                      \r\n\t\t\t\t\r\n
+        \           </div>\r\n        </article>\r\n\r\n        <div id=\"top\">\r\n
+        \   \t    <a href=\"http://www.icgov.org/?id=2230\">Citizen Service Center</a>
+        | \r\n            <a href=\"http://www.icgov.org/apps/transitMap/\">Transit
+        Routes</a> | \r\n            <a href=\"http://www.icgov.org/apps/news/\">News</a>
+        | \r\n            <a href=\"http://www.icgov.org/subscribe/\">E-Subscriptions</a>
+        | \r\n            <a href=\"http://www.icgov.org/default/apps/GEN/jobs.asp\">Jobs</a>
+        | \r\n            <a href=\"http://www.icgov.org/default/apps/GEN/calendar.asp\">Calendar</a>
+        | \r\n            <a href=\"http://www.iowa-city.org/icgov/store/\">Store</a><br
+        />\r\n            <form id=\"form1\" action=\"http://search.freefind.com/find.html\"
+        method=\"get\">\r\n                <div>\r\n\t                <input type=\"hidden\"
+        name=\"id\" value=\"22872672\" />\r\n\t                <input type=\"hidden\"
+        name=\"pageid\" value=\"r\" />\r\n\t                <input type=\"hidden\"
+        name=\"mode\" value=\"ALL\" />\r\n\t                <input type=\"hidden\"
+        name=\"n\" value=\"0\" />\r\n\t                <input type=\"hidden\" name=\"_charset_\"
+        value=\"\" />\r\n\t                <input type=\"hidden\" name=\"bcd\" value=\"&#247;\"
+        />\r\n                </div>\r\n                <label>Search ICgov.org:</label>
+        \r\n                <input type=\"text\" name=\"query\" maxlength=\"150\"
+        /> \r\n                <input type=\"submit\" value=\"Search\" />\r\n            </form>\r\n
+        \       </div>\r\n    \r\n        <footer>\r\n    \t    <div class=\"clearfix\">\r\n
+        \               <div class=\"col\">\r\n                    <p><a href=\"http://www.icgov.org/default/portals/azIndex.asp\">A-Z
+        Index</a><br />\r\n                    <a href=\"http://www.icgov.org/default/portals/residents.asp\">Residents</a><br
+        />\r\n                    <a href=\"http://www.icgov.org/default/portals/business.asp\">Business</a><br
+        />\r\n                    <a href=\"http://www.icgov.org/default/portals/government.asp\">Government</a><br
+        />\r\n                    <a href=\"http://www.icgov.org/default/portals/visitors.asp\">Visitors</a></p>\r\n
+        \               </div>\r\n                <div class=\"col\">\r\n                    <p><a
+        href=\"http://www.icgov.org/?id=2230\">Citizen Service Center</a><br />\r\n
+        \                   <a href=\"http://www.icgov.org/apps/transitMap/\">Transit
+        Routes</a><br />\r\n                    <a href=\"http://www.icgov.org/apps/news/\">News</a><br
+        />\r\n                    <a href=\"http://www.icgov.org/subscribe/\">E-Subscriptions</a><br
+        />\r\n                    <a href=\"http://www.icgov.org/default/apps/GEN/jobs.asp\">Jobs</a><br
+        />\r\n                    <a href=\"http://www.icgov.org/default/apps/GEN/calendar.asp\">Calendar</a><br
+        />\r\n                    <a href=\"http://www.iowa-city.org/icgov/store/\">Store</a></p>\r\n
+        \               </div>\r\n\r\n                <p><a href=\"http://www.icgov.org/?id=2230\">Contact
+        Information</a><br />\r\n                <a href=\"http://www.icgov.org/?id=1790\">Web
+        Policies</a><br />\r\n                <a href=\"http://www.icgov.org/default/apps/GEN/empRes.asp\">City
+        Employee Resources</a></p>\r\n\r\n                <p>&nbsp;</p>\r\n\r\n                <p>Copyright
+        &copy; 2006-2012 City of Iowa City<br />\r\n                410 E Washington
+        St., Iowa City, IA 52240 Phone (319)356-5000</p>\r\n            </div>\r\n
+        \       </footer>\r\n    </div>\r\n</body>\r\n</html>"
+    http_version: 
+  recorded_at: Fri, 31 Aug 2012 20:04:22 GMT
+recorded_with: VCR 2.2.4

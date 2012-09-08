@@ -1,0 +1,17 @@
+<nav>
+  <div class="floatright">
+    <ul>
+      <li><a class="<%= controller.controller_name=='home' ? 'selectedlink' : '' %>" href="/">home</a></li>
+      <li><a class="<%= controller.controller_name=='events' ? 'selectedlink' : '' %>" href="/events">events</a></li>
+      <li><a class="<%= controller.controller_name=='news' ? 'selectedlink' : '' %>" href="/news">news</a></li>
+      <li><a class="<%= controller.controller_name=='jobs' ? 'selectedlink' : '' %>" href="/jobs">jobs</a></li>
+      <li id="navrightpadfix"><a class="<%= controller.controller_name=='resources' ? 'selectedlink' : '' %>" href="/resources">resources</a></li>
+      <span id="navbackgroundcolorchange">
+        <li id="navleftpadfix"><a class="<%= controller.controller_name=='deals' ? 'selectedlink' : '' %>" href="/deals">deals</a></li>
+        <li><a class="<%= controller.controller_name=='dining' ? 'selectedlink' : '' %>" href="dining.html">dining</a></li>
+        <li><a class="<%= controller.controller_name=='movies' ? 'selectedlink' : '' %>" href="/movies">movies</a></li>
+        <li id="navrightpadfix"><a class="<%= controller.controller_name=='tv' ? 'selectedlink' : '' %>" href="/tv">tv</a></li>
+      </span>
+    </ul>
+  </div>
+</nav>
